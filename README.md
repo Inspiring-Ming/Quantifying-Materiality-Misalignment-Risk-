@@ -1,6 +1,9 @@
 # MMRI-ESG-Banking
 
-Reproducibility materials for **"[PAPER TITLE]"**, submitted to *Technological Forecasting & Social Change*.
+Research data and reproducibility materials for **"[PAPER TITLE]"**.
+
+> **Under review.** Author and venue details are withheld while the manuscript
+> is under double-anonymized review, and will be completed on publication.
 
 **Project page → https://inspiring-ming.github.io/Quantifying-Materiality-Misalignment-Risk-/**
 
@@ -21,11 +24,11 @@ banks (ANZ, CBA, NAB, Westpac), 2021–2025, scored against 6 SASB FN-CB topics 
 | Scoring | Presence / Specificity / Quantification, 5-point anchors |
 | Primary model | Claude (`claude-opus-4-7`) · mean MMRI **0.172** |
 | Comparator | GPT (`gpt-5.4-mini`) · mean MMRI **0.464** |
-| Robustness | weight ablation · prompt ablation · 3-run stability · 30-cell human validation |
+| Robustness | weight ablation · prompt ablation · 3-run stability · 30-pair human comparison |
 
 ## Citation
 
-> [AUTHORS] ([YEAR]). *[PAPER TITLE]*. Technological Forecasting & Social Change. DOI: [ARTICLE DOI]
+> [AUTHORS] ([YEAR]). *[PAPER TITLE]*. DOI: [ARTICLE DOI]
 
 Archived release of this repository: **DOI [ZENODO DOI]**
 
@@ -63,7 +66,7 @@ MMRI-ESG-Banking/
 │   ├── coverage_scores_gpt.csv    120 GPT cells, same schema
 │   ├── mmri_results.csv           MMRI per report (primary study)
 │   ├── model_comparison.csv       Claude vs GPT MMRI, per report
-│   └── human_annotations.csv      30 human-scored cells paired with Claude
+│   └── human_annotations.csv      30 human-assessed pairs, matched to Claude
 │
 ├── prompts/
 │   ├── scoring_prompt_v2.md       The exact scoring prompt (both models)
@@ -84,7 +87,7 @@ MMRI-ESG-Banking/
 │   └── robustness/                Ablation, stability, agreement outputs
 │
 ├── figures/                       The 11 figures as they appear in the paper
-└── docs/                          Data dictionary, corpus notes, known issues
+└── docs/                          Data dictionary, corpus notes, environment, known issues
 ```
 
 ## Reproducing the results
@@ -126,9 +129,6 @@ the released scores exactly. The observed run-to-run spread is σ_mean = 0.033 p
 report over 3 runs (`results/robustness/stability_kruns_summary.csv`). To
 reproduce the *published* numbers, use the released scores in `results/`.
 
-Note that the pipeline scripts carry absolute paths from the original working
-tree; adjust the `ROOT` constant at the top of each before rerunning.
-
 ## How the index works
 
 For report *r* and topic *i*, the model assigns Presence, Specificity and
@@ -161,15 +161,17 @@ Three limits are worth stating plainly, and are discussed in the paper:
   level (0.172 vs 0.464) while agreeing only moderately per report (r = 0.578).
   The index is best read comparatively — across reports, banks and years within
   one model — not as an absolute score.
-- **Human validation is a pilot, not a reliability study.** 30 cells, one
-  annotator. It reports human–model agreement, not inter-rater reliability.
-  Agreement on fine-grained intensity is modest (see
+- **Human comparison is limited in scope.** Thirty report–topic pairs assessed
+  by one annotator. This gives an initial reference for human–model
+  correspondence, not inter-annotator reliability, and correspondence on
+  fine-grained intensity is modest (see
   `results/robustness/human_agreement_metrics.csv`).
 - **Scope is the published report.** MMRI measures disclosure against the
   benchmark, not the underlying conduct. Metrics a bank reports elsewhere — in
   an Annual Report note or an Excel data pack — count as absent.
 
-See `docs/KNOWN_ISSUES.md` for data-level caveats.
+See `docs/KNOWN_ISSUES.md` for data-level caveats, and `docs/ENVIRONMENT.md` for
+the model identifiers, software versions and what was not recorded at run time.
 
 ## License
 

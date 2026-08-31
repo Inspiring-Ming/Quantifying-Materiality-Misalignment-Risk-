@@ -230,7 +230,7 @@
 
 <header class="masthead">
   <div class="wrap">
-    <p class="eyebrow">Reproducibility materials · Technological Forecasting &amp; Social Change</p>
+    <p class="eyebrow">Research data and reproducibility materials</p>
     <h1>Quantifying materiality misalignment risk</h1>
     <p class="standfirst">
       A benchmark-based, LLM-assisted measure of the gap between what a bank's
@@ -242,7 +242,7 @@
     <div class="figures">
       <div class="fig"><span class="n">20</span><span class="k">Reports</span></div>
       <div class="fig"><span class="n">6</span><span class="k">SASB topics</span></div>
-      <div class="fig"><span class="n">240</span><span class="k">Scored cells</span></div>
+      <div class="fig"><span class="n">120</span><span class="k">Cells per model</span></div>
       <div class="fig"><span class="n">2</span><span class="k">Models</span></div>
       <div class="fig"><span class="n">568</span><span class="k">Evidence chunks</span></div>
     </div>
@@ -265,8 +265,14 @@
       language model reads the retrieved evidence and scores three dimensions on
       a five-point scale: <b>Presence</b> (is the topic addressed at all?),
       <b>Specificity</b> (how substantive is the disclosure?) and
-      <b>Quantification</b> (are the standard's mandated metrics actually
-      reported?). Coverage is their mean; misalignment is its complement.
+      <b>Quantification</b> (are the quantitative metrics specified by the
+      benchmark reported?). Coverage is their mean; misalignment is its
+      complement.
+    </p>
+    <p>
+      Each report is assessed on all six topics, giving 120 report&ndash;topic
+      pairs per model. The same 120 pairs were scored by two models, so the
+      repository holds 240 model responses in total.
     </p>
 
     <div class="formula">MMRI<sub>r</sub> = Σ<sub>i</sub> a<sub>i</sub> · w<sub>i</sub> · M<sub>r,i</sub> ⁄ Σ<sub>i</sub> a<sub>i</sub> · w<sub>i</sub>
@@ -368,7 +374,8 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
     <p>
       The index was tested four ways: against alternative topic weightings,
       against a restructured prompt, against repeated re-scoring, and against a
-      human annotator. Relative ranking holds up well. Absolute level does not.
+      human annotator. Within-model robustness is relatively strong, while
+      cross-model agreement is only moderate.
     </p>
 
     <div class="scroll">
@@ -381,7 +388,7 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
           <tr><td>Restructured prompt</td><td>r = 0.932</td><td class="muted" style="text-align:left">Ranking survives prompt design</td></tr>
           <tr><td>Three repeat runs</td><td>σ = 0.033</td><td class="muted" style="text-align:left">Modest run-to-run drift</td></tr>
           <tr><td>Second model (GPT)</td><td>r = 0.578</td><td class="muted" style="text-align:left">Only moderate agreement</td></tr>
-          <tr><td>Human annotator, 30 cells</td><td>κ = 0.468</td><td class="muted" style="text-align:left">Fine-grained intensity is hard</td></tr>
+          <tr><td>Human comparison, 30 pairs</td><td>κ = 0.468</td><td class="muted" style="text-align:left">Fine-grained intensity is hard</td></tr>
         </tbody>
       </table>
     </div>
@@ -390,9 +397,10 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
       <p>
         <strong>The honest headline:</strong> Claude and GPT, given an identical
         corpus, identical retrieval and an identical prompt, produce mean MMRI of
-        <b>0.172</b> and <b>0.464</b> respectively. The index is a comparative
-        instrument — sound for ranking reports within one model, not for reading
-        an absolute score across models.
+        <b>0.172</b> and <b>0.464</b> respectively. The results support using
+        MMRI primarily for comparative analysis within a fixed model and
+        analytical configuration, rather than interpreting absolute scores across
+        models.
       </p>
     </div>
 
@@ -425,10 +433,10 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
   report_metadata.csv     <span class="c">20 reports: URL, SHA-256, page counts</span>
   sasb_topics.csv         <span class="c">the 6 benchmark topics</span>
   retrieved_evidence.csv  <span class="c">568 chunks shown to the models</span>
-  coverage_scores.csv     <span class="c">120 cells: P/S/Q, coverage, a_i</span>
+  coverage_scores.csv     <span class="c">120 report–topic pairs per model</span>
   mmri_results.csv        <span class="c">the index, per report</span>
-  human_annotations.csv   <span class="c">30 human-scored cells</span>
-<span class="d">results/</span>       <span class="c">240 per-cell responses + audit logs</span>
+  human_annotations.csv   <span class="c">30 human-assessed pairs</span>
+<span class="d">results/</span>       <span class="c">120 responses × 2 models + audit logs</span>
 <span class="d">scripts/</span>       <span class="c">extraction → retrieval → scoring → MMRI</span>
 <span class="d">prompts/</span>       <span class="c">the exact scoring prompt, both models</span>
 <span class="d">figures/</span>       <span class="c">the 11 figures as published</span>
@@ -483,8 +491,8 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
       <span>Two models on identical inputs differ substantially in level (0.172 vs 0.464) while agreeing only moderately per report. Read MMRI comparatively, within one model.</span>
     </div>
     <div class="caveat">
-      <b>Human validation is a pilot</b>
-      <span>Thirty cells, one annotator. That supports a human–model agreement statistic; it does not establish inter-rater reliability, and agreement on fine-grained intensity is modest.</span>
+      <b>Human comparison is limited in scope</b>
+      <span>Thirty report&ndash;topic pairs were assessed by one human annotator. This provides an initial reference for examining human&ndash;model correspondence, but does not establish inter-annotator reliability, and correspondence on fine-grained intensity is modest.</span>
     </div>
     <div class="caveat">
       <b>Scope is the published report</b>
@@ -499,7 +507,7 @@ w<sub>i</sub> = 1/6              equal topic weight</span></div>
 
 <footer>
   <div class="wrap col">
-    <p><b>Citation</b> — [AUTHORS] ([YEAR]). <i>[PAPER TITLE]</i>. Technological Forecasting &amp; Social Change. Archived dataset: DOI [ZENODO DOI].</p>
+    <p><b>Citation</b> — [AUTHORS] ([YEAR]). <i>[PAPER TITLE]</i>. Archived dataset: DOI [ZENODO DOI]. Citation details will be completed on publication.</p>
     <p>Code released under MIT. Derived research data under CC BY 4.0. Source reports remain the copyright of the publishing banks; the SASB FN-CB standard is © IFRS Foundation.</p>
   </div>
 </footer>
