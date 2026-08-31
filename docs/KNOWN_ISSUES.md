@@ -39,13 +39,14 @@ Treat MMRI as a **comparative** instrument within a single model, not as an
 absolute score comparable across models. Reported in `data/model_comparison.csv`
 and discussed in the paper.
 
-## 3. Human validation is a pilot
+## 3. Human comparison is limited in scope
 
-`data/human_annotations.csv` holds 30 cells scored by **one** annotator. That
-supports a human–model agreement statistic; it does **not** support an
-inter-rater reliability claim, and it is not a validation of the index.
+`data/human_annotations.csv` holds 30 report–topic pairs assessed by **one**
+annotator. That provides an initial reference for human–model correspondence;
+it does **not** support an inter-annotator reliability claim, and it is not a
+validation of the index.
 
-Agreement on fine-grained intensity is modest (Pearson r ≈ 0.23–0.40 by
+Correspondence on fine-grained intensity is modest (Pearson r ≈ 0.23–0.40 by
 dimension; Cohen's κ = 0.47 on binarised Presence), and the annotator scored
 lower than the model on the soft-governance topics — financial inclusion, ESG in
 credit analysis and systemic risk — by 0.5 coverage points on average. Full

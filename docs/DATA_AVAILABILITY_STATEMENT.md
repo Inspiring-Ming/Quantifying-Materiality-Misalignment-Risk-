@@ -1,5 +1,11 @@
 # Data availability statement — replacement text
 
+> **Under double-anonymized review.** The version below names a GitHub
+> repository and is for use **after acceptance only**. For the anonymized
+> submission, use the DOI-only statement in `docs/ZENODO_DEPOSIT.md`, which
+> cites a reserved Zenodo DOI and no personal URL.
+
+
 The current statement in `paper.tex` is internally inconsistent: it says the data
 are "available on request" and then describes "the repository". It also points at
 working directory names (`Claude model experiment/`, `GPT model expriements/`)
@@ -25,8 +31,8 @@ six SASB FN-CB topic definitions, the 568 retrieved evidence chunks shown to the
 models, all 120 per-cell Presence/Specificity/Quantification scores with model
 rationales and evidence citations for both Claude and GPT, the coverage,
 misalignment, applicability and MMRI values, the exact scoring prompt, the
-weight, prompt and repeat-run robustness outputs, the 30 human validation
-annotations, and the scripts that generate every table and figure in this paper.
+weight, prompt and repeat-run robustness outputs, the 30 human-assessed
+report--topic pairs, and the scripts that generate every table and figure in this paper.
 
 The 20 source sustainability reports are published by the respective banks and
 are not redistributed, as they remain those institutions' copyright. The
@@ -43,7 +49,7 @@ be reconstructed and confirmed.
 > The repository contains the corpus manifest with source URLs and SHA-256
 > checksums for all 20 reports, the SASB FN-CB topic definitions, the retrieved
 > evidence, all per-cell scores with model rationales and citations for both
-> models, the MMRI values, the exact prompts, all robustness and human-validation
+> models, the MMRI values, the exact prompts, all robustness and human-comparison
 > outputs, and the scripts generating every table and figure. The source
 > sustainability reports are not redistributed as they remain the publishing
 > banks' copyright; the repository records a URL, access date and checksum for
