@@ -1,0 +1,1866 @@
+{
+  "_file": "gpt_v2_stage2_llm_coverage_scores.json",
+  "_purpose": "Per-cell GPT scores generated with canonical scoring_prompt_v2.md",
+  "_model": "gpt-5.4-mini",
+  "_prompt_source": "prompts/scoring_prompt_v2.md",
+  "_n_reports_scored": 20,
+  "_n_cells_scored": 120,
+  "ANZ_2021_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses business ethics through whistleblower policy, speak-up channels, anti-bribery/anti-corruption controls, code of conduct requirements, training, and investigation outcomes. It also describes corrective actions such as warnings, terminations, and process improvements. However, it does not show the SASB-required monetary losses from legal proceedings.",
+      "specificity_rationale": "Disclosure is substantive and operational. It explains whistleblower protections, multiple reporting channels, training obligations, case management improvements, review panels, and anti-bribery/anti-corruption policy framing. It also describes how misconduct reports are handled and what actions follow investigations. The only major gap is the absence of legal-loss context tied to the SASB metric.",
+      "quantification_rationale": "The evidence includes several numbers: 157 new whistleblower reports, 1,435 employee relations cases, 114 terminations, 381 warnings, 78 employees leaving, 77% of investigated reports leading to actions, and 99.97% training completion. But it does not disclose monetary losses from legal proceedings, so the SASB quantitative metric is missing.",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0155",
+        "ANZ_2021_ESGSupplement#chunk_0153",
+        "ANZ_2021_ESGSupplement#chunk_0151",
+        "ANZ_2021_ESGSupplement#chunk_0154",
+        "ANZ_2021_ESGSupplement#chunk_0201"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses data security and privacy through breach handling, privacy policy updates, cyber risk management, third-party security, training, and threat intelligence. It directly discusses customer data protection and incident response processes. [chunk_0191], [chunk_0194], [chunk_0195], [chunk_0196]",
+      "specificity_rationale": "The disclosure is fairly detailed: it names governance owners (DPO, EDG team), internal controls, supplier assessments, mandatory training, phishing drills, incident response exercises, a privacy helpdesk, and real-time threat intelligence. It explains how the bank identifies and manages cyber/privacy risks, but it is not highly technical or exhaustive. [chunk_0191], [chunk_0194], [chunk_0195]",
+      "quantification_rationale": "Some quantification is present because the bank states it reported three data breaches to the OAIC. However, the evidence does not give the percentage of breaches involving personal data or the number of account holders/customers affected, so the SASB metric is only partially covered. [chunk_0196]",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0191",
+        "ANZ_2021_ESGSupplement#chunk_0194",
+        "ANZ_2021_ESGSupplement#chunk_0195",
+        "ANZ_2021_ESGSupplement#chunk_0196"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG incorporation in lending through the Equator Principles, the Social and Environmental Risk Policy, and examples of project finance decisions that assessed environmental and social risks before approval. However, the evidence is focused on project finance cases rather than a broad credit-analysis framework across the bank's lending book.",
+      "specificity_rationale": "The disclosure explains how ESG risk is assessed via third-party due diligence, Equator Principles categorization, and loan covenants, and it notes approval conditions tied to environmental and social management. It does not clearly name internal governance/accountability roles or show how ESG is embedded in ordinary creditworthiness assessment beyond these project examples.",
+      "quantification_rationale": "There are a few concrete numbers and classifications, such as two solar farms, one infrastructure facility, and Category B/C designations. But the key SASB metric, an industry-by-industry commercial and industrial credit exposure breakdown, is absent, and there are no portfolio-wide targets or measured credit-analysis metrics.",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0215",
+        "ANZ_2021_ESGSupplement#chunk_0216",
+        "ANZ_2021_ESGSupplement#chunk_0217",
+        "ANZ_2021_ESGSupplement#chunk_0219"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report touches the topic only indirectly: it says ANZ engaged with 100 of its largest emitting business customers on low-carbon transition plans and notes that its SBTi-aligned target excludes financing activities (Scope 3). That shows awareness of financed-emissions-related risk, but it does not actually disclose financed emissions.",
+      "specificity_rationale": "Disclosure is very limited and mostly contextual. It references customer transition plans and explicitly says financing emissions are excluded from the target, but provides no discussion of financed-emissions methodology, sector/industry exposure, or how the bank measures its lending footprint.",
+      "quantification_rationale": "No financed-emissions numbers are shown. The evidence includes counts for customer engagement and general Scope 1/2 reduction targets, but not absolute Scope 1/2/3 financed emissions, gross exposure by industry or asset class, or percentage of exposure covered by any financed-emissions calculation.",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0009",
+        "ANZ_2021_ESGSupplement#chunk_0049",
+        "ANZ_2021_ESGSupplement#chunk_0120"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.75,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial wellbeing/capacity building through MoneyMinded, Saver Plus, savings habits, and financial wellbeing research. It shows a real initiative to support customers and communities, including vulnerable people in the Pacific. However, it does not explicitly frame this as lending to unbanked/underbanked customers or community development finance.",
+      "specificity_rationale": "The disclosure is substantive: it describes program delivery, regional partnerships, community champions, and how survey research is intended to inform product design. It also links financial wellbeing initiatives to customer behavior and broader community support. Still, it stops short of detailed discussion of underserved banking products or the full SASB topic framing.",
+      "quantification_rationale": "There are multiple figures, including around 151,600 customers supported, 64,011 MoneyMinded participants, and 3,000+ Saver Plus participants. But the evidence does not provide the SASB-required loan outstanding, past due/nonaccrual loan, or no-cost account metrics, and only partially covers financial literacy participation.",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0046",
+        "ANZ_2021_ESGSupplement#chunk_0044",
+        "ANZ_2021_ESGSupplement#chunk_0075",
+        "ANZ_2021_ESGSupplement#chunk_0004",
+        "ANZ_2021_ESGSupplement#chunk_0055"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence only indirectly touches systemic risk through banking regulation, capital adequacy, risk appetite, and stress testing language. It does not explicitly discuss systemic risk management as a standalone topic, nor G-SIB/D-SIB designation, capital resilience, or recovery/resolution planning. This is some relevant coverage, but only partial and indirect.",
+      "specificity_rationale": "Disclosure is limited to a high-level description of an enhanced climate risk management framework, refining risk appetite statements, and using scenarios to stress test portfolios. The banking regulation issue list also references capital adequacy generally. There is no substantive discussion of systemic risk governance, stress test integration into strategy, or recovery/resolution arrangements.",
+      "quantification_rationale": "No quantitative systemic-risk metrics are provided. The evidence does not include a G-SIB score, D-SIB designation, CET1 or leverage ratios, stress test results, scenario metrics, or recovery/resolution numbers. The only numbers shown are unrelated environmental targets, so Q remains zero.",
+      "citations": [
+        "ANZ_2021_ESGSupplement#chunk_0031",
+        "ANZ_2021_ESGSupplement#chunk_0094",
+        "ANZ_2021_ESGSupplement#chunk_0095"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "ANZ_2022_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report directly addresses business ethics through whistleblower policy/program details, reporting channels, investigations, anti-bribery/anti-corruption, AML/CTF, sanctions, and fraud-related conduct controls. This is clearly on-topic and substantive, even though the SASB loss metric is not shown.",
+      "specificity_rationale": "Disclosure is detailed: it explains the Whistleblower Policy and Program, employee awareness efforts, investigation outcomes, protections against reprisal, training, and corrective actions such as warnings, termination, coaching, and remediation. It also describes ABAC and AML/CTF governance. However, it still lacks a full discussion of legal proceedings losses.",
+      "quantification_rationale": "The evidence includes several metrics, such as 76% of investigated reports leading to recommended actions, 142 reports in 2022, and 195 awareness sessions. But it does not disclose the SASB-mandated monetary losses from legal proceedings, so quantification is partial rather than comprehensive.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0224",
+        "ANZ_2022_ESGSupplement#chunk_0225",
+        "ANZ_2022_ESGSupplement#chunk_0226",
+        "ANZ_2022_ESGSupplement#chunk_0277"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses data security / information security. It describes privacy risk management, cyber threat monitoring, incident response, root cause analysis, privacy training, and regulatory changes affecting data protection. It also states ANZ reported zero data breaches this year.",
+      "specificity_rationale": "Disclosure is substantive: ANZ explains its 24/7 security operations centre, monitoring for suspicious conduct, event management processes, privacy assessments, mandatory training, and responses to changing laws and emerging threats. It goes beyond a generic statement and discusses controls and governance, though it does not fully detail all SASB-required metrics.",
+      "quantification_rationale": "The evidence gives one concrete breach count: zero data breaches in the year, with a comparison to three in 2021. However, it does not provide the percentage of breaches that were personal data breaches or the number of account holders affected, so quantification is only partial.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0266",
+        "ANZ_2022_ESGSupplement#chunk_0267",
+        "ANZ_2022_ESGSupplement#chunk_0268",
+        "ANZ_2022_ESGSupplement#chunk_0029"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG incorporation in lending/credit assessment through the Equator Principles and Social and Environmental Risk Policy, including due diligence for project and business lending and decisions to approve or decline financing based on environmental and social risks. However, the disclosure is concentrated in project finance rather than a broad bank-wide credit analysis discussion. Citations: chunk_0290, chunk_0291, chunk_0292, chunk_0434.",
+      "specificity_rationale": "The disclosure gives a substantive description of the review process: third-party environmental and social due diligence, factors examined, and examples where risks led to approval conditions or refusal. It also names the Equator Principles and social/environmental risk policy. It does not explain accountability, governance oversight, or how ESG is integrated across ordinary creditworthiness assessment in enough detail for a high score. Citations: chunk_0290, chunk_0291, chunk_0292.",
+      "quantification_rationale": "There are only limited concrete numbers and classifications: examples of three solar farms, one category A project, one category B project, and one category C project. The required SASB metric on commercial and industrial credit exposure by industry is not present, and there are no portfolio-level exposure figures, targets, or metric tables for ESG-in-credit analysis. Citations: chunk_0290, chunk_0291, chunk_0292.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0290",
+        "ANZ_2022_ESGSupplement#chunk_0291",
+        "ANZ_2022_ESGSupplement#chunk_0292",
+        "ANZ_2022_ESGSupplement#chunk_0434"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report only touches the topic indirectly. It says the SBTi-based target does not include emissions from financing activities (Scope 3) and mentions extending climate risk assessment to institutional customers in higher-emitting sectors. That shows awareness of financed emissions, but there is no direct disclosure of financed emissions itself.",
+      "specificity_rationale": "Disclosure is very limited and mostly contextual. The evidence provides a high-level note that financing activities are excluded from one methodology and a target to expand climate risk work, but it does not explain any financed emissions framework, portfolio coverage, sector breakdown, or calculation approach.",
+      "quantification_rationale": "No financed emissions figures are disclosed. The evidence contains only Scope 1 and 2 targets and performance data, plus a statement that financing activities are excluded from the SBTi methodology. There are no absolute financed emissions numbers, no gross exposure by industry, and no percentage of exposure covered.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0059",
+        "ANZ_2022_ESGSupplement#chunk_0050",
+        "ANZ_2022_ESGSupplement#chunk_0116",
+        "ANZ_2022_ESGSupplement#chunk_0119"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financial inclusion through \u201cbanking the unbanked\u201d in Fiji, access to money transfer services for customers without bank accounts, and financial wellbeing/financial literacy programs. It also links inclusion research to improving products and digital accessibility, which is directly relevant to the topic.",
+      "specificity_rationale": "Disclosure is substantive: it describes the rural banking model, partnership with UNDP and Vodafone, accessibility research, digital channel inclusivity, and how insights inform products and services. It shows a strategy tied to underserved customers, not just a generic mention of inclusion.",
+      "quantification_rationale": "Quantification is limited. The evidence gives one concrete operational figure, \u201cmore than 326,000 transactions,\u201d but it does not disclose SASB-mandated metrics such as number/amount of qualifying loans, no-cost accounts, or financial literacy participants. No relevant loan or account counts are shown.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0142",
+        "ANZ_2022_ESGSupplement#chunk_0143",
+        "ANZ_2022_ESGSupplement#chunk_0156",
+        "ANZ_2022_ESGSupplement#chunk_0132"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly discusses stress testing and climate-related risk management, including APRA\u2019s Climate Vulnerability Assessment and the use of scenario analysis, stress testing, and analytics in risk management. That is enough to show the topic is addressed, though not in the full SASB systemic-risk sense. It does not discuss G-SIB/D-SIB status, capital adequacy ratios, or recovery/resolution planning.",
+      "specificity_rationale": "The disclosure gives some process detail: APRA\u2019s CVA had two stress tests, ANZ says it will refine risk appetite statements, develop data strategy, and use findings to inform credit decisions and portfolio stress testing. However, the discussion stays climate-risk focused and is not a substantive systemic-risk management narrative tied to capital planning and corporate strategy as SASB expects.",
+      "quantification_rationale": "There is limited quantification beyond the phrase that APRA\u2019s CVA comprised 'two stress tests' and the general use of scenarios. The evidence does not provide a G-SIB score, CET1 or leverage ratios, stress test results, targets, or recovery/resolution metrics. The numeric ESG targets in the table are unrelated to FN-CB-550a.",
+      "citations": [
+        "ANZ_2022_ESGSupplement#chunk_0050",
+        "ANZ_2022_ESGSupplement#chunk_0074",
+        "ANZ_2022_ESGSupplement#chunk_0077"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "ANZ_2023_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The topic is clearly addressed through the Code of Conduct, fraud/financial crime controls, whistleblower program, and misconduct reporting. The evidence explicitly discusses ethics, conduct, fraud, conflicts of interest, and whistleblower protections/channels, which maps directly to SASB FN-CB-510a.",
+      "specificity_rationale": "The disclosure is substantive: it describes the whistleblower policy, protections against reprisal, reporting channels, training, governance, investigation outcomes, and follow-up actions on misconduct. It also links conduct expectations to policy frameworks and board/employee awareness, so this is more than a passing mention.",
+      "quantification_rationale": "The evidence includes several counts and percentages, such as 170 new whistleblower reports, 1,330 employee relations cases, 99.6% training completion, and investigation outcomes. However, it does not disclose the SASB-required monetary losses from legal proceedings, so quantification is partial rather than high.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0135",
+        "ANZ_2023_ESGSupplement#chunk_0140",
+        "ANZ_2023_ESGSupplement#chunk_0141",
+        "ANZ_2023_ESGSupplement#chunk_0142",
+        "ANZ_2023_ESGSupplement#chunk_0144"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses data security through dedicated sections on data protection, privacy, and information security, including breach handling, incident management, threat intelligence, and customer/staff training. It also discusses cyber risk and emerging scams. This is directly responsive to FN-CB-230a.",
+      "specificity_rationale": "The disclosure is substantive: it explains governance, training, incident response, root-cause analysis, post-incident reviews, privacy compliance, and use of threat intelligence to refine controls. It also notes the evolving threat landscape and new security capabilities. However, it does not fully detail the regulatory environment or map all response processes in a highly granular way.",
+      "quantification_rationale": "The evidence provides one concrete metric: ANZ notified three data breaches in the year, compared with zero in 2022. But it does not state the percentage of breaches that involved personal data or the number of account holders affected, so the SASB quantitative metric is only partially satisfied.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0137",
+        "ANZ_2023_ESGSupplement#chunk_0138",
+        "ANZ_2023_ESGSupplement#chunk_0126"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The report clearly discusses ESG screening in project finance through the Equator Principles, environmental and social due diligence, and financing conditions tied to ESG risk management. However, it does not address the full SASB topic of ESG incorporation in broader credit analysis or provide industry-by-industry commercial and industrial credit exposure.",
+      "specificity_rationale": "The disclosure is moderately detailed: it names the Equator Principles, ANZ's Social and Environmental Risk Policy, due diligence steps, third-party advisers, monitoring, and how findings become financing conditions. Still, it is focused on project finance case studies rather than a bank-wide credit analysis framework with explicit accountability and oversight roles.",
+      "quantification_rationale": "No industry-by-industry credit exposure table or other required quantitative SASB metric appears in the evidence. The chunks mention project classifications such as A/B/C and specific deals, but not credit exposure by industry or quantified ESG-credit integration metrics.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0157",
+        "ANZ_2023_ESGSupplement#chunk_0158",
+        "ANZ_2023_ESGSupplement#chunk_0159",
+        "ANZ_2023_ESGSupplement#chunk_0160"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financed emissions and related climate-risk management. It references a dedicated Financed Emissions Methodology, says ANZ is engaging its 100 largest emitting customers, and discusses support for transition plans and climate risk assessment. However, it does not present the actual financed-emissions disclosure itself in the retrieved evidence.",
+      "specificity_rationale": "The disclosure is moderately specific: it names the methodology, explains the engagement approach for large emitters, and links the topic to climate risk and transition planning. But it remains high-level and largely programmatic, with no breakdown by sector, asset class, or emissions scope in the evidence shown.",
+      "quantification_rationale": "Quantification is limited to targets and counts such as 100 largest emitting customers and timing goals. The evidence does not show absolute gross financed emissions for Scope 1, 2, or 3, no gross exposure by industry or asset class, and no percentage of exposure included in the calculation. That keeps Q low.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0005",
+        "ANZ_2023_ESGSupplement#chunk_0010",
+        "ANZ_2023_ESGSupplement#chunk_0053",
+        "ANZ_2023_ESGSupplement#chunk_0055",
+        "ANZ_2023_ESGSupplement#chunk_0057"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial inclusion through the \u201cbanking the unbanked\u201d program in the Pacific, financial wellbeing research, and financial literacy programs such as MoneyMinded and MoneyBusiness. It also states that insights inform products and services, including ANZ Plus. This is directly relevant to the topic, though not all SASB sub-metrics are covered.",
+      "specificity_rationale": "Disclosure is substantive: it explains the purpose of the inclusion programs, who they serve, and how research feeds into product and service design. It also describes delivery channels and partnerships. However, it does not provide a complete discussion of underserved lending, no-cost accounts, or a full strategy tied to all required SASB metrics.",
+      "quantification_rationale": "There are several concrete figures, including 90,400 MoneyBusiness participants since 2005, 4,702 this year, eight coach training sessions, 280 employees trained, and a $11.7 million spend with Indigenous businesses. But the evidence does not show the key SASB loan outstanding, past due, or no-cost account metrics, so quantification is partial rather than comprehensive.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0108",
+        "ANZ_2023_ESGSupplement#chunk_0078",
+        "ANZ_2023_ESGSupplement#chunk_0090",
+        "ANZ_2023_ESGSupplement#chunk_0050",
+        "ANZ_2023_ESGSupplement#chunk_0080"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report mentions climate risk data strategy, scenario analysis, and stress testing, so the topic is touched on in a risk-management context. However, it does not address systemic risk management directly, nor does it mention G-SIB/D-SIB designation, regulatory capital ratios, or recovery/resolution arrangements.",
+      "specificity_rationale": "Disclosure is brief and indirect: it references developing a data strategy and using climate change risk assessment methodology to support engagement with high-emitting customers. It does not explain how mandatory/voluntary stress test results feed into capital adequacy planning, corporate strategy, or broader business activities.",
+      "quantification_rationale": "No topic-relevant SASB metrics are provided. The evidence contains some quantified climate targets, but nothing on G-SIB score, CET1, leverage ratios, stress test outcomes, or systemic-risk-specific measures required for this topic.",
+      "citations": [
+        "ANZ_2023_ESGSupplement#chunk_0047",
+        "ANZ_2023_ESGSupplement#chunk_0055"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "ANZ_2024_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses business ethics through whistleblower policy, misconduct reporting channels, protections, and anti-bribery/anti-corruption controls. It discusses allegations, investigations, and remediation actions, so the topic is directly covered. However, it does not provide the SASB-required legal-loss disclosure for fraud, insider trading, antitrust, or related proceedings.",
+      "specificity_rationale": "Disclosure is fairly detailed: it describes the Whistleblower Policy and Program, speak-up channels, annual training, awareness campaigns, employee survey feedback, and types of allegations plus actions taken on reports. It also covers ABAC governance and third-party due diligence. The main gap is the absence of a clear discussion of legal proceedings tied to the SASB metric.",
+      "quantification_rationale": "The evidence includes several concrete counts, such as 216 awareness sessions, 222 new whistleblower reports, and 99.85% training completion. But it does not disclose monetary losses from legal proceedings, which is the key SASB quantitative metric for this topic. Quantification is therefore partial rather than strong.",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0075",
+        "ANZ_2024_ESGSupplement#chunk_0076",
+        "ANZ_2024_ESGSupplement#chunk_0183",
+        "ANZ_2024_ESGSupplement#chunk_0186"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "presence_rationale": "The topic is clearly addressed through multiple disclosures on data protection, privacy risk management, cyber security, and data breaches. The report says ANZ has a Data Event Management process, privacy risk assessments, privacy training, third-party controls, and explicitly discusses cyber events and data breaches in 2024.",
+      "specificity_rationale": "The evidence gives a substantive description of how ANZ identifies and addresses data security risk: DEM triggers, privacy impact assessments, mandatory privacy learning, third-party procurement controls, oversight of privacy risk, and response to emerging cyber threats and scam trends. It also mentions the regulatory environment and cross-border privacy laws, which aligns well with the SASB discussion requirement.",
+      "quantification_rationale": "There is some quantification: ANZ reported one data breach in 2024 and notified one impacted individual. However, the evidence does not provide the percentage of breaches involving personal data, so the SASB quantitative metric is only partially met. That supports a mid-level quantification score rather than a high one.",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0143",
+        "ANZ_2024_ESGSupplement#chunk_0142",
+        "ANZ_2024_ESGSupplement#chunk_0124",
+        "ANZ_2024_ESGSupplement#chunk_0144"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG integration in lending and credit risk. It names the Social and Environmental Risk Policy, Social and Environmental Risk Standard, Equator Principles, Enhanced Human Rights Due Diligence, and screening tools, and explains that bankers consider social, environmental, and climate risks in relation to large business customers and project finance. [ANZ_2024_ESGSupplement#chunk_0191] [ANZ_2024_ESGSupplement#chunk_0196] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+      "specificity_rationale": "Disclosure is fairly detailed on process and governance: it identifies policies/standards, responsible forums, due diligence steps, project finance conditions, and how issues are mitigated through documentation and monitoring. However, it does not fully explain accountability lines or provide a clear end-to-end creditworthiness integration framework for all lending. [ANZ_2024_ESGSupplement#chunk_0191] [ANZ_2024_ESGSupplement#chunk_0196] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+      "quantification_rationale": "The evidence contains some qualitative categorization like Category A/B project ratings and mentions specific project examples, but it does not provide the SASB-required industry-by-industry commercial and industrial credit exposure breakdown. It also lacks targets, portfolio metrics, or other quantitative measures of ESG incorporation in credit analysis. [ANZ_2024_ESGSupplement#chunk_0198] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0191",
+        "ANZ_2024_ESGSupplement#chunk_0196",
+        "ANZ_2024_ESGSupplement#chunk_0198",
+        "ANZ_2024_ESGSupplement#chunk_0199",
+        "ANZ_2024_ESGSupplement#chunk_0200"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The report explicitly addresses financed emissions through repeated references to \u201ctransitioning our lending portfolio to net zero financed emissions\u201d and \u201cNet-zero financed emissions.\u201d It also frames this within the bank\u2019s climate strategy and transition plan, so the topic is clearly present rather than incidental.",
+      "specificity_rationale": "The disclosure gives strategy-level detail: a board-approved five-year Climate and Environment Strategy, ambitions for lending portfolio transition, support for large business customers, and references to sectoral pathways and transition planning. However, it remains high-level and does not explain a financed-emissions methodology or provide operational detail on calculation choices.",
+      "quantification_rationale": "No absolute financed emissions figures are shown, and none of the required SASB quantitative elements appear: no Scope 1/2/3 financed emissions amounts, no gross exposure by industry or asset class, and no percentage of gross exposure covered by the calculation. The evidence is directional, not metric-based.",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0084",
+        "ANZ_2024_ESGSupplement#chunk_0082",
+        "ANZ_2024_ESGSupplement#chunk_0274"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The evidence clearly addresses financial inclusion and capacity building through MoneyMinded, MoneyBusiness, First Nations customer support, interpreter services, and hardship support. It shows the bank is actively serving underserved or vulnerable customers, so the topic is directly covered.",
+      "specificity_rationale": "The disclosure gives program detail, target customer groups, delivery channels, and an explicit strategy response: MoneyMinded content was revamped in 2024 due to the current financial environment, and support is tailored for First Nations and culturally and linguistically diverse customers. However, it does not fully connect outcomes to product design across the topic.",
+      "quantification_rationale": "There are several concrete figures for participation and support, including more than one million cumulative MoneyMinded participants, 118,021 this year, 22,617 participants in Asia-Pacific and New Zealand, and more than 440 accredited coaches. But the required SASB loan and no-cost account metrics are absent, so quantification is partial.",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0114",
+        "ANZ_2024_ESGSupplement#chunk_0116",
+        "ANZ_2024_ESGSupplement#chunk_0155",
+        "ANZ_2024_ESGSupplement#chunk_0157",
+        "ANZ_2024_ESGSupplement#chunk_0161"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report touches systemic-risk-adjacent topics such as balance sheet management, capital, liquidity and funding positions, risk management, and APRA-imposed capital overlays. However, it does not clearly address systemic risk management as a dedicated disclosure, nor does it mention G-SIB/D-SIB status, stress tests, or resolution planning. The evidence shows partial relevance rather than full topic coverage.",
+      "specificity_rationale": "The disclosure is mostly high-level. It references non-financial risk management, APRA oversight, and internal audit/culture reviews, but gives little detail on how stress tests inform capital planning or strategy. There is no description of specific scenarios, governance linkage to systemic-risk oversight, or recovery and resolution arrangements. This is more contextual risk governance than substantive FN-CB-550a disclosure.",
+      "quantification_rationale": "No relevant quantitative systemic-risk metrics are shown. The evidence does not provide a G-SIB score, CET1 or leverage ratios, stress-test outcomes, or any numeric capital planning inputs tied to systemic risk. The only capital reference is a qualitative mention of an APRA capital overlay, without a value or related metric.",
+      "citations": [
+        "ANZ_2024_ESGSupplement#chunk_0050",
+        "ANZ_2024_ESGSupplement#chunk_0067",
+        "ANZ_2024_ESGSupplement#chunk_0069",
+        "ANZ_2024_ESGSupplement#chunk_0080"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "ANZ_2025_ESGReport": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses business ethics through whistleblower policy/program disclosure, anti-bribery and anti-corruption, anti-fraud, and financial crime controls. It describes reporting channels, oversight, investigations, and outcomes, so the topic is directly covered.",
+      "specificity_rationale": "Disclosure is substantive: it explains the whistleblower policy, eligible reporters, protections, training, board oversight, reporting channels, investigation handling, and corrective actions from substantiated cases. It also links ethics controls to ABAC, AML/CTF, fraud, and insider misconduct.",
+      "quantification_rationale": "The evidence includes some quantitative detail on whistleblower activity and training, such as 264 reports, 61% assessed reports within scope, and 201 awareness sessions. However, it does not disclose monetary losses from legal proceedings, which is the key SASB metric, so quantification remains limited.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0064",
+        "ANZ_2025_ESGReport#chunk_0065",
+        "ANZ_2025_ESGReport#chunk_0120",
+        "ANZ_2025_ESGReport#chunk_0007",
+        "ANZ_2025_ESGReport#chunk_0036"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "presence_rationale": "The evidence directly addresses data protection/privacy as a material ESG issue and describes ANZ\u2019s approach to safeguarding personal information, privacy governance, training, and incident reporting. It is clearly on-topic for data security under FN-CB-230a.",
+      "specificity_rationale": "The disclosure is substantive: it explains oversight, privacy policy, mandatory training, privacy impact assessments, speak-up channels, and reform preparation. It also describes how privacy risks are identified and mitigated. However, it does not clearly discuss cyber attack vectors or the broader emerging threat landscape in depth.",
+      "quantification_rationale": "The report provides concrete figures for breaches and impacted individuals: four data breaches across markets, three notifiable privacy breaches at ANZ Bank New Zealand, and one incident affecting a single individual plus four impacted individuals in NZ. It does not state the percentage of breaches that were personal data breaches, so the SASB metric is incomplete.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0117",
+        "ANZ_2025_ESGReport#chunk_0118",
+        "ANZ_2025_ESGReport#chunk_0119"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.0,
+      "presence_rationale": "The report clearly addresses ESG factors in lending and credit-related risk analysis through the Social and Environmental Risk Screening Tool, the Equator Principles framework, and human rights due diligence for large business customers and project finance. It also states Board and committee oversight. This is directly on-topic for incorporation of ESG factors in credit analysis.",
+      "specificity_rationale": "The disclosure is substantive: it names the framework, explains that it is used to identify, assess, and manage social and environmental risks in financing, and identifies governance oversight by the Board and the Social and Environmental Risk Executive Committee. However, it does not fully spell out how ESG factors change creditworthiness assessment or provide an industry-by-industry credit exposure breakdown.",
+      "quantification_rationale": "No relevant quantitative disclosure is shown for this topic. The evidence does not include commercial and industrial credit exposure by industry, nor any numeric targets or metrics for ESG integration in credit analysis. The few numbers mentioned elsewhere are unrelated to this SASB topic.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0128",
+        "ANZ_2025_ESGReport#chunk_0171"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report explicitly discusses financed emissions, stating that lending contributes to financed emissions and that ANZ has sectoral pathways and targets to transition lending to net zero financed emissions by 2050. It also references the 2025 Climate Report for further detail on climate and environment targets and progress. This is clearly on-topic, even if the disclosure is high level.",
+      "specificity_rationale": "The disclosure gives some substantive context on how ANZ frames financed emissions within its transition planning, including sectoral pathways, large customer engagement, and references to methodology. However, it does not provide a focused financed-emissions disclosure with the SASB-required elements or a clear breakdown by asset class or industry. The discussion is relevant but mostly narrative and directional.",
+      "quantification_rationale": "There are some numbers in the surrounding climate disclosure, such as 10 sectors/sub-sectors, 77 customers in the Mature phase, and target amounts, but the evidence does not show absolute financed emissions for Scope 1, Scope 2, or Scope 3. It also does not show gross exposure by industry, the percentage of exposure covered, or a financed-emissions methodology such as PCAF in the retrieved chunks.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0088",
+        "ANZ_2025_ESGReport#chunk_0176",
+        "ANZ_2025_ESGReport#chunk_0048",
+        "ANZ_2025_ESGReport#chunk_0051",
+        "ANZ_2025_ESGReport#chunk_0182"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through First Nations financial inclusion, a First Nations Strategy, a First Nations financial education program (MoneyBusiness), and lending via the First Nations Guarantee program. It also describes partnerships aimed at supporting financial wellbeing and inclusion. However, the disclosure is not framed around the SASB topic or its full set of required metrics.",
+      "specificity_rationale": "Disclosure is substantive: it explains strategy, implementation mechanisms, and how the bank is working with First Nations communities, including financial education and targeted lending. It also shows some linkage to broader capability-building and inclusion objectives. Still, it does not give a full operational breakdown tied to underserved customer products, no-cost accounts, or a complete SASB metric discussion.",
+      "quantification_rationale": "There are concrete figures for financial education participation, lending, and program scale: 126,422 participants this year, more than 1.1 million since 2002, and more than $150 million lent through the First Nations Guarantee program. But the required SASB metrics on number/amount of qualifying loans outstanding, past due loans, and no-cost retail checking accounts are not shown, so quantification is incomplete.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0151",
+        "ANZ_2025_ESGReport#chunk_0152",
+        "ANZ_2025_ESGReport#chunk_0096"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report touches on risk governance and regulatory oversight, including APRA-related non-financial risk management remediation, the CEU, and ANZ\u2019s role with regulators in supporting financial stability. That shows some connection to systemic risk management, but it does not directly discuss the SASB topic\u2019s core elements such as stress testing, capital adequacy planning, or recovery/resolution.",
+      "specificity_rationale": "Disclosure is generic and operationally framed around non-financial risk management, regulatory engagement, and remediation programs. It does not explain how stress test results are incorporated into capital planning or strategy, nor does it describe systemic-risk controls, recovery arrangements, or resolution planning. The discussion is therefore limited and not substantive for FN-CB-550a.",
+      "quantification_rationale": "No G-SIB/D-SIB designation, stress-test outputs, CET1 or leverage ratios, or other topic-specific quantitative metrics appear in the evidence. The numbers shown are unrelated ESG targets and remediation dates, so they do not support quantification for this SASB topic.",
+      "citations": [
+        "ANZ_2025_ESGReport#chunk_0032",
+        "ANZ_2025_ESGReport#chunk_0054",
+        "ANZ_2025_ESGReport#chunk_0060"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "CBA_2021_AnnualReport_Sustainability": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses business ethics through a Group Whistleblower Policy, SpeakUP reporting, anti-corruption governance, and tax policy principles. It also frames these within broader responsible business practices. However, the evidence does not show the SASB-required legal-loss disclosure.",
+      "specificity_rationale": "The disclosure names the whistleblower policy and gives some context on reporting activity and related governance topics, including anti-corruption and tax transparency. It does not describe whistleblower procedures in detail, reporting channels, or corrective actions taken after cases, so the treatment is moderate rather than deep.",
+      "quantification_rationale": "There are some numbers tied to whistleblowing, such as 335 reports and 123 whistleblower cases, which shows limited quantification. But the evidence does not provide the SASB metric on monetary losses from legal proceedings, nor amounts tied to fraud, insider trading, antitrust, or market manipulation.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0064",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0070",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0073"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "presence_rationale": "The excerpt clearly mentions cybersecurity and fraud prevention efforts, including training to help customers prepare for and respond to cyberattacks. That shows the topic is addressed, but only at a broad awareness/training level rather than as a data security disclosure.",
+      "specificity_rationale": "The disclosure is limited to customer-facing cybersecurity training and a guide for Indigenous businesses. It does not explain how data security risks are identified, monitored, or remediated, nor does it discuss attack vectors, regulatory context, or incident response processes.",
+      "quantification_rationale": "The only numeric disclosure is 6,900 training modules delivered. The evidence does not include the SASB-relevant breach count, share of personal data breaches, or number of account holders affected, so quantification for this topic is weak.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0049"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 1
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses ESG incorporation in credit analysis: ESG risk assessment is part of the lending approval process, applies to institutional and large business bank loans, and considers each client's ESG risks and mitigations. Governance over environmental and social risks is also described. This is directly on-topic for FN-CB-410a.",
+      "specificity_rationale": "The disclosure explains the process, scope, and governance: a Group E&S Policy, an ESG risk assessment tool, a new executive-level committee, and an E&S Committee overseeing exposures. It also says the assessment is part of lending approval and considers client mitigations. However, it does not fully detail accountability lines or the exact decision thresholds used in creditworthiness assessment.",
+      "quantification_rationale": "There is some quantification, including that ESG assessment applies to all institutional bank loans and large business bank loans, plus a table with sector exposure amounts such as $5.0bn, $0.6bn, and $0.03bn. But the evidence does not provide a full industry-by-industry commercial and industrial credit exposure breakdown, so the SASB quantitative metric is only partially evidenced.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0072",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0002",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0038"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financed emissions in the business lending portfolio, including \u201cassessing the emissions intensity\u201d of lending, \u201cfinanced emissions\u201d targets, and \u201cmethodology for assessing emissions financed emissions.\u201d It also says disclosures are provided at a \u201cpriority sector level.\u201d This is directly on-topic, not just adjacent climate reporting.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention: it describes methodology changes, sector-specific assumptions, portfolio assessment, and related targets. However, it still stops short of a full SASB-style financed emissions disclosure because it does not present the required emissions inventory structure, exposure breakdowns, or coverage percentages.",
+      "quantification_rationale": "There are some numbers, such as emissions intensity of 0.22 kgCO-e/$AUD and funding targets of $15bn and $70bn, plus emissions reductions. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, gross exposure by industry and asset class, or the percentage of exposure included in the calculation. That keeps quantification low.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0005",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0042",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0045",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0046"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through financial wellbeing, support for vulnerable customers, financial literacy programs, and low-fee/basic banking products. It also links customer feedback and data to product design. This is directly relevant to FN-CB-240a, even though the exact SASB loan/account metrics are not all shown.",
+      "specificity_rationale": "Disclosure is substantive: it describes Start Smart, Community Wellbeing support, the Streamline Basic account, and using complaints and customer insights to design better products. It also explains support for Indigenous and vulnerable customers. However, it does not fully spell out the SASB topic\u2019s required loan-program detail or a complete financial inclusion strategy with all metric categories.",
+      "quantification_rationale": "The report provides several concrete figures, including 6,900 training modules, 22,500 interactions, more than 4 million students reached, and 1,700+ people in a workforce program. But it does not report the core SASB metrics on small-business/community-development loans, no-cost accounts opened for unbanked customers, or a clear participant count for financial literacy initiatives.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0049",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0051",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0057",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0058",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0059"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence addresses systemic risk only indirectly through climate-risk management and stress testing. It says climate change presents systemic risks, and the bank conducts group-wide climate stress tests and scenario analysis. However, it does not explicitly discuss broader systemic risk management, G-SIB/D-SIB status, capital adequacy planning, or recovery/resolution arrangements.",
+      "specificity_rationale": "The disclosure gives some process detail on climate scenario analysis, APRA-aligned climate vulnerability assessment, and integrating actions into the climate work program. But it stops short of the SASB-specific systemic risk discussion: no explanation of how stress-test results affect capital planning, long-term strategy, or other business activities, and no resolution framework.",
+      "quantification_rationale": "There are limited quantitative elements, such as a 13% increase in renewables exposure to $4.8 billion and references to 42%/25% emissions targets. These are not the SASB-mandated systemic risk metrics, and there is no G-SIB/D-SIB score, no regulatory capital ratios, and no quantified stress-test outcomes.",
+      "citations": [
+        "CBA_2021_AnnualReport_Sustainability#chunk_0003",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0030",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0031",
+        "CBA_2021_AnnualReport_Sustainability#chunk_0035"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "CBA_2022_SustainabilityAppendix": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The topic is clearly addressed. The evidence covers business ethics through litigation/reviews exposure and a whistleblower policy, including a speak-up culture and whistleblower cases. This directly matches FN-CB-510a coverage.",
+      "specificity_rationale": "The disclosure goes beyond a bare mention: it says the whistleblower policy is public, adheres to ASIC Regulatory Guide 270, and references a speak-up culture and SpeakUP program cases. However, it does not describe detailed procedures, escalation steps, or corrective actions, so it is substantial but not fully developed.",
+      "quantification_rationale": "There is some quantification via 317 SpeakUP Program cases and 96 whistleblower cases, but the key SASB metric on monetary losses from legal proceedings is not reported in the evidence. No dollar amount, no loss breakdown, and no quantified corrective action are shown.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0109",
+        "CBA_2022_SustainabilityAppendix#chunk_0108"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence explicitly includes the SASB Data Security topic (FN-CB-230a) and both required disclosures: the quantitative breach metric and the discussion of how CBA identifies and addresses data security risks. This is clearly on-topic and directly responsive to the SASB standard.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention by naming cybersecurity, privacy, and data management as material risks and pointing to privacy statements, secure information classification standards, and code of conduct expectations. However, it remains high-level and mostly refers the reader to other documents rather than explaining controls, processes, or threat response in detail.",
+      "quantification_rationale": "No actual year-specific figures are shown for number of data breaches, percentage involving personal data, or number of account holders affected. The excerpt only says CBA reports notifiable breaches and refers to other documents for the number, so the quantitative SASB metric is not evidenced here.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0096",
+        "CBA_2022_SustainabilityAppendix#chunk_0097"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG factors in credit analysis. It names FN-CB-410a.2, discusses E&S risk as a material risk, references an ESG risk assessment tool, an Environmental and Social Framework, and Equator Principles assessments. However, the evidence is partial and does not show the full SASB-required industry exposure table in the excerpt.",
+      "specificity_rationale": "The disclosure is substantive because it names the framework used, cites the Climate Report and Environmental and Social Framework, and indicates ESG risk assessment in lending. But it does not identify governance roles, oversight bodies, accountability, or clearly explain how ESG factors enter creditworthiness decisions, so it is not highly detailed.",
+      "quantification_rationale": "Quantification is limited. The excerpt gives only one concrete metric set: six project finance loans and two project-related refinance transactions assessed for ESG risks. It does not provide the industry-by-industry commercial and industrial credit exposure breakdown required by FN-CB-410a.1, nor targets or broader quantitative credit-analysis metrics.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0105",
+        "CBA_2022_SustainabilityAppendix#chunk_0106",
+        "CBA_2022_SustainabilityAppendix#chunk_0107"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report explicitly discusses financed emissions, says they were estimated, and states the work is aligned with the PCAF Standard. It also links the analysis to strategy and sector-level targets, so the topic is clearly addressed.",
+      "specificity_rationale": "Disclosure goes beyond a passing mention: it explains that financed emissions were estimated, identifies energy sectors as a focus area, and ties the result to net-zero strategy and sector-level targets. However, it does not provide the SASB-required breakdowns or a full methodology description.",
+      "quantification_rationale": "There are some numbers, including 1% of lending to energy sectors and 27% of 2020 financed emissions, but the evidence does not show absolute Scope 1/2/3 financed emissions, gross exposure by industry, or percentage of exposure covered. That keeps quantification low.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0012",
+        "CBA_2022_SustainabilityAppendix#chunk_0014"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through fee-free/discounted products, SME support, hardship assistance, financial literacy tools, workshops, and accessible banking initiatives. It is directly on-topic, with multiple references to underserved, newly arrived refugee, Indigenous, and multicultural customer groups.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention and describes several concrete initiatives, including financial literacy toolkits, translated materials, workshops, accessibility improvements, and support for SME programs. However, it does not fully explain the program logic, implementation details, or how outcomes feed back into product design in a detailed way.",
+      "quantification_rationale": "There are several numbers, including 69,705 business accounts, more than $4,300 million in SME Guarantee Scheme loans, 123,749 hardship accounts, and $185,054,356 in foregone revenue. However, the SASB-mandated metrics are not fully disclosed: there is no clear count and amount of qualifying loans outstanding, no-cost accounts opened, or financial literacy participants.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0104",
+        "CBA_2022_SustainabilityAppendix#chunk_0103",
+        "CBA_2022_SustainabilityAppendix#chunk_0025",
+        "CBA_2022_SustainabilityAppendix#chunk_0037",
+        "CBA_2022_SustainabilityAppendix#chunk_0017"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The topic is explicitly covered: the bank says it is not classified as a G-SIB and discusses stress testing, APRA\u2019s Climate Vulnerability Assessment, and climate scenario analysis. However, the disclosure is limited and does not fully address the broader systemic risk framework.",
+      "specificity_rationale": "The evidence gives a meaningful but partial description of systemic risk management, including regulator-submitted stress tests, climate scenario analysis, and mention of physical and transition risks. It does not explain how stress test results feed into capital adequacy planning, long-term strategy, or recovery/resolution arrangements.",
+      "quantification_rationale": "There is some numeric disclosure, notably that 74% and 63% of the lending portfolio were tested for climate-related transition and physical risks, and the bank states it is not classified as a G-SIB. But the SASB G-SIB score by category, CET1/leverage ratios, and other core quantitative metrics are not shown.",
+      "citations": [
+        "CBA_2022_SustainabilityAppendix#chunk_0111",
+        "CBA_2022_SustainabilityAppendix#chunk_0110"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "CBA_2023_SustainabilityReporting": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report directly addresses business ethics through its whistleblower disclosure, SpeakUP service, whistleblower protections, and governance over E&S risks. This is clearly relevant to FN-CB-510a, even though it does not discuss legal proceedings losses or corrective actions in detail.",
+      "specificity_rationale": "The disclosure gives concrete detail on the whistleblower channel, availability, anonymity, protections under policy and law, and the number of reports and whistleblower cases. However, it does not provide the full SASB discussion on legal losses, case context, or remediation steps, so it is substantial but incomplete.",
+      "quantification_rationale": "The evidence includes counts of SpeakUP reports and whistleblower cases, but it does not disclose monetary losses from legal proceedings or other required financial metrics for FN-CB-510a.1. The available numbers support only limited quantification.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0040"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses data security and privacy: it discusses cyber security attacks, information security policies, access management, data privacy processes, mandatory privacy training, simulations, and external reviews. This is directly relevant to FN-CB-230a and shows the topic is substantively covered.",
+      "specificity_rationale": "The disclosure gives a fairly detailed approach to managing cyber risk, including policy frameworks, access management standards, data loss prevention, simulations, internal assessments, external reviews, mandatory training, and alignment to ISO, NIST, APRA CPS 234, and ACSC Essential Eight. It explains process, controls, and response, but does not discuss breach events in detail.",
+      "quantification_rationale": "There are some numbers, such as two external reviews and references to ongoing annual training, but the required SASB metrics are not disclosed: no breach count, no percentage of personal data breaches, and no number of account holders affected. Quantitative coverage is therefore limited.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0043",
+        "CBA_2023_SustainabilityReporting#chunk_0045",
+        "CBA_2023_SustainabilityReporting#chunk_0046",
+        "CBA_2023_SustainabilityReporting#chunk_0047"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence shows general E&S governance and mentions business lending activity, but it does not directly address how ESG factors are incorporated into credit analysis. It is adjacent to the topic, not a clear disclosure of FN-CB-410a.",
+      "specificity_rationale": "There is some substantive discussion of ESG governance, including Board oversight and an E&S Committee, yet no description of ESG being integrated into creditworthiness assessment, no responsible parties for credit analysis, and no credit policy/framework tied to lending decisions.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown, targets, or other relevant metrics are shown in the retrieved evidence. The excerpts are qualitative governance statements only.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0040",
+        "CBA_2023_SustainabilityReporting#chunk_0042"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 4
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report explicitly discusses financed emissions, including sector-level financed emissions targets, a transition roadmap, and aligning lending/financing to 1.5C pathways. It also states the bank measures and reports financed emissions using PCAF and ties this to climate strategy and risk management.",
+      "specificity_rationale": "The disclosure is substantive and topic-specific: it explains climate strategy, sector-level targets, the role of lending and financing activities, and the use of a methodology standard. However, it does not provide the detailed SASB disclosure set for financed emissions, such as industry-by-asset-class exposure breakdowns or scope-level financed emissions figures.",
+      "quantification_rationale": "There are some numbers, such as a 95% reduction in Scope 1 and 2 operational emissions, a $70 billion sustainability funding target, and $44.7 billion in cumulative funding, but not the SASB-required financed emissions metrics. The evidence does not show absolute Scope 1/2/3 financed emissions, gross exposure coverage percentages, or sector-level exposure tables.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0007",
+        "CBA_2023_SustainabilityReporting#chunk_0009",
+        "CBA_2023_SustainabilityReporting#chunk_0010"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 4
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through inclusive banking, support for vulnerable customers, remote banking support for First Nations communities, and a financial literacy pilot. This is directly relevant to FN-CB-240a. However, the disclosure is broader than SASB\u2019s exact loan and account metrics.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention by describing programs, customer vulnerability support, community visits, and how those visits will inform future remote banking support. It also links financial inclusion efforts to actual service delivery. Still, it does not explain the full SASB topic structure or provide a detailed product-design strategy tied to all required metric areas.",
+      "quantification_rationale": "There are some concrete figures, including 52,277 interactions, 4,478 participants supported by the Financial Independence Hub, and 750+ impacted people supported in CommBank Next Chapter. But the evidence does not show the SASB-mandated loan outstanding, past due/nonaccrual loan, or no-cost account metrics, so quantification is only partial.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0024",
+        "CBA_2023_SustainabilityReporting#chunk_0037"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence contains only adjacent resilience and risk-control discussion, such as APRA-related remedial actions, cyber resilience testing, and recovery capability, but it does not directly address systemic risk management, capital adequacy, or stress testing. There is some topical overlap, but the SASB topic itself is not substantively discussed.",
+      "specificity_rationale": "Disclosure is general and focused on cyber security, privacy, and operational resilience. It mentions simulations, assessments, and regulatory reviews, but provides no explanation of stress-test incorporation into capital planning, long-term strategy, or recovery/resolution arrangements required for this topic.",
+      "quantification_rationale": "No G-SIB/D-SIB score, CET1 or leverage ratios, stress-test results, scenario details, or explicit capital-planning metrics are shown. The evidence is qualitative only and does not include the SASB-mandated quantitative items.",
+      "citations": [
+        "CBA_2023_SustainabilityReporting#chunk_0045",
+        "CBA_2023_SustainabilityReporting#chunk_0047"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "CBA_2024_SustainabilityReporting": {
+    "business_ethics": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence clearly addresses whistleblower policy and reporting procedures via SpeakUP, the Group Whistleblower Policy, and related governance reporting. It also touches on financial crime controls and fraud/scam prevention, which are adjacent to business ethics. However, it does not show disclosure on legal proceedings for fraud, insider trading, antitrust, or market manipulation.",
+      "specificity_rationale": "The disclosure gives some procedural detail: whistleblowers can raise concerns, the Audit Committee and an executive committee receive periodic reporting, and no grievances were raised through one process this year. That is substantive for the whistleblower metric, but it does not provide the broader business-ethics context or corrective actions expected for a high score.",
+      "quantification_rationale": "There are some numbers, including 331 SpeakUP reports and 65 considered within whistleblower cases, but the SASB-required monetary losses from legal proceedings are absent. No dollar amount is given for fraud, insider trading, antitrust, or related matters, so quantification remains low.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0081",
+        "CBA_2024_SustainabilityReporting#chunk_0082",
+        "CBA_2024_SustainabilityReporting#chunk_0043"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses cyber security, privacy, and data security as material topics and discusses protecting personal information, system-level resilience, and evolving threats. It is directly relevant to FN-CB-230a, even though it does not explicitly frame the disclosure as a breach reporting section.",
+      "specificity_rationale": "The disclosure goes beyond a mention: it describes security and privacy controls, internal review processes, privacy policy, and efforts to keep pace with regulatory and technological change. It also notes rising cyber threats and the need to minimize disruption and protect customer and employee information.",
+      "quantification_rationale": "There are some numbers in the surrounding discussion, but not the SASB-required metrics: no count of breaches, no percentage of breaches involving personal data, and no number of account holders affected. The only quantitative content is indirect, such as customer counts and scam-loss reduction, which does not satisfy the topic\u2019s metric requirements.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0078",
+        "CBA_2024_SustainabilityReporting#chunk_0012",
+        "CBA_2024_SustainabilityReporting#chunk_0008"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The report clearly addresses ESG incorporation in lending and credit processes. It says the ESG risk assessment tool is used in commercial and corporate lending, and that bankers and credit risk teams were trained on modern slavery risk. It also references an E&S Framework and assessing ESG risks faced by customers. However, it does not provide the full decision-process detail SASB asks for.",
+      "specificity_rationale": "The disclosure is moderately substantive: it names the ESG risk assessment tool, links it to commercial and corporate lending, and mentions human rights and modern slavery risks, plus banker and credit risk team training. But it does not explain oversight, accountability, who approves or monitors the framework, or exactly how ESG factors change creditworthiness decisions. The treatment is therefore partial rather than detailed.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table is shown, and there are no numeric metrics, targets, or quantified outcomes tied to ESG credit analysis. The evidence is entirely qualitative, so SASB\u2019s quantitative metric is absent.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0078",
+        "CBA_2024_SustainabilityReporting#chunk_0079"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financed emissions. It says the bank measures and reports financed emissions aligned to PCAF, discusses sector-level financed emissions targets, and provides a financed emissions estimate for the lending portfolio. This is directly relevant to FN-CB-410b.",
+      "specificity_rationale": "Disclosure is substantive, covering alignment to the PCAF Standard, a financed-emissions target-setting roadmap, coverage of lending exposure, and links to climate strategy. However, it does not explain the calculation methodology in detail or provide the full SASB breakdowns required for a top score.",
+      "quantification_rationale": "The evidence includes some quantitative data: 21.8 MtCO2-e absolute financed emissions, 95% coverage of in-scope drawn lending exposure, and targets covering 67% of 2020 financed emissions. But it does not show Scope 1/2/3 financed emissions disaggregation, gross exposure by industry/asset class, or the exact methodology detail required.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0024",
+        "CBA_2024_SustainabilityReporting#chunk_0023",
+        "CBA_2024_SustainabilityReporting#chunk_0016",
+        "CBA_2024_SustainabilityReporting#chunk_0022",
+        "CBA_2024_SustainabilityReporting#chunk_0019"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financial inclusion and access to banking, including stakeholder priority listings for financial inclusion/accessibility and detailed discussion of support for remote Indigenous communities, restoring banking access, and improving products and services for vulnerable customers. This is directly relevant to the topic, even though it is broader than the SASB metric set.",
+      "specificity_rationale": "The disclosure describes concrete actions such as the First Nations Reach program, visits to remote communities, account-opening and access restoration support, and an internal review that produced 12 product/service recommendations. However, it does not specifically discuss small-business/community-development lending programs or financial literacy initiatives in the SASB sense.",
+      "quantification_rationale": "There are some numbers in the surrounding disclosure, such as 12 recommendations and 14 remote communities visited, but none of the required SASB metrics are reported: no counts or amounts of qualifying loans, no no-cost account counts, and no participant totals for financial literacy initiatives. Quantitative coverage is therefore limited.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0010",
+        "CBA_2024_SustainabilityReporting#chunk_0046",
+        "CBA_2024_SustainabilityReporting#chunk_0061",
+        "CBA_2024_SustainabilityReporting#chunk_0070"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.25,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence mentions related themes such as risk management, banking regulation, and operational resilience, but it does not actually discuss systemic risk management, capital adequacy, stress testing, or recovery/resolution arrangements. This is only a loose topical overlap, not a substantive disclosure of FN-CB-550a.",
+      "specificity_rationale": "No chunk describes how mandatory or voluntary stress test results are incorporated into capital adequacy planning, long-term strategy, or other business activities. The material is generic stakeholder/materiality commentary and culture/governance text, with no discussion of systemic risk controls or regulatory response.",
+      "quantification_rationale": "There are no disclosed G-SIB or D-SIB scores, no explicit non-designation statement, and no capital ratio metrics such as CET1 or leverage. The evidence also lacks any quantitative stress test outcomes or related capital planning numbers.",
+      "citations": [
+        "CBA_2024_SustainabilityReporting#chunk_0008",
+        "CBA_2024_SustainabilityReporting#chunk_0010",
+        "CBA_2024_SustainabilityReporting#chunk_0014",
+        "CBA_2024_SustainabilityReporting#chunk_0075"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "CBA_2025_SustainabilityAppendix": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence explicitly maps to FN-CB-510a and discusses litigation exposure, financial crime, fraud, unethical behaviour, and a whistleblower policy. This shows the topic is directly addressed rather than implied.",
+      "specificity_rationale": "The disclosure gives more than a label: it references litigations, investigations and reviews, customer remediation, prevention of financial crime and fraud, and a whistleblower policy aligned to ASIC RG 270 with SpeakUP reporting. However, it does not fully describe corrective actions or legal-case outcomes in depth.",
+      "quantification_rationale": "There are some numbers, including 408 disclosures and 68 whistleblower cases, but no monetary losses from legal proceedings and no quantified SASB loss metric. The core required financial figure for FN-CB-510a.1 is missing.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0066",
+        "CBA_2025_SustainabilityAppendix#chunk_0067"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence explicitly covers SASB FN-CB-230a, stating that CBA reports notifiable data breaches and listing cyber security, privacy and data management as material risks. It also references actions on protecting customers from data breaches and security incidents, so the topic is clearly addressed.",
+      "specificity_rationale": "The disclosure is mostly an index cross-reference. It names the risk area and points to other documents for details, but the evidence shown does not explain the bank's cyber risk identification process, response controls, attack vectors, or regulatory environment in substantive terms.",
+      "quantification_rationale": "No actual FY25 breach count, percentage involving personal data, or number of affected account holders appears in the evidence. The text only says the bank is required to report notifiable breaches and refers the reader to other reports for the metric definition and details.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0056",
+        "CBA_2025_SustainabilityAppendix#chunk_0057"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The topic is directly addressed in the SASB index and supporting text. The report states that E&S risk is a material risk, describes an E&S Framework and internal E&S Policy, and references an ESG risk assessment tool and credit-risk embedding. It also includes governance context and related supporting locations.",
+      "specificity_rationale": "Disclosure is substantive: it names the E&S Framework, internal Group E&S Policy, business-unit procedures, and an ESG risk assessment tool, and says the framework was updated this year. It also identifies board oversight. However, the evidence does not spell out a full step-by-step credit approval process or detailed integration criteria for all lending decisions.",
+      "quantification_rationale": "There is very limited quantification. The evidence gives one number, 13 EP project finance transactions, but it does not provide the required industry-by-industry commercial and industrial credit exposure breakdown or other SASB-mandated quantitative exposure metrics for this topic. That keeps Q low despite some numeric disclosure.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0062",
+        "CBA_2025_SustainabilityAppendix#chunk_0010",
+        "CBA_2025_SustainabilityAppendix#chunk_0013"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence explicitly identifies the financed emissions topic and SASB FN-CB-410b metric codes, and the climate strategy text discusses sector-level financed emissions goals, client transition plans, and emissions-focused lending criteria.",
+      "specificity_rationale": "Disclosure is substantive: it describes how financed emissions are managed through sector-level goals, transition plan requirements, and portfolio rebalancing. However, the evidence does not spell out the calculation methodology or provide the underlying emissions tables, so it is not fully detailed.",
+      "quantification_rationale": "There are some numbers and targets in the narrative, such as 2030 goals, 2050 net zero, and 12 of 15 sector-level goals, but the evidence does not show absolute Scope 1/2/3 financed emissions, exposure coverage percentages, or industry-by-asset-class breakdowns required by SASB.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0038",
+        "CBA_2025_SustainabilityAppendix#chunk_0063",
+        "CBA_2025_SustainabilityAppendix#chunk_0066",
+        "CBA_2025_SustainabilityAppendix#chunk_0002",
+        "CBA_2025_SustainabilityAppendix#chunk_0003"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through fee-free or discounted banking products, hardship support, and references to financial assistance and community programs. However, the evidence only partially maps to the SASB topic and does not directly discuss the full set of required small-business/community-development lending and underserved-customer access metrics.",
+      "specificity_rationale": "The disclosure gives some program-level detail, including Business Banking fee-free/discounted products, Financial Assistance support, and references to community investment and customer inclusion pages. It is still broad and mostly descriptive, with limited explanation of how results feed product design or how initiatives are targeted to unbanked or underbanked customers.",
+      "quantification_rationale": "There are some numbers, such as $4,241,610 in business forgone revenue, 106,930 hardship requests, and $277.99 million in retail forgone revenue. But the SASB-required metrics are not fully shown: no number/amount of qualifying loans outstanding, no number of no-cost retail accounts, and no participant counts for financial literacy initiatives.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0059",
+        "CBA_2025_SustainabilityAppendix#chunk_0060"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence directly addresses systemic risk management: it states the Group is not classified as a G-SIB but discloses against G-SIB indicators, and it says stress test results are submitted to the regulator and discussed in annual report/climate disclosures. This is clearly on-topic and not incidental.",
+      "specificity_rationale": "The disclosure gives a limited but relevant description of approach: stress testing is submitted to the regulator, linked to annual report risk management, and tied to climate-risk analysis and portfolio resilience. However, it does not explain detailed stress test scenarios, capital planning integration, or recovery/resolution arrangements in depth.",
+      "quantification_rationale": "There is some quantification, including the statement that the bank is not a G-SIB and the testing of 47% and 89% of lending portfolios. But the SASB-mandated G-SIB score by category is not provided, and there are no CET1 or leverage ratios, so quantitative coverage is partial.",
+      "citations": [
+        "CBA_2025_SustainabilityAppendix#chunk_0067",
+        "CBA_2025_SustainabilityAppendix#chunk_0071"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "NAB_2021_AnnualReview": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses business ethics through its Whistleblower Program, Code of Conduct breaches, investigation process, reporting channels, confidentiality, and consequences for wrongdoing. It also mentions litigation/disputes in general. This is direct evidence that the topic is covered.",
+      "specificity_rationale": "Disclosure is fairly detailed: it describes the whistleblower program, FairCall hotline, anonymous reporting, independent investigations, professional standards forums, and corrective consequences. It also explains how the bank measures speak-up culture. However, it does not discuss monetary losses from ethics-related legal proceedings.",
+      "quantification_rationale": "The evidence includes several concrete metrics: 190 wrongdoing disclosures, 53 substantiated, 117 unsubstantiated, 20 under investigation, 4,740 Code of Conduct breaches, and survey percentages. But it does not provide the SASB-mandated monetary losses from legal proceedings, so quantification is partial rather than complete.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0085",
+        "NAB_2021_AnnualReview#chunk_0086",
+        "NAB_2021_AnnualReview#chunk_0087",
+        "NAB_2021_AnnualReview#chunk_0209"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses data security and privacy. It describes cyber security controls, privacy governance, a phishing incident, and a notifiable event involving customer data, plus mitigation actions such as hardening authentication controls and improving information security controls.",
+      "specificity_rationale": "The disclosure gives a substantive description of the bank\u2019s approach: benchmarking against NIST CSF, expanding security efforts, investing in a Global Privacy function, and assigning responsibility for policy, training, compliance, and partnerships. It also discusses the threat landscape and response actions, though not in detailed incident-report form.",
+      "quantification_rationale": "There is some incident-level quantification in the sense that the report notes no direct OAIC notifications and identifies specific events affecting limited customer data. However, it does not provide the SASB metrics requested: no explicit breach count for the year, no percentage of personal data breaches, and no number of account holders affected.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0171",
+        "NAB_2021_AnnualReview#chunk_0170"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.0,
+      "presence_rationale": "The report directly says ESG risk assessment is part of credit risk assessment and due diligence, and that ESG settings trigger assessment during loan origination, onboarding, and review. It also names governance escalation to executive, board risk and compliance committees. This is clearly on-topic for ESG factors in credit analysis.",
+      "specificity_rationale": "The disclosure explains the operating approach: a High Risk ESG Sectors and Sensitive Areas list, screening of customers and suppliers, triggering of ESG risk assessment, and escalation through committee governance. It also links ESG assessment to credit policy settings. However, it does not give a detailed framework for how ESG changes creditworthiness decisions or who has final accountability.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown is shown, and there are no targets, percentages, balances, or other quantitative SASB metrics for this topic. The evidence is qualitative only.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0173",
+        "NAB_2021_AnnualReview#chunk_0174",
+        "NAB_2021_AnnualReview#chunk_0177",
+        "NAB_2021_AnnualReview#chunk_0178"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "presence_rationale": "The report directly addresses financed emissions, including an explicit section on 'Understanding our financed emissions' and discussion of how lending activities are linked to emissions and the low-carbon transition. It also mentions expanding attributable financed emissions coverage and using this baseline for monitoring. The topic is clearly present, not just implied.",
+      "specificity_rationale": "The disclosure is substantive: it explains why financed emissions matter, describes the bank's approach, notes sector expansion, and references the Partnership for Carbon Accounting Financials methodology. It also discusses decarbonisation pathways and customer transition support. However, it does not fully provide the SASB-required breakdowns, especially scope 1/2/3 financed emissions.",
+      "quantification_rationale": "There are concrete figures: 10,885,840 tCO2-e, 50.7% coverage of Group EAD, 24.1 tonnes per $1 million financed, and prior-year 18,437,681 tCO2-e. But the evidence does not show absolute financed emissions split into Scope 1, 2, and 3, nor a gross exposure-by-industry-by-asset-class table. That keeps Q below the top anchor.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0097",
+        "NAB_2021_AnnualReview#chunk_0098",
+        "NAB_2021_AnnualReview#chunk_0119",
+        "NAB_2021_AnnualReview#chunk_0094"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.75,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses support for Indigenous business and economic inclusion, including a dedicated Indigenous business strategy, a new team, roundtables, and a customer value proposition for Indigenous Community customers. This is materially aligned with financial inclusion and underserved-customer support, even though the SASB topic is not named directly and the exact mandated metrics are not shown.",
+      "specificity_rationale": "Disclosure is substantive and strategy-oriented: it explains an ambition to close participation gaps, describes the Indigenous business strategy, and lists concrete initiatives such as roundtables, supply-chain spend, and cultural-awareness forums. However, it focuses on Indigenous business support rather than a broader, fully developed financial inclusion program covering all SASB elements.",
+      "quantification_rationale": "There is some quantitative content, including $4.3 million spent with Indigenous businesses and an assurance appendix item for 'number and dollar value of microfinance loans written.' But the evidence does not provide the SASB-required figures for loans outstanding, past due/nonaccrual or forbearance loans, no-cost retail accounts, or financial literacy participants.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0135",
+        "NAB_2021_AnnualReview#chunk_0136",
+        "NAB_2021_AnnualReview#chunk_0205"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.5,
+      "presence_rationale": "The evidence addresses related systemic-risk themes through risk management, capital adequacy, liquidity, and financial/operational resilience, including the Pillar 3 report description. However, it does not explicitly discuss G-SIB/D-SIB designation or stress testing as a systemic risk management topic.",
+      "specificity_rationale": "The disclosure is mostly high-level. It states that capital ratios are reviewed against the external economic and regulatory outlook and that NAB has a risk and compliance system, but it does not explain stress test scenarios, how results feed into capital planning, or any recovery/resolution arrangements.",
+      "quantification_rationale": "There are concrete capital metrics: CET1 ratio of 13.00% on an APRA basis, 17.95% internationally comparable, leverage ratio of 5.83%, and a target range of 10.75-11.25%. But the evidence does not include a G-SIB/D-SIB score or stress test outputs, so quantification is only partial.",
+      "citations": [
+        "NAB_2021_AnnualReview#chunk_0052",
+        "NAB_2021_AnnualReview#chunk_0004",
+        "NAB_2021_AnnualReview#chunk_0003"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "NAB_2022_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is about climate targets, emissions reporting, and assurance. It does not address business ethics issues such as fraud, insider trading, antitrust, whistleblower policies, or legal proceedings losses.",
+      "specificity_rationale": "No business ethics disclosure is present in the supplied chunks, so there is no discussion of whistleblower procedures, corrective actions, or compliance controls relevant to FN-CB-510a.",
+      "quantification_rationale": "The evidence includes environmental metrics only. It contains no monetary losses from legal proceedings, no ethics-related incident counts, and no SASB FN-CB-510a quantitative disclosures.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is about climate-related metrics, financed emissions, and data limitations, not data security, cyber risk, breaches, or customer data privacy. No disclosure addresses FN-CB-230a.",
+      "specificity_rationale": "There is no description of identifying or addressing data security risks, no mention of cyber threats or attack vectors, and no discussion of regulatory response. The available text is unrelated to the topic.",
+      "quantification_rationale": "No breach counts, personal-data-breach percentages, customers affected, or other FN-CB-230a metrics are provided in the evidence.",
+      "citations": [
+        "NAB_2022_ClimateReport#chunk_0151"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 1
+    },
+    "esg_credit_analysis": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The report clearly addresses ESG and climate-related factors in credit policy, risk settings, and oversight. It describes ESG-related credit policy for emissions-intensive, climate-sensitive and low-emissions sectors and names governance bodies responsible for oversight. However, the evidence is climate-focused and does not fully show a general ESG-in-credit analysis framework across lending decisions.",
+      "specificity_rationale": "The disclosure gives meaningful detail on governance and policy: risk settings are reviewed regularly, guide day-to-day decisions, and are overseen by the Credit and Market Risk Committee, BRCC, and the Board. It also names accountable executives. But it does not explain the full credit analysis workflow, who integrates ESG into creditworthiness assessment, or how that is applied beyond sector policy settings.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown is shown, and no SASB-mandated quantitative metric for FN-CB-410a.1 appears. The evidence mentions sector decarbonisation targets and review factors, but those are not the required credit exposure figures or a quantified description of ESG integration into credit analysis.",
+      "citations": [
+        "NAB_2022_ClimateReport#chunk_0031",
+        "NAB_2022_ClimateReport#chunk_0036",
+        "NAB_2022_ClimateReport#chunk_0008",
+        "NAB_2022_ClimateReport#chunk_0011"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report directly addresses financed emissions, including a dedicated methodology section and a table of sector exposures and scope inclusions. It clearly discusses how attributable financed emissions are estimated and what sectors are covered, so the topic is explicitly present.",
+      "specificity_rationale": "Disclosure is substantive: it explains the PCAF-based approach, notes methodology changes in 2022, and lists sectoral/geographic boundaries with scope coverage. However, it does not provide the full SASB-required outcome metrics or a complete worked-through disclosure of financed emissions across Scope 1, 2, and 3.",
+      "quantification_rationale": "There are meaningful numbers, including exposure by sector and percentages of total EAD, plus sector scope boundaries. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, the percentage of gross exposure included in the calculation, or a full quantified methodology output, so Q is partial.",
+      "citations": [
+        "NAB_2022_ClimateReport#chunk_0136",
+        "NAB_2022_ClimateReport#chunk_0134"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "No relevant disclosure on financial inclusion, small business/community development lending, no-cost accounts, or financial literacy was found in the provided climate-report chunks.",
+      "specificity_rationale": "The evidence discusses climate governance, risk, and a general investment-accessibility partnership, but nothing about serving unbanked or underserved customers or linking such efforts to product design.",
+      "quantification_rationale": "No SASB-relevant metrics were disclosed: no loan counts/amounts, no past-due or forbearance figures, no no-cost account counts, and no financial literacy participant counts.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence does not address systemic risk management directly, but it does discuss stress testing and risk-management activities in a climate context, including APRA\u2019s Climate Vulnerability Assessment and NGFS scenario analysis. That is only a partial, adjacent treatment of the topic rather than a clear disclosure under FN-CB-550a.",
+      "specificity_rationale": "The disclosure is somewhat detailed on climate-risk scenario analysis, portfolio stress testing, and participation in regulatory/industry initiatives. However, it does not discuss G-SIB/D-SIB status, regulatory capital planning, broader systemic-risk governance, or recovery/resolution arrangements, so the treatment remains limited for this SASB topic.",
+      "quantification_rationale": "There are some concrete numbers and named scenarios, such as two NGFS scenarios, 0.3-1.7C, 1.6C, 3C+, and carbon-price ranges, plus APRA\u2019s CVA. But the evidence lacks the SASB-relevant quantitative items like G-SIB scores, CET1, leverage ratios, or quantified integration into capital adequacy planning.",
+      "citations": [
+        "NAB_2022_ClimateReport#chunk_0053",
+        "NAB_2022_ClimateReport#chunk_0045",
+        "NAB_2022_ClimateReport#chunk_0042"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "NAB_2023_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report only touches business ethics tangentially through governance language about 'conduct findings' and 'scam and fraud prevention' in performance assessment. It does not present a dedicated business ethics section or directly discuss insider trading, antitrust, money laundering, or whistleblower arrangements. This is enough for minimal presence, but only barely.",
+      "specificity_rationale": "Disclosure is generic and governance-focused rather than topic-specific. It mentions conduct risk, fraud prevention, and that performance outcomes may be adjusted for sustainability and conduct, but gives no detail on ethics policies, reporting channels, investigations, or corrective actions. The evidence is limited and not substantive for SASB FN-CB-510a.",
+      "quantification_rationale": "No monetary losses from legal proceedings are disclosed, and no figures related to fraud, insider trading, antitrust, or similar matters appear. There are also no quantitative whistleblower metrics or policy implementation counts. The evidence contains only qualitative governance statements, so quantification is absent.",
+      "citations": [
+        "NAB_2023_ClimateReport#chunk_0071"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 4
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence does not address data security disclosures. It mentions sustainability governance and scam/fraud prevention in general, but no breach reporting, cyber risk management, or data privacy/security topic content.",
+      "specificity_rationale": "No substantive discussion of identifying or addressing data security risks appears in the evidence. There is no description of attack vectors, emerging cyber threats, regulatory environment, or response processes.",
+      "quantification_rationale": "The evidence contains no quantitative data security metrics: no number of breaches, no percentage of personal data breaches, and no number of affected account holders.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 2
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.0,
+      "presence_rationale": "The report clearly addresses ESG in risk and credit-related governance. It says ESG risks are formally incorporated into the Risk Management Framework, that the Group Credit and Market Risk Committee oversees ESG risks, and that ESG-related policies include assessment of customer-related ESG risk and sector-specific risk appetite settings. That is directly relevant to ESG incorporation in credit analysis, even if not labeled as SASB credit analysis.",
+      "specificity_rationale": "The disclosure gives governance roles and some process detail: Board/BRCC oversight, executive committees, ESG risk appetite, ESG-related policies, and assessment of customer-related ESG risk. It also references embedding ESG considerations in due diligence, decision making, and product development. However, it does not fully explain the actual creditworthiness assessment workflow or accountability chain in a bank-credit context, so it is substantive but not exhaustive.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table appears in the evidence, and there are no numeric targets, portfolio amounts, or SASB-mandated credit exposure metrics. The references to sectors and risk appetite are qualitative only. Therefore the disclosure provides no meaningful quantification for this topic.",
+      "citations": [
+        "NAB_2023_ClimateReport#chunk_0067",
+        "NAB_2023_ClimateReport#chunk_0077",
+        "NAB_2023_ClimateReport#chunk_0054",
+        "NAB_2023_ClimateReport#chunk_0060"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financed emissions directly, with a section titled \u201cReducing financed emissions\u201d and a table for \u201cNAB\u2019s attributable financed emissions estimate.\u201d It also states the bank is assessing emissions attributable to its financing. This is an explicit match to FN-CB-410b rather than a passing reference.",
+      "specificity_rationale": "The disclosure goes beyond a generic statement by describing the bank\u2019s approach, sector coverage, and operational/geographic boundary assumptions for attributable financed emissions. It identifies multiple sectors and scope inclusions and links the topic to decarbonisation targets. However, the methodology is only partially explained in these excerpts and does not name PCAF.",
+      "quantification_rationale": "There are concrete numbers for sector exposures and each sector\u2019s share of total EAD, plus scope inclusion labels. However, the key SASB metrics are not fully shown here: no absolute gross financed emissions by Scope 1, 2, and 3, no full gross exposure by asset class for the calculation, and no explicit percentage of gross exposure covered by the financed emissions calculation. ",
+      "citations": [
+        "NAB_2023_ClimateReport#chunk_0055",
+        "NAB_2023_ClimateReport#chunk_0244",
+        "NAB_2023_ClimateReport#chunk_0208"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence is a climate report and only mentions adjacent governance topics such as sustainability, affordable housing, Indigenous advisory structures, and climate strategy. It does not address financial inclusion, unbanked or underbanked customers, small business/community development lending, no-cost accounts, or financial literacy initiatives.",
+      "specificity_rationale": "No substantive disclosure on FN-CB-240a appears in the retrieved chunks. There is no description of a financial inclusion strategy, no linkage to underserved customer products, and no discussion of how results feed product design. The material is unrelated climate governance content.",
+      "quantification_rationale": "None of the required SASB metrics are present: no counts or amounts of qualifying loans, no past-due or forbearance figures, no no-cost retail checking account counts, and no financial literacy participant counts. The evidence contains only unrelated climate percentages and emissions data.",
+      "citations": [
+        "NAB_2023_ClimateReport#chunk_0004",
+        "NAB_2023_ClimateReport#chunk_0061",
+        "NAB_2023_ClimateReport#chunk_0067",
+        "NAB_2023_ClimateReport#chunk_0093",
+        "NAB_2023_ClimateReport#chunk_0209"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "presence_rationale": "The report addresses stress testing and scenario analysis as part of risk management, which is related to systemic risk, but only in a climate-risk context. It does not discuss G-SIB/D-SIB status, capital adequacy planning, or resolution arrangements required for this SASB topic.",
+      "specificity_rationale": "The evidence gives some operational detail on climate scenario analysis, stress testing, and integration into risk appetite, training, and credit risk processes. However, it is not a substantive disclosure on systemic risk management under FN-CB-550a and omits the core banking stability elements.",
+      "quantification_rationale": "There are some numbers and time horizons in the climate scenarios, such as 2023 to 2050, 2030, 2050, and temperature/carbon-price ranges. But the required SASB metrics are absent: no G-SIB score, no CET1 or leverage ratios, and no stress-test-to-capital-planning quantification.",
+      "citations": [
+        "NAB_2023_ClimateReport#chunk_0092",
+        "NAB_2023_ClimateReport#chunk_0103",
+        "NAB_2023_ClimateReport#chunk_0094",
+        "NAB_2023_ClimateReport#chunk_0044",
+        "NAB_2023_ClimateReport#chunk_0046"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "NAB_2024_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report only makes a limited, indirect reference to conduct-related oversight, including \"risk or conduct findings\" and \"scam and fraud prevention\" in governance/performance discussion. It does not present a dedicated business ethics section or clearly address whistleblower policies, legal proceedings, or anti-corruption controls in depth.",
+      "specificity_rationale": "Disclosure is very high-level and incidental to remuneration/governance. It names fraud prevention and conduct findings, but gives no description of whistleblower procedures, reporting channels, corrective actions, or ethics compliance processes. The evidence shows awareness of conduct issues, not substantive business ethics reporting.",
+      "quantification_rationale": "No monetary losses from legal proceedings are reported, and no SASB-required quantitative ethics metrics appear. There are also no counts, targets, or other figures tied to fraud, insider trading, antitrust, market manipulation, or whistleblower activity in the retrieved evidence.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0091"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is from a climate report and discusses governance, sustainability measures, and financed emissions methodology, but it does not address data security, breaches, customer data privacy, or cyber risk management.",
+      "specificity_rationale": "No substantive disclosure appears on identifying or addressing data security risks, emerging cyber threats, attack vectors, or the regulatory environment. The only nearby reference is a general mention of scam and fraud prevention, which is not the SASB topic.",
+      "quantification_rationale": "There are no counts of data breaches, no percentage of personal data breaches, and no number of affected account holders. The evidence also lacks any SASB FN-CB-230a.1 or FN-CB-230a.2 metrics.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0091",
+        "NAB_2024_ClimateReport#chunk_0341",
+        "NAB_2024_ClimateReport#chunk_0378"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 3
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The evidence directly discusses ESG/Sustainability risk in credit risk, including ESG assessments for Corporate and Institutional Banking customers, credit risk and due diligence, appetite settings, sector limits, and how ESG matters are escalated in governance. This clearly addresses incorporation of ESG factors into credit analysis, even though the report is climate-focused rather than a full FN-CB-410a disclosure.",
+      "specificity_rationale": "The report gives a substantive framework: risk definitions, RMF integration, governance bodies (ERCC, GCMRC, BRCC, Board), responsible oversight, and examples of how ESG affects lending decisions through due diligence and sector restrictions. However, it is narrower than the SASB topic because it focuses mainly on climate/high-risk sectors and does not fully describe a general ESG-in-credit methodology or accountability across all lending.",
+      "quantification_rationale": "There are concrete figures and targets for coal and oil/gas exposures, including caps, a 50% reduction goal by 2026, and a 2030 phaseout objective. But the evidence does not show the SASB-required industry-by-industry commercial and industrial credit exposure breakdown, and the numeric disclosures are sector-specific rather than a complete quantitative table for the topic.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0097",
+        "NAB_2024_ClimateReport#chunk_0098",
+        "NAB_2024_ClimateReport#chunk_0099",
+        "NAB_2024_ClimateReport#chunk_0127",
+        "NAB_2024_ClimateReport#chunk_0065"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financed emissions, including a section titled \u201cReducing financed emissions\u201d and a table on NAB\u2019s attributable financed emissions estimate with sector coverage and scopes. This goes beyond a passing mention and shows the topic is substantively covered.",
+      "specificity_rationale": "The disclosure is fairly detailed: it explains the bank\u2019s approach, mentions sector decarbonisation targets, and provides a sector table showing geographic boundary, operational boundary, EAD, and baseline year. However, it does not describe the calculation methodology in depth or name PCAF, so it is not fully specific.",
+      "quantification_rationale": "There are concrete figures for exposure by sector and percentages of total EAD, plus scope inclusions and baseline metrics. But the evidence does not show absolute gross financed emissions totals by Scope 1, Scope 2, and Scope 3, nor the percentage of gross exposure covered by the calculation, so quantification is partial.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0067",
+        "NAB_2024_ClimateReport#chunk_0385"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report only touches adjacent themes like support for customers, affordable housing, customers experiencing vulnerability, and community initiatives, which loosely overlap with underserved-customer support. It does not directly discuss financial inclusion programs, small-business/community development lending, no-cost accounts, or financial literacy initiatives.",
+      "specificity_rationale": "The disclosure is high-level and climate/transition oriented. It mentions inclusive and fair transition, regional communities, and customer support categories, but provides no strategy, implementation detail, or linkage to financial inclusion product design. The topic is not addressed substantively.",
+      "quantification_rationale": "No SASB-relevant numbers are provided. There are no counts or amounts of qualifying loans, no-cost retail accounts, or financial literacy participants, and no past-due/nonaccrual loan figures tied to inclusion programs.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0062",
+        "NAB_2024_ClimateReport#chunk_0091"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report addresses stress testing, ICAAP, and how scenario analysis informs strategy, risk appetite, and capital adequacy, so the topic is clearly touched. However, it does not discuss G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements, so coverage is incomplete for FN-CB-550a.",
+      "specificity_rationale": "Disclosure is moderately detailed: it explains the role of climate scenario analysis, the link to stress testing and capital adequacy, and gives a concrete drought scenario used in ICAAP. Still, the discussion is climate-focused rather than systemic-risk focused, and it omits the SASB-specific approach to capital planning and business activities.",
+      "quantification_rationale": "Some numbers are provided, including a 3-year, 1-in-100-year drought scenario, a 2-year drought, and references to time horizons out to 2050. But the evidence lacks the core SASB quantitative metrics such as G-SIB/D-SIB score and capital ratios, so quantitative disclosure is limited.",
+      "citations": [
+        "NAB_2024_ClimateReport#chunk_0038",
+        "NAB_2024_ClimateReport#chunk_0140",
+        "NAB_2024_ClimateReport#chunk_0149"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "NAB_2025_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "No evidence addresses business ethics, legal proceedings, whistleblower policies, or related conduct issues; the retrieved material is limited to climate, emissions, and assurance content.",
+      "specificity_rationale": "The excerpts discuss financed emissions, operational emissions, and report assurance scope, not business ethics controls, whistleblower procedures, corrective actions, or legal/regulatory conduct matters.",
+      "quantification_rationale": "No monetary losses from legal proceedings, no ethics-related metrics, and no whistleblower reporting metrics or targets are shown in the retrieved evidence.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is climate-only and discusses emissions targets, offsets, and scenario modelling, not data security, breaches, or cyber risk management.",
+      "specificity_rationale": "No discussion appears of identifying or addressing data security risks, attack vectors, emerging threats, or regulatory response related to customer data.",
+      "quantification_rationale": "There are no breach counts, percentages of personal data breaches, affected account holders, or other SASB FN-CB-230a metrics in the evidence.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 2
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence directly says sustainability-related policy settings are applied, that climate risk is assessed in credit risk and due diligence, and that bankers consider ESG-related questions in customer assessment. It clearly addresses incorporation of ESG factors into lending/credit analysis, not just generic sustainability statements.",
+      "specificity_rationale": "The report describes how ESG/climate factors enter credit work: bankers assess customer transition and physical risks, apply policy settings, use a Customer Transition Plan Assessment Framework, and integrate climate risk into credit models and due diligence. It also identifies roles like bankers, senior management, and a specialist customer risk assessment team. However, it is climate-focused rather than a full ESG framework.",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown is provided, and no SASB-required quantitative credit-exposure metrics appear in the evidence. The only numbers shown relate to unrelated operational or scenario-analysis details, not the required disclosure metric.",
+      "citations": [
+        "NAB_2025_ClimateReport#chunk_0106",
+        "NAB_2025_ClimateReport#chunk_0081",
+        "NAB_2025_ClimateReport#chunk_0082",
+        "NAB_2025_ClimateReport#chunk_0083",
+        "NAB_2025_ClimateReport#chunk_0136"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence directly addresses financed and facilitated emissions, including coverage estimation, sector decarbonisation targets, and a PCAF-based methodology. This is clearly the same disclosure area as FN-CB-410b.",
+      "specificity_rationale": "The report gives a substantive methodology description, including data-source hierarchy, coverage-ratio formulas, and key terms tied to financed emissions analysis. However, it stops short of reporting the SASB-required financed emissions figures and sector-by-sector exposure detail.",
+      "quantification_rationale": "There is limited quantification, mainly a 62% coverage figure and formula structure. The evidence does not provide absolute gross financed emissions by Scope 1, 2, and 3, gross exposure by industry/asset class, or the percentage of gross exposure included in the financed emissions calculation.",
+      "citations": [
+        "NAB_2025_ClimateReport#chunk_0328",
+        "NAB_2025_ClimateReport#chunk_0161"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is climate-focused and does not address financial inclusion, capacity building, unbanked or underbanked customers, no-cost accounts, financial literacy, or qualifying small business/community development loans.",
+      "specificity_rationale": "No substantive disclosure on the SASB topic appears in the evidence. The passages discuss climate advocacy, community resilience, and retrofit support, but not financial inclusion strategy, underserved-market products, or related operational practices.",
+      "quantification_rationale": "No relevant numbers or SASB metrics are shown for this topic: there are no counts or amounts of qualifying loans, no-cost accounts, or financial literacy participants, and no topic-specific targets.",
+      "citations": [
+        "NAB_2025_ClimateReport#chunk_0004",
+        "NAB_2025_ClimateReport#chunk_0060",
+        "NAB_2025_ClimateReport#chunk_0070",
+        "NAB_2025_ClimateReport#chunk_0071",
+        "NAB_2025_ClimateReport#chunk_0249"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence clearly discusses stress testing, ICAAP, scenario analysis, and capital adequacy planning, which are directly relevant to systemic risk management. However, it is framed as climate risk management rather than broader systemic-risk disclosure, and it does not mention G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements.",
+      "specificity_rationale": "The report gives a substantive description of how climate scenarios are used in risk management, including internal capital adequacy assessment, market risk, and portfolio vulnerability analysis. That is more than a passing mention, but it is still narrow and does not explain a full systemic-risk framework or how mandatory and voluntary stress tests feed into broader strategic planning beyond climate context.",
+      "quantification_rationale": "There are some concrete numbers and scenario references, such as the 2023 RBNZ climate stress test, the 1-in-100-year flood scenario, and short/medium/long-term time frames. But the evidence does not include the SASB-specific quantitative metric of a G-SIB score, any CET1 or leverage ratios, or other required systemic-risk figures, so quantification remains limited.",
+      "citations": [
+        "NAB_2025_ClimateReport#chunk_0026",
+        "NAB_2025_ClimateReport#chunk_0128",
+        "NAB_2025_ClimateReport#chunk_0129",
+        "NAB_2025_ClimateReport#chunk_0130",
+        "NAB_2025_ClimateReport#chunk_0132"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "Westpac_2021_SustainabilitySupplement": {
+    "business_ethics": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly touches business ethics through whistleblower reporting and fraud/scams controls. It includes a whistleblower-related performance indicator and narrative on scams, fraud prevention, and customer protection. However, it does not directly discuss legal proceedings tied to insider trading, antitrust, market manipulation, or other core SASB ethics issues in detail.",
+      "specificity_rationale": "Disclosure is moderately substantive: it names a whistleblower reporting metric, describes scam/fraud response measures, and mentions security controls and customer education tools. But it does not explain the whistleblower policy, reporting channels, escalation process, or corrective actions for ethics breaches. The discussion is operational rather than a full ethics governance narrative.",
+      "quantification_rationale": "The evidence contains several figures, including whistleblower concern counts, cases assisted by specialist vulnerability teams, and fraud prevented. But it does not provide the SASB-mandated monetary losses from legal proceedings, nor does it quantify whistleblower procedures or ethics incidents in the required way. Numbers are present, but not the specific metric requested.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0188",
+        "Westpac_2021_SustainabilitySupplement#chunk_0089",
+        "Westpac_2021_SustainabilitySupplement#chunk_0053",
+        "Westpac_2021_SustainabilitySupplement#chunk_0051"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence explicitly addresses data privacy, scams, fraud, and customer information protection. It states that privacy risk is inherent in the bank\u2019s operations and describes actions to protect personal information and customers\u2019 privacy, so the topic is clearly present.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention: it describes suspicious-activity detection, security systems and controls, customer education tools, extra care flags, and strengthened processes/system-control design. It also notes the rising sophistication of scams and emerging risks. However, it does not fully discuss the regulatory environment or provide a full cyber risk governance process.",
+      "quantification_rationale": "The evidence includes some figures related to fraud prevention and customer support, such as $16 million in potential additional fraud averted and 33,400+ cases assisted, but it does not report the SASB breach metrics: number of data breaches, percentage personal data breaches, or number of account holders affected.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0035",
+        "Westpac_2021_SustainabilitySupplement#chunk_0051",
+        "Westpac_2021_SustainabilitySupplement#chunk_0053",
+        "Westpac_2021_SustainabilitySupplement#chunk_0173"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG in lending and credit risk through the Group ESG Credit Policy, Sustainability Risk Management Framework, and board/committee oversight. It also says ESG risk management is focused on customer engagements and due diligence on business and institutional customers. However, it does not show a detailed credit-analysis methodology or the required industry-by-industry exposure breakdown.",
+      "specificity_rationale": "There is meaningful governance and policy detail: board approval of the Sustainability Risk Management Framework, Divisional Risk Committees, and the Group ESG Credit Policy. But the disclosure stops short of explaining how ESG factors enter creditworthiness assessment, who is accountable in the credit process, or how decisions are changed by ESG inputs. The approach is described at a high level only.",
+      "quantification_rationale": "The evidence includes some lending-related figures, such as finance assessed under the Equator Principles and sustainable lending metrics, but it does not provide the SASB-required commercial and industrial credit exposure by industry. There are no sector-level exposure tables or quantitative metrics directly tied to ESG incorporation in credit analysis, so quantification is limited.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0169",
+        "Westpac_2021_SustainabilitySupplement#chunk_0168",
+        "Westpac_2021_SustainabilitySupplement#chunk_0089"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report directly discusses Westpac's 'financed emissions' profile, including analysis of emissions attributable to customer loans and sector-level exposure implications. This is clearly the SASB topic, not an indirect or generic climate disclosure.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention: it explains that Westpac analyzed financed emissions across Australian business, institutional, and residential mortgage portfolios, identifies higher-intensity sectors, and relates findings to lending criteria and climate strategy. However, it does not provide a full methodology description or the full SASB metric set.",
+      "quantification_rationale": "There is meaningful quantification through sector exposure percentages and emissions-intensity figures, plus references to a financed emissions profile. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, nor a clear % of gross exposure covered or a detailed PCAF methodology, so Q cannot be high.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0124",
+        "Westpac_2021_SustainabilitySupplement#chunk_0139"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financial inclusion and capacity building through financial education platforms, a Recovery Hub, and improved banking accessibility for Indigenous and remote Australians. It also describes expanding product offerings and access to capital for Indigenous businesses. However, it does not directly discuss the SASB framing of unbanked/underbanked lending programs in a comprehensive way.",
+      "specificity_rationale": "Disclosure is moderately substantive: it describes initiatives, delivery channels, and intended customer outcomes, plus a future focus on expanding offerings and measuring whether customers felt supported. But it lacks a clear strategy tying inclusion results back to product design in the specific SASB sense, and it does not explain the full program logic for community development lending.",
+      "quantification_rationale": "There are several counts, including programs and content to over 1.2 million Australians, 90,000+ Recovery Hub users, 8,600+ Spend Snapshot users, 56,600 community members reached, and 8,200+ Indigenous and remote customers supported. But the evidence does not give the SASB-required numbers and amounts for qualifying loans, no-cost accounts, or financial literacy participants.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0057",
+        "Westpac_2021_SustainabilitySupplement#chunk_0066",
+        "Westpac_2021_SustainabilitySupplement#chunk_0055",
+        "Westpac_2021_SustainabilitySupplement#chunk_0039",
+        "Westpac_2021_SustainabilitySupplement#chunk_0078"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence touches risk governance and a regulator-led Climate Vulnerability Assessment, which is stress-test-like, but it does not directly discuss systemic risk management under FN-CB-550a. There is no explicit G-SIB/D-SIB discussion or recovery/resolution framing. The topic is only partially addressed through broader climate-risk governance language.",
+      "specificity_rationale": "The disclosure names APRA's Climate Vulnerability Assessment, says it considers physical and transition risks to 2050, and notes an Integrated Plan to strengthen risk governance. However, it gives little detail on how stress-test outputs feed into capital adequacy planning, strategy, or business activities, which is central to the SASB topic.",
+      "quantification_rationale": "No G-SIB score, capital ratios, stress-test results, or resolution/recovery metrics are provided. The only quantitative element is the APRA assessment horizon to 2050 and the fact that it involves Westpac plus four other banks, which is insufficient for FN-CB-550a quantification.",
+      "citations": [
+        "Westpac_2021_SustainabilitySupplement#chunk_0043",
+        "Westpac_2021_SustainabilitySupplement#chunk_0040",
+        "Westpac_2021_SustainabilitySupplement#chunk_0097",
+        "Westpac_2021_SustainabilitySupplement#chunk_0098",
+        "Westpac_2021_SustainabilitySupplement#chunk_0117"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "Westpac_2022_SustainabilitySupplement": {
+    "business_ethics": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report identifies \"Ethics and Corporate business conduct\" as a material sustainability topic and discusses fraud/scam prevention and digital security measures. However, it does not directly discuss business ethics controls in the SASB sense, such as legal proceedings, insider trading, antitrust, or whistleblower governance.",
+      "specificity_rationale": "Disclosure is limited to high-level references to ethics/business conduct and operational fraud-prevention measures. It gives some context on scams, blocked transactions, and customer protection, but no substantive discussion of ethics policies, compliance processes, whistleblower procedures, or corrective actions tied to misconduct.",
+      "quantification_rationale": "No monetary losses from legal proceedings are reported, and no SASB FN-CB-510a metrics are quantified. The evidence includes numbers about scam-related controls and blocked transactions, but not losses from fraud, insider trading, antitrust, or related legal proceedings, nor whistleblower reporting metrics.",
+      "citations": [
+        "Westpac_2022_SustainabilitySupplement#chunk_0012",
+        "Westpac_2022_SustainabilitySupplement#chunk_0006",
+        "Westpac_2022_SustainabilitySupplement#chunk_0024",
+        "Westpac_2022_SustainabilitySupplement#chunk_0025"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.0,
+      "presence_rationale": "The report explicitly lists \u201cData privacy and security\u201d as a sustainability topic and describes multiple customer security measures, including scam blocks, fraud teams, and digital banking protections. That shows the topic is clearly addressed, although the evidence is framed more around scam/fraud prevention than a full data security disclosure.",
+      "specificity_rationale": "The disclosure gives a substantive description of controls and response mechanisms: dedicated fraud specialist teams, safety-by-design product development, abusive-message blocking, real-time security prompts, dynamic CVC, and Wi-Fi risk warnings. It explains how risks are reduced, but it does not provide a formal incident-response or breach-management narrative.",
+      "quantification_rationale": "The evidence includes operational counts unrelated to the SASB breach metric set, such as customers supported and transactions blocked, but it does not disclose number of data breaches, percentage involving personal data, or number of account holders affected. No SASB-required quantitative data for FN-CB-230a.1 is shown.",
+      "citations": [
+        "Westpac_2022_SustainabilitySupplement#chunk_0012",
+        "Westpac_2022_SustainabilitySupplement#chunk_0023",
+        "Westpac_2022_SustainabilitySupplement#chunk_0024",
+        "Westpac_2022_SustainabilitySupplement#chunk_0025",
+        "Westpac_2022_SustainabilitySupplement#chunk_0026"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "presence_rationale": "The evidence shows Westpac discussing sustainable lending and Paris-aligned financing strategies, including new lending to climate change solutions and portfolio targets. However, it does not explicitly describe ESG factors in credit analysis, creditworthiness assessment, governance, or industry-by-industry credit exposure, so the topic is only partially addressed.",
+      "specificity_rationale": "The disclosure is broad and strategy-level. It references climate-related lending and financing strategies, but gives no named ESG-in-credit framework, no decision process for incorporating ESG into credit analysis, and no roles, oversight, or accountability for credit decisions.",
+      "quantification_rationale": "Some numbers are provided, including over $1.9 billion of new lending to climate change solutions, a three-year horizon for financing strategies and portfolio targets, and emissions reductions since 2016. But the SASB-required quantitative disclosure on commercial and industrial credit exposure by industry is absent.",
+      "citations": [
+        "Westpac_2022_SustainabilitySupplement#chunk_0016",
+        "Westpac_2022_SustainabilitySupplement#chunk_0018"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financed emissions and related climate strategy, including a section titled \u201cNet-Zero 2030 Targets and Financed Emissions \u2013 our methodology and approach\u201d and references to \u201csectors representing the majority of our financed emissions.\u201d However, it does not provide a full standalone financed-emissions disclosure with the SASB-required detail in the retrieved evidence.",
+      "specificity_rationale": "The disclosure goes beyond a passing mention by linking financed emissions to strategy, Paris-aligned financing, and sector targets. It also points to a dedicated methodology/approach section. Still, the evidence is mostly high-level and promotional, with limited explanation of how financed emissions are measured or broken down by asset class or industry.",
+      "quantification_rationale": "There are some quantified items, such as $1.9 billion and $3.5 billion of new lending, plus operational emissions reductions of 70% and 29%. But the evidence does not show absolute financed emissions by Scope 1/2/3, gross exposure by industry or asset class, or the percentage of gross exposure included in the calculation. That keeps Q low.",
+      "citations": [
+        "Westpac_2022_SustainabilitySupplement#chunk_0004",
+        "Westpac_2022_SustainabilitySupplement#chunk_0015",
+        "Westpac_2022_SustainabilitySupplement#chunk_0016",
+        "Westpac_2022_SustainabilitySupplement#chunk_0018"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses financial inclusion for underserved communities through Indigenous banking services, remote outreach, call-centre support, workshops, and improved banking accessibility for Indigenous and remote Australians. It also frames these efforts as part of a broader strategy to serve communities and improve economic participation. However, it is centered on Indigenous access rather than the full SASB topic set.",
+      "specificity_rationale": "Disclosure is substantive and describes concrete programs: remote visits, one-on-one demonstrations, workshops, mobile/online banking help, Indigenous Connections, and Jawun secondees. It also links activities to better banking experiences and economic participation. Still, it does not explain a detailed product-design feedback loop or cover the full small-business/community-development lending framing required for the highest specificity.",
+      "quantification_rationale": "The report includes some numbers, such as 10,000+ Indigenous and remote Australians supported, 47 remote visits, 10 banking services, 30 secondees, and $8.8 million spent with Indigenous suppliers. But it does not provide the SASB-mandated metrics on loans outstanding, past due loans, no-cost accounts, or financial literacy participants, so quantification is limited.",
+      "citations": [
+        "Westpac_2022_SustainabilitySupplement#chunk_0046",
+        "Westpac_2022_SustainabilitySupplement#chunk_0055",
+        "Westpac_2022_SustainabilitySupplement#chunk_0057",
+        "Westpac_2022_SustainabilitySupplement#chunk_0015",
+        "Westpac_2022_SustainabilitySupplement#chunk_0013"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "No retrieved evidence addresses systemic risk management, stress tests, G-SIB/D-SIB status, capital ratios, or recovery and resolution arrangements.",
+      "specificity_rationale": "There is no substantive discussion to assess. The evidence set contains no topic-relevant disclosure at all.",
+      "quantification_rationale": "No quantitative metrics, ratios, scores, scenarios, or stress-test results are provided in the retrieved evidence.",
+      "citations": [],
+      "a_i": 1,
+      "n_evidence_chunks": 0
+    }
+  },
+  "Westpac_2023_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is from a climate-only report and does not address business ethics topics such as insider trading, antitrust, fraud losses, whistleblower policies, or corrective actions.",
+      "specificity_rationale": "No substantive business ethics disclosure is shown. The chunks only discuss climate governance, assurance language, and scenario setting, not ethics controls, reporting channels, or remediation.",
+      "quantification_rationale": "There are no monetary loss figures, no legal proceeding amounts, and no SASB FN-CB-510a metrics or targets in the evidence.",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0073",
+        "Westpac_2023_ClimateReport#chunk_0072",
+        "Westpac_2023_ClimateReport#chunk_0191",
+        "Westpac_2023_ClimateReport#chunk_0193",
+        "Westpac_2023_ClimateReport#chunk_0253"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is about commercial real estate emissions targets and methodology, not data security, breaches, or cyber risk management. No relevant disclosure is shown.",
+      "specificity_rationale": "There is no discussion of identifying or addressing data security risks, emerging threats, attack vectors, or regulatory response. The content is unrelated to the SASB topic.",
+      "quantification_rationale": "No breach counts, percentage of personal data breaches, affected account holders, or other data security metrics appear in the evidence.",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0314",
+        "Westpac_2023_ClimateReport#chunk_0312"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 2
+    },
+    "esg_credit_analysis": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence is related to ESG/climate in banking, but it does not directly discuss ESG incorporation in credit analysis. It mentions a Sustainable Finance Framework, engagement with regulators on climate, nature and human rights, and support for customers' transition, which is adjacent to the topic but not a disclosure of credit underwriting practice. ",
+      "specificity_rationale": "The disclosure is high-level and mostly about climate commitments, partnerships, and engagement. It does not explain who is responsible for ESG-in-credit decisions, how ESG factors affect creditworthiness assessment, or what oversight/accountability exists. The report shows related framing, but not a substantive topic-specific methodology. ",
+      "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table, credit portfolio breakdown, or topic-specific metrics are provided. The evidence contains membership dates and general commitments, but nothing quantifying credit exposure or ESG integration in credit analysis. ",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0010",
+        "Westpac_2023_ClimateReport#chunk_0152",
+        "Westpac_2023_ClimateReport#chunk_0451",
+        "Westpac_2023_ClimateReport#chunk_0452"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses financed emissions: it defines Scope 3 (financed) emissions, describes them as emissions attributable to lending and investment activities, and presents sector-level financed emissions targets and figures. This is directly relevant to FN-CB-410b. However, the disclosure is spread across definitions and sector tables rather than a dedicated full SASB-style financed emissions section.",
+      "specificity_rationale": "Disclosure is fairly detailed because it explains what financed emissions mean and shows how Westpac sets/derives sector targets for specific portfolios, including calculation approaches for commercial real estate and cement. Still, it does not provide a complete bank-wide financed emissions methodology or a full disclosure of the SASB-required metrics, so it is substantial but not comprehensive.",
+      "quantification_rationale": "There are concrete numbers, including sector absolute financed emissions figures and target values, plus emissions-intensity metrics and baseline comparisons. But the evidence does not show absolute gross financed emissions disaggregated by Scope 1, 2, and 3, gross exposure by industry/asset class, or the percentage of exposure covered. Lack of these core SASB metrics limits the score.",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0219",
+        "Westpac_2023_ClimateReport#chunk_0113",
+        "Westpac_2023_ClimateReport#chunk_0314",
+        "Westpac_2023_ClimateReport#chunk_0288"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is from a climate-only report and discusses agricultural emissions targets and financing for emissions-reduction practices, not financial inclusion, underserved customers, or community-development lending. It does not address the SASB topic.",
+      "specificity_rationale": "No substantive disclosure appears on unbanked or underbanked customers, no-cost accounts, financial literacy initiatives, or product-design strategy for financial inclusion. The only financing-related content is about sustainable farm lending for climate transition.",
+      "quantification_rationale": "No SASB-required figures are shown for loans outstanding, past-due/nonaccrual loans, no-cost retail checking accounts, or financial literacy participants. The evidence contains climate target percentages and qualitative transition actions only.",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0348",
+        "Westpac_2023_ClimateReport#chunk_0345",
+        "Westpac_2023_ClimateReport#chunk_0338",
+        "Westpac_2023_ClimateReport#chunk_0341"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The report discusses climate-related scenario analysis and stress testing in lending, including review processes and governance, which is related to risk management. However, it does not address systemic risk management as defined by SASB, nor does it mention G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements. It is only a partial thematic overlap.",
+      "specificity_rationale": "The disclosure gives some process detail: scenario analysis informs risk assessment over short, medium, and long term, transactions are escalated through CTREC, and methodology updates are planned. But the discussion is climate-risk specific and lacks the substantive systemic-risk framing, capital adequacy integration, and long-term strategy linkage required for a stronger score.",
+      "quantification_rationale": "No G-SIB score by category, no explicit non-designation statement, and no regulatory capital metrics such as CET1 or leverage ratios are provided. The excerpts also do not include quantified stress-test outcomes or recovery/resolution metrics. The only numbers shown are climate targets, which are not the SASB-required systemic risk metrics.",
+      "citations": [
+        "Westpac_2023_ClimateReport#chunk_0160",
+        "Westpac_2023_ClimateReport#chunk_0161"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "Westpac_2024_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The report is climate-only and does not disclose business ethics under FN-CB-510a. The only nearby mentions are incidental references to conduct risk, fraud, and legal action in climate context, not a business ethics policy, whistleblower program, or legal proceedings related to fraud/antitrust/market manipulation.",
+      "specificity_rationale": "No substantive discussion of insider trading, antitrust, corruption, whistleblower channels, or corrective actions appears in the evidence. The references to conduct risk and fraud are generic assurance or climate-risk statements, not a dedicated ethics disclosure with procedures or governance detail.",
+      "quantification_rationale": "There are no monetary loss figures, no legal proceeding amounts, and no SASB-mandated quantitative metrics for FN-CB-510a. The evidence contains only qualitative risk language and assurance notes, so quantification is absent.",
+      "citations": [
+        "Westpac_2024_ClimateReport#chunk_0212",
+        "Westpac_2024_ClimateReport#chunk_0260",
+        "Westpac_2024_ClimateReport#chunk_0268"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "No retrieved evidence addresses data security, cyber risk, breaches, or customer data privacy in the report.",
+      "specificity_rationale": "There is no disclosure describing how the bank identifies or responds to data security risks, including emerging threats, attack vectors, or the regulatory environment.",
+      "quantification_rationale": "No breach counts, percentage of personal data breaches, or number of affected account holders are provided in the retrieved evidence.",
+      "citations": [],
+      "a_i": 0,
+      "n_evidence_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report clearly addresses ESG considerations in lending and credit-related review. It says ESG risk assessment tools are used in non-retail lending, that transactions can be further reviewed and escalated if heightened risk is found, and that sector positions and NZBA alignment are integrated into ESG risk assessment processes. However, the disclosure is climate-focused and does not fully cover the SASB credit-analysis topic.",
+      "specificity_rationale": "The evidence gives a reasonably concrete process description: bankers use ESG risk assessment tools, risks can trigger due diligence and escalation, and governance/processes have been further integrated. It also mentions training and sector positions. But it does not name a dedicated credit-policy framework, responsible oversight bodies in detail, or explain how ESG factors affect creditworthiness decisions in a full, topic-specific way.",
+      "quantification_rationale": "There are a few numbers in the surrounding disclosure, such as over 150 institutional customers and $9.6 billion of sustainable finance TCE, but none are the SASB-required industry-by-industry commercial and industrial credit exposure breakdown. The evidence therefore shows some quantification, but not the core metric or enough topic-specific numerical disclosure to score higher.",
+      "citations": [
+        "Westpac_2024_ClimateReport#chunk_0241",
+        "Westpac_2024_ClimateReport#chunk_0083",
+        "Westpac_2024_ClimateReport#chunk_0080",
+        "Westpac_2024_ClimateReport#chunk_0034"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "presence_rationale": "The report directly addresses financed emissions, including a dedicated section on \u201cReducing our financed emissions,\u201d a sector table, and a definition of scope 3 financed emissions. It clearly discusses financed emissions as a topic rather than only mentioning climate generally.",
+      "specificity_rationale": "The disclosure is fairly detailed: it explains the estimation approach, notes data limitations, separates scope 1/2 and scope 3 financed emissions, and presents sector-level information and data quality scores. However, it does not provide a fully complete SASB-style methodology disclosure or the named PCAF approach in the retrieved evidence.",
+      "quantification_rationale": "There are concrete numbers, including sector-level financed emissions, intensities, and exposure values, plus target/actual figures for some sectors. But the evidence does not show absolute gross financed emissions across scopes 1/2/3 for the bank as a whole, gross exposure by asset class, or the percentage of exposure covered, so the SASB metrics are incomplete.",
+      "citations": [
+        "Westpac_2024_ClimateReport#chunk_0065",
+        "Westpac_2024_ClimateReport#chunk_0294",
+        "Westpac_2024_ClimateReport#chunk_0252",
+        "Westpac_2024_ClimateReport#chunk_0308"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence contains only a broad customer-support reference: Westpac says it uses specialist hardship support teams to provide tailored solutions and identify vulnerability. That is loosely adjacent to financial inclusion, but it does not directly address unbanked or underbanked customers, small-business/community-development lending, or literacy initiatives.",
+      "specificity_rationale": "Disclosure is high-level and descriptive only. It explains hardship support and helping customers get back on track, but gives no financial inclusion strategy, no linkage to underserved-market product design, and no discussion of specific programs aimed at unbanked or underbanked customers.",
+      "quantification_rationale": "No relevant SASB metrics are reported in the retrieved evidence. There are no counts or amounts of qualifying loans, no past-due/nonaccrual figures, no no-cost account numbers, and no financial literacy participant numbers.",
+      "citations": [
+        "Westpac_2024_ClimateReport#chunk_0032"
+      ],
+      "a_i": 0,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "presence_rationale": "The report addresses capital adequacy, ICAAP, stress testing, and scenario analysis, which are relevant to systemic risk management. However, it is a climate report and does not explicitly discuss G-SIB/D-SIB designation, recovery/resolution planning, or broader systemic-risk governance. The topic is present indirectly rather than directly.",
+      "specificity_rationale": "The disclosure gives some process detail: ICAAP is reviewed annually, stress testing under adverse economic scenarios is considered, and climate scenario analysis is used over short-, medium-, and long-term horizons. But the discussion is narrow and climate-focused, not a substantive systemic risk management narrative tied to capital planning and corporate strategy.",
+      "quantification_rationale": "There are some numerical references such as 1.5\u00b0C, ~1.8\u00b0C, >3\u00b0C, 2050, 3-year ICAAP, and 3-to-5-year Board Strategy Review cycles. But the evidence does not include SASB-relevant quantitative items like G-SIB score, D-SIB status, CET1, leverage ratios, or explicit stress-test outputs integrated into capital adequacy planning.",
+      "citations": [
+        "Westpac_2024_ClimateReport#chunk_0201",
+        "Westpac_2024_ClimateReport#chunk_0216",
+        "Westpac_2024_ClimateReport#chunk_0218",
+        "Westpac_2024_ClimateReport#chunk_0222"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  },
+  "Westpac_2025_SustainabilityReport": {
+    "business_ethics": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "The retrieved evidence is about climate strategy, risk management, remuneration, and financed emissions, not business ethics. It does not mention fraud, insider trading, antitrust, market manipulation, tax evasion, money laundering, whistleblower policies, or legal proceedings losses.",
+      "specificity_rationale": "No disclosure addresses FN-CB-510a topics or provides discussion of ethics controls, whistleblower procedures, reporting channels, or corrective actions. The material is unrelated to the SASB business ethics scope.",
+      "quantification_rationale": "There are no monetary loss figures from legal proceedings and no whistleblower-related metrics or targets in the evidence. The only numbers shown concern climate and financed emissions, which are not relevant to this topic.",
+      "citations": [
+        "Westpac_2025_SustainabilityReport#chunk_0012",
+        "Westpac_2025_SustainabilityReport#chunk_0014",
+        "Westpac_2025_SustainabilityReport#chunk_0048",
+        "Westpac_2025_SustainabilityReport#chunk_0194",
+        "Westpac_2025_SustainabilityReport#chunk_0282"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "presence_rationale": "No evidence addresses data security, cyber risk identification, or breach incidents; the retrieved chunks focus on climate, emissions, and fraud/scams rather than FN-CB-230a.",
+      "specificity_rationale": "The excerpts do not describe any approach to identifying or responding to data security risks, emerging cyber threats, attack vectors, or the regulatory environment.",
+      "quantification_rationale": "No counts of data breaches, percentage of personal data breaches, or number of affected account holders are provided.",
+      "citations": [],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly addresses ESG in credit analysis through an ESG Risk Assessment tool, ESG Credit Risk Policy, and ESG assessments for commercial and institutional lending. It discusses lending eligibility, escalation, and how ESG risks affect financing decisions, so the topic is fully present.",
+      "specificity_rationale": "The disclosure is substantive and operational. It names the policy framework, describes when assessments occur, identifies responsible teams and committees, and explains how ESG ratings affect credit decisions and escalation. This meets the standard\u2019s expectations for governance, oversight, and integration into creditworthiness assessment.",
+      "quantification_rationale": "The report includes several figures and targets, such as over 9,000 ESG assessments, more than 400 customers reviewed, and zero lending to thermal coal by 30 September 2025. However, it does not provide the SASB-required industry-by-industry commercial and industrial credit exposure breakdown, so quantification is meaningful but incomplete.",
+      "citations": [
+        "Westpac_2025_SustainabilityReport#chunk_0122",
+        "Westpac_2025_SustainabilityReport#chunk_0123",
+        "Westpac_2025_SustainabilityReport#chunk_0193",
+        "Westpac_2025_SustainabilityReport#chunk_0039",
+        "Westpac_2025_SustainabilityReport#chunk_0048"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "presence_rationale": "The report clearly addresses financed emissions through dedicated tables, sector targets, definitions, and disclosure of financed-emissions calculations. It discusses scope 3 financed emissions as part of Westpac\u2019s climate metrics and lending portfolio analysis.",
+      "specificity_rationale": "Disclosure is detailed and substantive: it includes sector-by-sector financed emissions targets, definitions of scope 3 financed emissions, methodology notes, and tables for business/institutional and retail lending. This goes well beyond a passing mention.",
+      "quantification_rationale": "The evidence provides multiple numeric financed-emissions tables, sector targets, exposure percentages, and totals, but it does not show all SASB-required detail at full granularity. Scope 1 and Scope 2 financed emissions are not separately shown, and PCAF is not named in the retrieved chunks.",
+      "citations": [
+        "Westpac_2025_SustainabilityReport#chunk_0242",
+        "Westpac_2025_SustainabilityReport#chunk_0115",
+        "Westpac_2025_SustainabilityReport#chunk_0257",
+        "Westpac_2025_SustainabilityReport#chunk_0362",
+        "Westpac_2025_SustainabilityReport#chunk_0263"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "presence_rationale": "The evidence shows some customer capacity-building activity, including workshops, tools, resources, and customised action plans to support decarbonisation and regional communities. However, it does not address financial inclusion for unbanked or underbanked customers, nor small business/community development lending in the SASB sense. The topic is only tangentially covered.",
+      "specificity_rationale": "Disclosure is high-level and programmatic rather than topic-specific. It describes workshops and support for customers, but gives no strategy for underserved banking access, no-cost accounts, or financial literacy initiatives tied to financial inclusion. There is no discussion of product design linked to these outcomes.",
+      "quantification_rationale": "No relevant SASB metrics are disclosed. The evidence provides no numbers for loans outstanding, past due or nonaccrual qualifying loans, no-cost retail checking accounts, or financial literacy participants. The only figures relate to climate and renewable energy, which are not relevant to FN-CB-240a.",
+      "citations": [
+        "Westpac_2025_SustainabilityReport#chunk_0140"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    },
+    "systemic_risk": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "presence_rationale": "The report clearly discusses stress testing, scenario analysis, and the Internal Capital Adequacy Assessment Process, including Board and senior executive reporting and capital impacts. That addresses the general topic of risk management and capital resilience, but the disclosure is framed around climate risk rather than explicit systemic-risk items such as G-SIB/D-SIB status, regulatory ratios, or recovery/resolution arrangements.",
+      "specificity_rationale": "The disclosure gives a substantive process description: stress tests feed into ICAAP, support capital holding decisions, and are used in board-level planning. It also outlines scenario types, horizons, and portfolio scope. However, it does not directly explain systemic-risk governance, capital adequacy planning for stress-test outcomes across the firm, or resolution planning in the way SASB expects.",
+      "quantification_rationale": "There are concrete numbers and ranges, including 3-year ICAAP, <5-year planning horizons, scenario time horizons to 2050, and assessed portfolio exposures such as ~$599b TCE and ~$547b TCE. Still, the evidence does not include the SASB-mandated quantitative items like G-SIB/D-SIB score or regulatory capital ratios, so quantification is partial.",
+      "citations": [
+        "chunk_0194",
+        "chunk_0171",
+        "chunk_0552",
+        "chunk_0062",
+        "chunk_0065"
+      ],
+      "a_i": 1,
+      "n_evidence_chunks": 5
+    }
+  }
+}

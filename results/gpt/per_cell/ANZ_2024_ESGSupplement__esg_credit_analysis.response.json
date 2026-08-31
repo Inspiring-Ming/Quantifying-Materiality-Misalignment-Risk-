@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses ESG integration in lending and credit risk. It names the Social and Environmental Risk Policy, Social and Environmental Risk Standard, Equator Principles, Enhanced Human Rights Due Diligence, and screening tools, and explains that bankers consider social, environmental, and climate risks in relation to large business customers and project finance. [ANZ_2024_ESGSupplement#chunk_0191] [ANZ_2024_ESGSupplement#chunk_0196] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+  "specificity_rationale": "Disclosure is fairly detailed on process and governance: it identifies policies/standards, responsible forums, due diligence steps, project finance conditions, and how issues are mitigated through documentation and monitoring. However, it does not fully explain accountability lines or provide a clear end-to-end creditworthiness integration framework for all lending. [ANZ_2024_ESGSupplement#chunk_0191] [ANZ_2024_ESGSupplement#chunk_0196] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+  "quantification_rationale": "The evidence contains some qualitative categorization like Category A/B project ratings and mentions specific project examples, but it does not provide the SASB-required industry-by-industry commercial and industrial credit exposure breakdown. It also lacks targets, portfolio metrics, or other quantitative measures of ESG incorporation in credit analysis. [ANZ_2024_ESGSupplement#chunk_0198] [ANZ_2024_ESGSupplement#chunk_0199] [ANZ_2024_ESGSupplement#chunk_0200]",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0191",
+    "ANZ_2024_ESGSupplement#chunk_0196",
+    "ANZ_2024_ESGSupplement#chunk_0198",
+    "ANZ_2024_ESGSupplement#chunk_0199",
+    "ANZ_2024_ESGSupplement#chunk_0200"
+  ]
+}

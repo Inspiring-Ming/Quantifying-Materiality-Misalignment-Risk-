@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The evidence contains only a broad customer-support reference: Westpac says it uses specialist hardship support teams to provide tailored solutions and identify vulnerability. That is loosely adjacent to financial inclusion, but it does not directly address unbanked or underbanked customers, small-business/community-development lending, or literacy initiatives.",
+  "specificity_rationale": "Disclosure is high-level and descriptive only. It explains hardship support and helping customers get back on track, but gives no financial inclusion strategy, no linkage to underserved-market product design, and no discussion of specific programs aimed at unbanked or underbanked customers.",
+  "quantification_rationale": "No relevant SASB metrics are reported in the retrieved evidence. There are no counts or amounts of qualifying loans, no past-due/nonaccrual figures, no no-cost account numbers, and no financial literacy participant numbers.",
+  "citations": ["Westpac_2024_ClimateReport#chunk_0032"]
+}

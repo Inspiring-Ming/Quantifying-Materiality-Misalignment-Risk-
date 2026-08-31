@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financed emissions. It says the bank measures and reports financed emissions aligned to PCAF, discusses sector-level financed emissions targets, and provides a financed emissions estimate for the lending portfolio. This is directly relevant to FN-CB-410b.",
+  "specificity_rationale": "Disclosure is substantive, covering alignment to the PCAF Standard, a financed-emissions target-setting roadmap, coverage of lending exposure, and links to climate strategy. However, it does not explain the calculation methodology in detail or provide the full SASB breakdowns required for a top score.",
+  "quantification_rationale": "The evidence includes some quantitative data: 21.8 MtCO2-e absolute financed emissions, 95% coverage of in-scope drawn lending exposure, and targets covering 67% of 2020 financed emissions. But it does not show Scope 1/2/3 financed emissions disaggregation, gross exposure by industry/asset class, or the exact methodology detail required.",
+  "citations": ["CBA_2024_SustainabilityReporting#chunk_0024", "CBA_2024_SustainabilityReporting#chunk_0023", "CBA_2024_SustainabilityReporting#chunk_0016", "CBA_2024_SustainabilityReporting#chunk_0022", "CBA_2024_SustainabilityReporting#chunk_0019"]
+}

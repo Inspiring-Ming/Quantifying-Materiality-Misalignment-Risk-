@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: 10 UNEP FI emissions-intensive sectors with EAD breakdown by sector with geographic and operational scope. PCAF-aligned methodology with 2022 changes documented. Cement sector target detailed (24% reduction to 0.46 tCO2-e/t by 2030). KPMG limited assurance over financed emissions data.",
+  "specificity_rationale": "Names PCAF Standard, UNEP FI Guidelines for Climate Target Setting for Banks, IEA NZE 2050 reference scenario for cement, methodology improvements (matched reporting dates of customer EAD with emissions data; sector inclusion alignment with UNEP FI). Per-sector financing scope (EAD excluding derivatives) explicit. KPMG assurance over financed emissions, sector targets, $70bn environmental financing target.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 directly: per-sector Scope 1+2 (Scope 1+2+3 for fossil fuel sectors) absolute and intensity. SASB FN-CB-410b.2: per-sector EAD (e.g. power 5.8 $bn / 0.67% of total EAD; thermal coal 0.7/0.09%; oil and gas 1.9/0.22%; residential real estate 365/42.33%). Sector targets quantified. 74% Scope 1+2 reduction since 2015 (target 51% by 2025), 47% energy reduction since 2019. 72.4% renewable electricity (up from 31.4% in 2021). Cement target 0.60→0.46 tCO2-e/t. SASB FN-CB-410b metrics fully covered.",
+  "citations": [
+    "NAB_2022_ClimateReport#chunk_0121",
+    "NAB_2022_ClimateReport#chunk_0136",
+    "NAB_2022_ClimateReport#chunk_0134",
+    "NAB_2022_ClimateReport#chunk_0101",
+    "NAB_2022_ClimateReport#chunk_0113"
+  ]
+}

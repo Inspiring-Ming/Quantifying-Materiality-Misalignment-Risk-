@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Comprehensive financed-emissions disclosure: 13 sector targets with multi-year progress (FY21 baseline, FY23, FY24 actuals). Total estimated FY24 financed emissions table (Total Business and Institutional 9.8 MtCO2-e Scope 1+2, 5.1 MtCO2-e Scope 3). Per-sector progress significant (Thermal coal -94%, Oil&gas -55%, Aviation -47%, Power -38%).",
+  "specificity_rationale": "Names PCAF Standard, NZBA Version 2 Guidelines (target boundary updates), CRREM, IEA NZE 2050, SBTi guidance, NABERS proxy, IPCC RCP scenarios, NGFS scenarios. Sector boundary apportionment methodology for diversified companies (EVIC weighting). EY/KPMG assurance referenced. Climate Transition Plan published. Westpac 2024 Sustainable Finance Framework with Sustainable Finance Taxonomy.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 with full detail: Power 0.16 tCO2-e/MWh (FY24, vs 0.26 baseline = -38%), Cement 'on track', Oil and Gas 4.1 MtCO2-e (-55%), Coal 0.14 MtCO2-e (-94%), Aviation 100.5 g/pkm (-47%). FN-CB-410b.2: per-sector financed emissions for 7+ industries with intensities (Total Business and Institutional 0.135 kgCO2-e/$, Mining 1.228, Manufacturing 0.424, Agriculture 0.307). FN-CB-410b.3: 32% Group total loan balance covered (98% Business and Institutional, 91% Residential Mortgages). FN-CB-410b.4: methodology fully documented. Operational Scope 1+2 -64% by 2025 / -76% by 2030 from 2021 baseline. SASB FN-CB-410b fully covered.",
+  "citations": [
+    "Westpac_2025_SustainabilityReport#chunk_0242",
+    "Westpac_2025_SustainabilityReport#chunk_0115",
+    "Westpac_2025_SustainabilityReport#chunk_0257",
+    "Westpac_2025_SustainabilityReport#chunk_0263",
+    "Westpac_2025_SustainabilityReport#chunk_0282"
+  ]
+}

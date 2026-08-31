@@ -1,0 +1,13 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Topic is touched only via climate-risk framework (climate scenario stress-testing, APRA Climate Vulnerability Assessment). The SASB FN-CB-550a focus (G-SIB score, capital adequacy, integration of mandatory stress tests into capital planning and corporate strategy) is not addressed in the retrieved evidence.",
+  "specificity_rationale": "Climate-risk framework is described (Climate Advisory and Coordination Forum, five working groups including risk appetite and analytics), but no description of regulatory capital framework, no resolution/recovery planning detail, no description of how supervisory stress tests feed into capital adequacy planning. The SASB FN-CB-550a.2 disclosure is not in the evidence.",
+  "quantification_rationale": "No G-SIB or D-SIB score disclosed, no CET1 or capital ratios, no stress test scenarios with quantitative outputs, no LCR or NSFR. None of the SASB FN-CB-550a metrics are present in the retrieved evidence.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0095",
+    "ANZ_2021_ESGSupplement#chunk_0094",
+    "ANZ_2021_ESGSupplement#chunk_0031"
+  ]
+}

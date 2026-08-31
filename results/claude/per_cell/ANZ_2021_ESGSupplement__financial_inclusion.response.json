@@ -1,0 +1,16 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Financial wellbeing' section with explicit commitments, including a 2030 target to fund $10 billion of investment in MoneyMinded and Saver Plus programmes.",
+  "specificity_rationale": "Multiple named programmes (MoneyMinded, MoneyBusiness, Saver Plus, Pacific MoneyMinded) with detailed governance, regional partnerships (FHBoP, Reserve Bank of Fiji, Powerpac, MoneyBusiness with Australian Government), specific outreach mechanisms (Financial Wellbeing Challenge, ANZ App savings goal feature). Programme history back to 2002 with substantive scope.",
+  "quantification_rationale": "Reports the SASB FN-CB-240a.4 metric (financial literacy participants: 64,011 in MoneyMinded, 67,600 across all programmes). Reports number of customers building savings habits (151,600). Targets named with progress tracking. However, no disclosure of the FN-CB-240a.1/.2/.3 metrics around small-business loan amounts and no-cost checking accounts, so partial coverage.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0046",
+    "ANZ_2021_ESGSupplement#chunk_0075",
+    "ANZ_2021_ESGSupplement#chunk_0044",
+    "ANZ_2021_ESGSupplement#chunk_0055",
+    "ANZ_2021_ESGSupplement#chunk_0071",
+    "ANZ_2021_ESGSupplement#chunk_0065"
+  ]
+}

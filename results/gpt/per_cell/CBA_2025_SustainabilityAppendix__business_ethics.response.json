@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence explicitly maps to FN-CB-510a and discusses litigation exposure, financial crime, fraud, unethical behaviour, and a whistleblower policy. This shows the topic is directly addressed rather than implied.",
+  "specificity_rationale": "The disclosure gives more than a label: it references litigations, investigations and reviews, customer remediation, prevention of financial crime and fraud, and a whistleblower policy aligned to ASIC RG 270 with SpeakUP reporting. However, it does not fully describe corrective actions or legal-case outcomes in depth.",
+  "quantification_rationale": "There are some numbers, including 408 disclosures and 68 whistleblower cases, but no monetary losses from legal proceedings and no quantified SASB loss metric. The core required financial figure for FN-CB-510a.1 is missing.",
+  "citations": ["CBA_2025_SustainabilityAppendix#chunk_0066", "CBA_2025_SustainabilityAppendix#chunk_0067"]
+}

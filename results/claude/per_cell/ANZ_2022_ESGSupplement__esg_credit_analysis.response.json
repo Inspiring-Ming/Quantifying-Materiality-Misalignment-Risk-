@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated section on Equator Principles, ANZ Grievance Mechanism, Modern Slavery program, sensitive sector and Social and Environmental Risk Policy. Topic comprehensively covered.",
+  "specificity_rationale": "Detailed framework: EP categorisation case studies (electronics manufacturing Vietnam Cat C, infrastructure project SE Asia Cat A declined, solar farms NSW Cat B), assessment criteria (client capacity, transaction scope, EIA, community concern), Modern Slavery five training modules, supplier assessment, ESDD process, due-diligence triggers. International standards adoption named (UN Global Compact, UNGP, Equator Principles).",
+  "quantification_rationale": "Case-study numbers given but the SASB FN-CB-410a.1 metric (commercial and industrial credit exposure by industry) is not disclosed in retrieved evidence. Mentions sector targets set for power generation and commercial real estate but no aggregate exposure breakdown.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0311",
+    "ANZ_2022_ESGSupplement#chunk_0290",
+    "ANZ_2022_ESGSupplement#chunk_0292",
+    "ANZ_2022_ESGSupplement#chunk_0291",
+    "ANZ_2022_ESGSupplement#chunk_0434"
+  ]
+}

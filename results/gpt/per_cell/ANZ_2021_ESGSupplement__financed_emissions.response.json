@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The report touches the topic only indirectly: it says ANZ engaged with 100 of its largest emitting business customers on low-carbon transition plans and notes that its SBTi-aligned target excludes financing activities (Scope 3). That shows awareness of financed-emissions-related risk, but it does not actually disclose financed emissions.",
+  "specificity_rationale": "Disclosure is very limited and mostly contextual. It references customer transition plans and explicitly says financing emissions are excluded from the target, but provides no discussion of financed-emissions methodology, sector/industry exposure, or how the bank measures its lending footprint.",
+  "quantification_rationale": "No financed-emissions numbers are shown. The evidence includes counts for customer engagement and general Scope 1/2 reduction targets, but not absolute Scope 1/2/3 financed emissions, gross exposure by industry or asset class, or percentage of exposure covered by any financed-emissions calculation.",
+  "citations": ["ANZ_2021_ESGSupplement#chunk_0009", "ANZ_2021_ESGSupplement#chunk_0049", "ANZ_2021_ESGSupplement#chunk_0120"]
+}

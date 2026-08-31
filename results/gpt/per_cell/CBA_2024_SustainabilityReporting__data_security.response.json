@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses cyber security, privacy, and data security as material topics and discusses protecting personal information, system-level resilience, and evolving threats. It is directly relevant to FN-CB-230a, even though it does not explicitly frame the disclosure as a breach reporting section.",
+  "specificity_rationale": "The disclosure goes beyond a mention: it describes security and privacy controls, internal review processes, privacy policy, and efforts to keep pace with regulatory and technological change. It also notes rising cyber threats and the need to minimize disruption and protect customer and employee information.",
+  "quantification_rationale": "There are some numbers in the surrounding discussion, but not the SASB-required metrics: no count of breaches, no percentage of breaches involving personal data, and no number of account holders affected. The only quantitative content is indirect, such as customer counts and scam-loss reduction, which does not satisfy the topic’s metric requirements.",
+  "citations": ["CBA_2024_SustainabilityReporting#chunk_0078", "CBA_2024_SustainabilityReporting#chunk_0012", "CBA_2024_SustainabilityReporting#chunk_0008"]
+}

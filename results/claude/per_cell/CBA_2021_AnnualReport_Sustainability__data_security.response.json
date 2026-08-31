@@ -1,0 +1,11 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "Data security receives only a single brief mention in the retrieved evidence: 'Cybersecurity training' for small/medium businesses (6,900 modules delivered) and Indigenous Business Banking Cyber Safety guide. No dedicated section on the bank's own data protection program for customer data.",
+  "specificity_rationale": "Names 'Cyber for Business' training program and Indigenous Business Banking Cyber Safety and Fraud Prevention Guide. No description of cyber risk identification process, no incident response framework, no governance roles. Customer-facing training is named but the bank's own controls are not.",
+  "quantification_rationale": "Reports 6,900 'Cyber for Business' training modules delivered. No SASB FN-CB-230a.1 metric (number of breaches, percentage personal data, customers affected). The 6,900 is a customer-education number, not a data-security disclosure metric.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0049"
+  ]
+}

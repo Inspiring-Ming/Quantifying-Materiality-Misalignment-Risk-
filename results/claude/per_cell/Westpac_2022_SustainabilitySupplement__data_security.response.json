@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive 'Preventing scams and fraud' section with named technologies and partnerships. Safety by design product development approach. Child Safeguarding Position Statement (a first for Westpac).",
+  "specificity_rationale": "Names dynamic CVC (24-hr changing Card Verification Code), scam blocks (auto-blocking suspect overseas retailer transactions), gambling block, real-time security prompts (untrusted Wi-Fi detection), abusive message blocking, fraud teams 24/7. IDCARE partnership for regional/rural Australians (50 new hubs). Scam specialists +50%. Westpac became first private Australian business to block scammer-impersonation calls.",
+  "quantification_rationale": "Reports 80% reduction in average customer credit-card fraud since dynamic CVC introduction, 42,000+ customers assisted by specialist customer-care teams, 61,000+ gambling blocks applied to credit/debit cards, 2,300+ warning letters sent, 48,000+ transactions blocked in real time containing abusive messages. Australians lost $2bn+ to scams in 2021. SASB FN-CB-230a.1 metric (number of breaches, % personal data, customers affected) not directly disclosed in retrieved chunks.",
+  "citations": [
+    "Westpac_2022_SustainabilitySupplement#chunk_0023",
+    "Westpac_2022_SustainabilitySupplement#chunk_0024",
+    "Westpac_2022_SustainabilitySupplement#chunk_0025",
+    "Westpac_2022_SustainabilitySupplement#chunk_0026"
+  ]
+}

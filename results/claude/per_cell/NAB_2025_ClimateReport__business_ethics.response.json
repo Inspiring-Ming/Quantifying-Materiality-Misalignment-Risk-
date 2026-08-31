@@ -1,0 +1,12 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address EY assurance scope (Subject Matter / Criteria / Period / Location), DCCEEW electricity grid forecasts, ESOS UK obligations. No SASB FN-CB-510a (whistleblower or monetary losses) content in retrieved evidence — correctly out-of-scope.",
+  "specificity_rationale": "Names PCAF, NAB Environmental Reporting and Offset Management Policy, EY Assurance criteria and methodology. No whistleblower programme or ABAC content.",
+  "quantification_rationale": "No SASB FN-CB-510a metrics in retrieved evidence.",
+  "citations": [
+    "NAB_2025_ClimateReport#chunk_0378",
+    "NAB_2025_ClimateReport#chunk_0376"
+  ]
+}

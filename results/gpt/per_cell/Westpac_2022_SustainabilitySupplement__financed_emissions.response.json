@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financed emissions and related climate strategy, including a section titled “Net-Zero 2030 Targets and Financed Emissions – our methodology and approach” and references to “sectors representing the majority of our financed emissions.” However, it does not provide a full standalone financed-emissions disclosure with the SASB-required detail in the retrieved evidence.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention by linking financed emissions to strategy, Paris-aligned financing, and sector targets. It also points to a dedicated methodology/approach section. Still, the evidence is mostly high-level and promotional, with limited explanation of how financed emissions are measured or broken down by asset class or industry.",
+  "quantification_rationale": "There are some quantified items, such as $1.9 billion and $3.5 billion of new lending, plus operational emissions reductions of 70% and 29%. But the evidence does not show absolute financed emissions by Scope 1/2/3, gross exposure by industry or asset class, or the percentage of gross exposure included in the calculation. That keeps Q low.",
+  "citations": ["Westpac_2022_SustainabilitySupplement#chunk_0004", "Westpac_2022_SustainabilitySupplement#chunk_0015", "Westpac_2022_SustainabilitySupplement#chunk_0016", "Westpac_2022_SustainabilitySupplement#chunk_0018"]
+}

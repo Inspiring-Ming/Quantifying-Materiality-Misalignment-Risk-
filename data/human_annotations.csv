@@ -1,0 +1,35 @@
+# Pilot human validation: 30 (report, topic) cells independently scored by a
+# single domain annotator, paired with the Claude score for the same cell.
+# Single annotator, so this measures human-model agreement, NOT inter-rater
+# reliability. Agreement statistics: results/robustness/human_agreement_metrics.csv
+cell_idx,report_id,topic,human_presence,human_specificity,human_quantification,human_coverage,claude_presence,claude_specificity,claude_quantification,claude_coverage,diff_coverage_human_minus_claude,annotator_notes
+1,ANZ_2025_ESGReport,data_security,1.0,0.75,0.75,0.8333,1.0,1.0,1.0,1.0000,-0.1667,
+2,ANZ_2025_ESGReport,financial_inclusion,0.5,0.5,0.5,0.5,1.0,1.0,0.75,0.9167,-0.4167,Uncertain
+3,ANZ_2025_ESGReport,esg_credit_analysis,0.25,0.25,0.25,0.25,1.0,1.0,0.5,0.8333,-0.5833,
+4,ANZ_2025_ESGReport,financed_emissions,1.0,1.0,0.75,0.9167,1.0,0.75,0.75,0.8333,0.0834,
+5,ANZ_2025_ESGReport,business_ethics,1.0,0.75,0.5,0.75,1.0,1.0,1.0,1.0000,-0.25,
+6,ANZ_2025_ESGReport,systemic_risk,0.5,0.5,0.0,0.3333,1.0,1.0,0.75,0.9167,-0.5834,
+7,CBA_2025_SustainabilityAppendix,data_security,0.75,0.5,0.25,0.5,1.0,0.75,0.5,0.7500,-0.25,
+8,CBA_2025_SustainabilityAppendix,financial_inclusion,0.5,0.25,0.25,0.3333,1.0,1.0,1.0,1.0000,-0.6667,
+9,CBA_2025_SustainabilityAppendix,esg_credit_analysis,0.5,0.25,0.25,0.3333,1.0,1.0,0.75,0.9167,-0.5834,
+10,CBA_2025_SustainabilityAppendix,financed_emissions,1.0,0.75,0.5,0.75,1.0,1.0,0.75,0.9167,-0.1667,
+11,CBA_2025_SustainabilityAppendix,business_ethics,0.75,0.75,0.5,0.6667,1.0,1.0,1.0,1.0000,-0.3333,
+12,CBA_2025_SustainabilityAppendix,systemic_risk,0.75,0.5,0.5,0.5833,1.0,1.0,1.0,1.0000,-0.4167,
+13,Westpac_2021_SustainabilitySupplement,data_security,0.5,0.5,0.25,0.4167,1.0,0.75,0.5,0.7500,-0.3333,
+14,Westpac_2021_SustainabilitySupplement,financial_inclusion,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0000,-1.0,
+15,Westpac_2021_SustainabilitySupplement,esg_credit_analysis,0.5,0.5,0.0,0.3333,1.0,1.0,0.75,0.9167,-0.5834,
+16,Westpac_2021_SustainabilitySupplement,financed_emissions,1.0,0.75,0.5,0.75,1.0,1.0,1.0,1.0000,-0.25,
+17,Westpac_2021_SustainabilitySupplement,business_ethics,0.75,0.5,0.25,0.5,1.0,1.0,0.75,0.9167,-0.4167,
+18,Westpac_2021_SustainabilitySupplement,systemic_risk,0.0,0.0,0.0,0.0,1.0,1.0,0.5,0.8333,-0.8333,
+19,ANZ_2021_ESGSupplement,data_security,1.0,1.0,0.5,0.8333,1.0,0.75,0.5,0.7500,0.0833,
+20,ANZ_2021_ESGSupplement,financial_inclusion,0.75,0.5,0.5,0.5833,1.0,1.0,0.75,0.9167,-0.3334,
+21,ANZ_2021_ESGSupplement,esg_credit_analysis,0.5,0.25,0.0,0.25,1.0,1.0,0.5,0.8333,-0.5833,
+22,ANZ_2021_ESGSupplement,financed_emissions,1.0,0.75,0.75,0.8333,0.5,0.25,0.25,0.3333,0.5,
+23,ANZ_2021_ESGSupplement,business_ethics,0.75,0.75,0.75,0.75,1.0,1.0,0.75,0.9167,-0.1667,
+24,ANZ_2021_ESGSupplement,systemic_risk,0.5,0.25,0.25,0.3333,0.5,0.25,0.0,0.2500,0.0833,
+25,Westpac_2023_ClimateReport,data_security,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0000,0.0,
+26,Westpac_2023_ClimateReport,financial_inclusion,0.25,0.0,0.0,0.0833,0.25,0.25,0.0,0.1667,-0.0834,
+27,Westpac_2023_ClimateReport,esg_credit_analysis,0.25,0.25,0.0,0.1667,1.0,1.0,0.5,0.8333,-0.6666,
+28,Westpac_2023_ClimateReport,financed_emissions,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0000,0.0,
+29,Westpac_2023_ClimateReport,business_ethics,0.25,0.25,0.25,0.25,0.25,0.25,0.0,0.1667,0.0833,
+30,Westpac_2023_ClimateReport,systemic_risk,0.25,0.0,0.0,0.0833,1.0,1.0,0.5,0.8333,-0.75,

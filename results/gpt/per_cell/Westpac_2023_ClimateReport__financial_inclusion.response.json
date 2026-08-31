@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is from a climate-only report and discusses agricultural emissions targets and financing for emissions-reduction practices, not financial inclusion, underserved customers, or community-development lending. It does not address the SASB topic.",
+  "specificity_rationale": "No substantive disclosure appears on unbanked or underbanked customers, no-cost accounts, financial literacy initiatives, or product-design strategy for financial inclusion. The only financing-related content is about sustainable farm lending for climate transition.",
+  "quantification_rationale": "No SASB-required figures are shown for loans outstanding, past-due/nonaccrual loans, no-cost retail checking accounts, or financial literacy participants. The evidence contains climate target percentages and qualitative transition actions only.",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0348", "Westpac_2023_ClimateReport#chunk_0345", "Westpac_2023_ClimateReport#chunk_0338", "Westpac_2023_ClimateReport#chunk_0341"]
+}

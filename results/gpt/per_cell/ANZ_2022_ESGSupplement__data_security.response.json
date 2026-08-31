@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses data security / information security. It describes privacy risk management, cyber threat monitoring, incident response, root cause analysis, privacy training, and regulatory changes affecting data protection. It also states ANZ reported zero data breaches this year.",
+  "specificity_rationale": "Disclosure is substantive: ANZ explains its 24/7 security operations centre, monitoring for suspicious conduct, event management processes, privacy assessments, mandatory training, and responses to changing laws and emerging threats. It goes beyond a generic statement and discusses controls and governance, though it does not fully detail all SASB-required metrics.",
+  "quantification_rationale": "The evidence gives one concrete breach count: zero data breaches in the year, with a comparison to three in 2021. However, it does not provide the percentage of breaches that were personal data breaches or the number of account holders affected, so quantification is only partial.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0266", "ANZ_2022_ESGSupplement#chunk_0267", "ANZ_2022_ESGSupplement#chunk_0268", "ANZ_2022_ESGSupplement#chunk_0029"]
+}

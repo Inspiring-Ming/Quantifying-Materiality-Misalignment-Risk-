@@ -1,0 +1,11 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks are predominantly about climate-risk modelling and Indigenous Advisory Group composition — not financial inclusion specifically. Brief mention of climate impact on regional/remote postcode home lending is the only oblique reference to financial inclusion.",
+  "specificity_rationale": "Indigenous Advisory Group named (climate governance, not financial inclusion programmes). No MoneyMinded-equivalent named, no financial literacy programme named.",
+  "quantification_rationale": "No SASB FN-CB-240a metrics in retrieved evidence — climate-only report scope is correctly out-of-scope for this topic.",
+  "citations": [
+    "NAB_2022_ClimateReport#chunk_0007"
+  ]
+}

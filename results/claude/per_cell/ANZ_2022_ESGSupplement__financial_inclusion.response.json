@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Financial wellbeing' section with explicit financial-inclusion programmes (banking-the-unbanked in Fiji, MoneyMinded across the region, accessibility research with University of South Australia).",
+  "specificity_rationale": "Names UNDP partnership for rural Fiji banking, Vodafone partnership for M-PAiSA money transfer, MoneyMinded delivered with Berry Street, Brotherhood of St Laurence, Smith Family, Regent Training Centre NZ. External steering committees in AU/NZ, ANZ Financial Wellbeing model, Saver Plus, accessibility research methodology described.",
+  "quantification_rationale": "Reports financial literacy participants (>58,000), savings program enrolment (1.5M customers), MoneyMinded reach by partnership, M-PAiSA transactions (326,000+), $4.4B in sustainable home finance. The SASB FN-CB-240a.4 (literacy participants) is met. Number/amount of small-business community-development loans (240a.1/.2) and number of no-cost checking accounts (240a.3) not in evidence.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0142",
+    "ANZ_2022_ESGSupplement#chunk_0143",
+    "ANZ_2022_ESGSupplement#chunk_0146",
+    "ANZ_2022_ESGSupplement#chunk_0156",
+    "ANZ_2022_ESGSupplement#chunk_0132"
+  ]
+}

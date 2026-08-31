@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated ESG Risk Management section integrated into credit risk assessment. Equator Principles signatory, UN Global Compact, PRB, CCCA, Modern Slavery and Human Rights Policy. ESG module mandatory in annual Risk Awareness training.",
+  "specificity_rationale": "Names High Risk ESG Sectors and Sensitive Areas list, Credit Risk Policy and Supplier Sustainability Program with mandatory screening, ESG risk assessment as part of loan origination + on-boarding + supplier tendering. Sustainability Risk defined as material risk category. Group Human Rights Policy refreshed in 2021. Modern Slavery Statement (UK Act since 2016, AU Act since 2020). Specific human-rights cases described (declined relationships, ongoing investigations, AUSTRAC referrals).",
+  "quantification_rationale": "Reports zero modern slavery / human trafficking instances identified through Whistleblower Program. 'Small number' of customers with potential issues identified — not quantified. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) is in NAB Pillar 3 reports (referenced in chunks) but not in retrieved chunks here.",
+  "citations": [
+    "NAB_2021_AnnualReview#chunk_0178",
+    "NAB_2021_AnnualReview#chunk_0174",
+    "NAB_2021_AnnualReview#chunk_0177",
+    "NAB_2021_AnnualReview#chunk_0173",
+    "NAB_2021_AnnualReview#chunk_0176"
+  ]
+}

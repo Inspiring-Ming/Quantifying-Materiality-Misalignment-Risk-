@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive ESG-in-credit framework: ESG risk assessment tools mandatory in non-retail lending, sector positions integrated into ESG risk assessment processes, enhanced escalation framework for transactions impacting NZBA sector targets. Climate transition plans of 150+ institutional customers assessed.",
+  "specificity_rationale": "Names ESG risk assessment tools, Group Risk Management Framework processes for liability risks, IFRS S2 alignment, Sustainable Finance Framework with Sustainable Finance Taxonomy, NZBA capital markets working group participation, Westpac Sustainable Upgrades home/investor loans (CEFC-supported), NZ Sustainable Equipment Finance Loan, banker training for net-zero/ESG conversations.",
+  "quantification_rationale": "Reports per-sector exposure ($bn): Oil and Gas Exploration $4M, Oil and Gas Extraction $1,764M (-28% YoY), Oil and Gas refining $331M (-51%), Oil and Gas distribution and retail $2,972M (+13%), $9.6bn growth in sustainable finance TCE in FY24. 150+ institutional customer transition plans assessed. SASB FN-CB-410a.1 substantively covered through fossil-fuel sector exposure breakdown.",
+  "citations": [
+    "Westpac_2024_ClimateReport#chunk_0321",
+    "Westpac_2024_ClimateReport#chunk_0241",
+    "Westpac_2024_ClimateReport#chunk_0083",
+    "Westpac_2024_ClimateReport#chunk_0034",
+    "Westpac_2024_ClimateReport#chunk_0080"
+  ]
+}

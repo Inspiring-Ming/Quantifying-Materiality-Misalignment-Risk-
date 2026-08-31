@@ -1,0 +1,13 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-240a.1, .2, .3, .4 with structured numerical responses. Plus dedicated Indigenous Customer Assistance, Next Chapter for DV/financial abuse, Financial Independence Hub.",
+  "specificity_rationale": "Names Business Banking fee-free not-for-profit accounts, Retail Banking fee-free/discounted accounts (youth, students, Government benefit recipients, NFP organisations, older people), Financial Assistance team, Indigenous Customer Assistance Line, Next Chapter team interactions, Financial Independence Hub participants. Modern Slavery and Human Trafficking Statement, Reconciliation Action Plan, Human Rights of First Nations Stakeholder Grievance Process Framework.",
+  "quantification_rationale": "Reports SASB FN-CB-240a.1 ($4.2M business banking forgone revenue from NFP accounts), FN-CB-240a.2 (106,930 hardship requests approved 12 months to 30 June 2025), FN-CB-240a.3 ($278M retail forgone revenue), and FN-CB-240a.4 pointer to detailed disclosures. All four SASB FN-CB-240a metrics substantively covered with concrete numbers.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0060",
+    "CBA_2025_SustainabilityAppendix#chunk_0059",
+    "CBA_2025_SustainabilityAppendix#chunk_0051"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses business ethics through whistleblower policy, misconduct reporting channels, protections, and anti-bribery/anti-corruption controls. It discusses allegations, investigations, and remediation actions, so the topic is directly covered. However, it does not provide the SASB-required legal-loss disclosure for fraud, insider trading, antitrust, or related proceedings.",
+  "specificity_rationale": "Disclosure is fairly detailed: it describes the Whistleblower Policy and Program, speak-up channels, annual training, awareness campaigns, employee survey feedback, and types of allegations plus actions taken on reports. It also covers ABAC governance and third-party due diligence. The main gap is the absence of a clear discussion of legal proceedings tied to the SASB metric.",
+  "quantification_rationale": "The evidence includes several concrete counts, such as 216 awareness sessions, 222 new whistleblower reports, and 99.85% training completion. But it does not disclose monetary losses from legal proceedings, which is the key SASB quantitative metric for this topic. Quantification is therefore partial rather than strong.",
+  "citations": ["ANZ_2024_ESGSupplement#chunk_0075", "ANZ_2024_ESGSupplement#chunk_0076", "ANZ_2024_ESGSupplement#chunk_0183", "ANZ_2024_ESGSupplement#chunk_0186"]
+}

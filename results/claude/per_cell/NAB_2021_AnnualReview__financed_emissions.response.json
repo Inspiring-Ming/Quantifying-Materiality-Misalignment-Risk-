@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: aggregated estimate for 8 sectors of Australian lending portfolio = 10,885,840 tCO2-e covering 50.7% of Group EAD as at 30 June 2021. PCAF-aligned methodology. CCCA signatory.",
+  "specificity_rationale": "Names PCAF residential mortgages methodology, Sectoral Decarbonisation Approach (SDA) Services Buildings methodology aligned to Well Below 2C, NAB SBT (carbon neutral over a decade as first Australian bank), CCCA requirements, Equator Principles, oil and gas sector review with credit policy update, science-based GHG reduction target with 2015 baseline. Sector-specific decarbonisation targets to be published in 2022 reporting suite.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 directly: 10,885,840 tCO2-e attributable financed emissions across 8 Australian sectors. FN-CB-410b.2 partially: industry breakdown by sector with intensities (24.1 tCO2-e per $1M AUD financed average). FN-CB-410b.3: 50.7% of Group EAD coverage. 55% Scope 1+2 reduction since 2015 (target 51% by 2025). $56.3bn cumulative environmental financing. 34/100 largest emitting customers engaged on transition plans. SASB FN-CB-410b metrics directly disclosed.",
+  "citations": [
+    "NAB_2021_AnnualReview#chunk_0117",
+    "NAB_2021_AnnualReview#chunk_0119",
+    "NAB_2021_AnnualReview#chunk_0094",
+    "NAB_2021_AnnualReview#chunk_0097",
+    "NAB_2021_AnnualReview#chunk_0098"
+  ]
+}

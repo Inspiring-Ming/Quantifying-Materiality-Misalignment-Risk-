@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Index-style supplement with limited inline ESG-credit content. Pointer to Annual Report Section 1 Sustainability for ESG risk management. Modern Slavery Statement, Human Rights Position Statement and 2023 Action Plan, Reconciliation Action Plan all referenced as separate documents. Net-Zero 2030 Targets and Financed Emissions methodology document referenced.",
+  "specificity_rationale": "Names full reporting suite (Annual Report Sustainability section, Net-Zero 2030 Targets methodology, Climate Change Position Statement and Action Plan, Human Rights Position Statement and 2023 Action Plan, 2022-2025 RAP, Child Safeguarding Position Statement, Safer Children Safer Communities Progress Report, Modern Slavery Statement). Most operational ESG-credit detail is referenced rather than inline.",
+  "quantification_rationale": "Reports $20.7M diverse supplier spend, $8.8M Indigenous supplier spend, 100 new scholarships, $18.7M Safer Children Safer Communities investment since 2021. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) not in retrieved chunks (lives in Annual Report).",
+  "citations": [
+    "Westpac_2022_SustainabilitySupplement#chunk_0018",
+    "Westpac_2022_SustainabilitySupplement#chunk_0003",
+    "Westpac_2022_SustainabilitySupplement#chunk_0004",
+    "Westpac_2022_SustainabilitySupplement#chunk_0012"
+  ]
+}

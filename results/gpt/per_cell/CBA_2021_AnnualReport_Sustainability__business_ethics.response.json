@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses business ethics through a Group Whistleblower Policy, SpeakUP reporting, anti-corruption governance, and tax policy principles. It also frames these within broader responsible business practices. However, the evidence does not show the SASB-required legal-loss disclosure.",
+  "specificity_rationale": "The disclosure names the whistleblower policy and gives some context on reporting activity and related governance topics, including anti-corruption and tax transparency. It does not describe whistleblower procedures in detail, reporting channels, or corrective actions taken after cases, so the treatment is moderate rather than deep.",
+  "quantification_rationale": "There are some numbers tied to whistleblowing, such as 335 reports and 123 whistleblower cases, which shows limited quantification. But the evidence does not provide the SASB metric on monetary losses from legal proceedings, nor amounts tied to fraud, insider trading, antitrust, or market manipulation.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0064", "CBA_2021_AnnualReport_Sustainability#chunk_0070", "CBA_2021_AnnualReport_Sustainability#chunk_0073"]
+}

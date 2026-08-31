@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Speak Up culture' / Whistleblower Program section, Code of Conduct breaches detailed, Professional Standards Forums (quarterly review per business unit), FairCall external hotline.",
+  "specificity_rationale": "Names FairCall (independently monitored external hotline, anonymous), Professional Standards Forums (per business unit, quarterly), Code of Conduct, NAB Whistleblower Program, Heartbeat colleague engagement survey for measuring 'speak up' confidence. Consequence range from coaching/counselling/written warnings → 5-100% variable reward reductions → termination. Compliance simulation program for executives benchmarked to APRA self-assessment and Royal Commission case studies.",
+  "quantification_rationale": "Reports 190 wrongdoing disclosures in FY21 (53 substantiated, 117 not substantiated, 20 under investigation). 4,740 Code of Conduct breaches FY21 (vs 1,105 FY20, with explanation of methodology change for completeness). 'Speak up' survey: 88% confidence (up from 77% in 2018), 81% no-fear-of-retaliation (up from 74%). YoY tracking strong. SASB FN-CB-510a.1 (monetary losses from legal proceedings) referenced in Annual Financial Report (pp. 169-172) but not in retrieved chunks.",
+  "citations": [
+    "NAB_2021_AnnualReview#chunk_0086",
+    "NAB_2021_AnnualReview#chunk_0087",
+    "NAB_2021_AnnualReview#chunk_0085",
+    "NAB_2021_AnnualReview#chunk_0205",
+    "NAB_2021_AnnualReview#chunk_0209"
+  ]
+}

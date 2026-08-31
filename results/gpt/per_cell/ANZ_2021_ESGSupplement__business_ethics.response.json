@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses business ethics through whistleblower policy, speak-up channels, anti-bribery/anti-corruption controls, code of conduct requirements, training, and investigation outcomes. It also describes corrective actions such as warnings, terminations, and process improvements. However, it does not show the SASB-required monetary losses from legal proceedings.",
+  "specificity_rationale": "Disclosure is substantive and operational. It explains whistleblower protections, multiple reporting channels, training obligations, case management improvements, review panels, and anti-bribery/anti-corruption policy framing. It also describes how misconduct reports are handled and what actions follow investigations. The only major gap is the absence of legal-loss context tied to the SASB metric.",
+  "quantification_rationale": "The evidence includes several numbers: 157 new whistleblower reports, 1,435 employee relations cases, 114 terminations, 381 warnings, 78 employees leaving, 77% of investigated reports leading to actions, and 99.97% training completion. But it does not disclose monetary losses from legal proceedings, so the SASB quantitative metric is missing.",
+  "citations": ["ANZ_2021_ESGSupplement#chunk_0155", "ANZ_2021_ESGSupplement#chunk_0153", "ANZ_2021_ESGSupplement#chunk_0151", "ANZ_2021_ESGSupplement#chunk_0154", "ANZ_2021_ESGSupplement#chunk_0201"]
+}

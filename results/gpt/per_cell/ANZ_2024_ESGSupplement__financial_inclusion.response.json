@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The evidence clearly addresses financial inclusion and capacity building through MoneyMinded, MoneyBusiness, First Nations customer support, interpreter services, and hardship support. It shows the bank is actively serving underserved or vulnerable customers, so the topic is directly covered.",
+  "specificity_rationale": "The disclosure gives program detail, target customer groups, delivery channels, and an explicit strategy response: MoneyMinded content was revamped in 2024 due to the current financial environment, and support is tailored for First Nations and culturally and linguistically diverse customers. However, it does not fully connect outcomes to product design across the topic.",
+  "quantification_rationale": "There are several concrete figures for participation and support, including more than one million cumulative MoneyMinded participants, 118,021 this year, 22,617 participants in Asia-Pacific and New Zealand, and more than 440 accredited coaches. But the required SASB loan and no-cost account metrics are absent, so quantification is partial.",
+  "citations": ["ANZ_2024_ESGSupplement#chunk_0114", "ANZ_2024_ESGSupplement#chunk_0116", "ANZ_2024_ESGSupplement#chunk_0155", "ANZ_2024_ESGSupplement#chunk_0157", "ANZ_2024_ESGSupplement#chunk_0161"]
+}

@@ -1,0 +1,12 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through fee-free or discounted banking products, hardship support, and references to financial assistance and community programs. However, the evidence only partially maps to the SASB topic and does not directly discuss the full set of required small-business/community-development lending and underserved-customer access metrics.",
+  "specificity_rationale": "The disclosure gives some program-level detail, including Business Banking fee-free/discounted products, Financial Assistance support, and references to community investment and customer inclusion pages. It is still broad and mostly descriptive, with limited explanation of how results feed product design or how initiatives are targeted to unbanked or underbanked customers.",
+  "quantification_rationale": "There are some numbers, such as $4,241,610 in business forgone revenue, 106,930 hardship requests, and $277.99 million in retail forgone revenue. But the SASB-required metrics are not fully shown: no number/amount of qualifying loans outstanding, no number of no-cost retail accounts, and no participant counts for financial literacy initiatives.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0059",
+    "CBA_2025_SustainabilityAppendix#chunk_0060"
+  ]
+}

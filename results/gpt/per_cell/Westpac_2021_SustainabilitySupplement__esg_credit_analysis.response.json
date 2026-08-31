@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses ESG in lending and credit risk through the Group ESG Credit Policy, Sustainability Risk Management Framework, and board/committee oversight. It also says ESG risk management is focused on customer engagements and due diligence on business and institutional customers. However, it does not show a detailed credit-analysis methodology or the required industry-by-industry exposure breakdown.",
+  "specificity_rationale": "There is meaningful governance and policy detail: board approval of the Sustainability Risk Management Framework, Divisional Risk Committees, and the Group ESG Credit Policy. But the disclosure stops short of explaining how ESG factors enter creditworthiness assessment, who is accountable in the credit process, or how decisions are changed by ESG inputs. The approach is described at a high level only.",
+  "quantification_rationale": "The evidence includes some lending-related figures, such as finance assessed under the Equator Principles and sustainable lending metrics, but it does not provide the SASB-required commercial and industrial credit exposure by industry. There are no sector-level exposure tables or quantitative metrics directly tied to ESG incorporation in credit analysis, so quantification is limited.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0169", "Westpac_2021_SustainabilitySupplement#chunk_0168", "Westpac_2021_SustainabilitySupplement#chunk_0089"]
+}

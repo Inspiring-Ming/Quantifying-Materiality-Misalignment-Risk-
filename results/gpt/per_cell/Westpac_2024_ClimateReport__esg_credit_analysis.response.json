@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses ESG considerations in lending and credit-related review. It says ESG risk assessment tools are used in non-retail lending, that transactions can be further reviewed and escalated if heightened risk is found, and that sector positions and NZBA alignment are integrated into ESG risk assessment processes. However, the disclosure is climate-focused and does not fully cover the SASB credit-analysis topic.",
+  "specificity_rationale": "The evidence gives a reasonably concrete process description: bankers use ESG risk assessment tools, risks can trigger due diligence and escalation, and governance/processes have been further integrated. It also mentions training and sector positions. But it does not name a dedicated credit-policy framework, responsible oversight bodies in detail, or explain how ESG factors affect creditworthiness decisions in a full, topic-specific way.",
+  "quantification_rationale": "There are a few numbers in the surrounding disclosure, such as over 150 institutional customers and $9.6 billion of sustainable finance TCE, but none are the SASB-required industry-by-industry commercial and industrial credit exposure breakdown. The evidence therefore shows some quantification, but not the core metric or enough topic-specific numerical disclosure to score higher.",
+  "citations": ["Westpac_2024_ClimateReport#chunk_0241", "Westpac_2024_ClimateReport#chunk_0083", "Westpac_2024_ClimateReport#chunk_0080", "Westpac_2024_ClimateReport#chunk_0034"]
+}

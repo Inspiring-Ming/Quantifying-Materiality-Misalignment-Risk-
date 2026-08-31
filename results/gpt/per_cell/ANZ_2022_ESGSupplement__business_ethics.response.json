@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report directly addresses business ethics through whistleblower policy/program details, reporting channels, investigations, anti-bribery/anti-corruption, AML/CTF, sanctions, and fraud-related conduct controls. This is clearly on-topic and substantive, even though the SASB loss metric is not shown.",
+  "specificity_rationale": "Disclosure is detailed: it explains the Whistleblower Policy and Program, employee awareness efforts, investigation outcomes, protections against reprisal, training, and corrective actions such as warnings, termination, coaching, and remediation. It also describes ABAC and AML/CTF governance. However, it still lacks a full discussion of legal proceedings losses.",
+  "quantification_rationale": "The evidence includes several metrics, such as 76% of investigated reports leading to recommended actions, 142 reports in 2022, and 195 awareness sessions. But it does not disclose the SASB-mandated monetary losses from legal proceedings, so quantification is partial rather than comprehensive.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0224", "ANZ_2022_ESGSupplement#chunk_0225", "ANZ_2022_ESGSupplement#chunk_0226", "ANZ_2022_ESGSupplement#chunk_0277"]
+}

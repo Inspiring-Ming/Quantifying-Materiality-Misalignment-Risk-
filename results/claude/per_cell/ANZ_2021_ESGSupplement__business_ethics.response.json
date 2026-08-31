@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated section on Code of Conduct, Whistleblower Program, and Anti-Bribery and Anti-Corruption (ABAC). Topic comprehensively addressed across multiple chunks.",
+  "specificity_rationale": "Names Code of Conduct, Whistleblower Policy and Program, ABAC Policy and Framework, Equal Opportunity Policy. Describes Whistleblower case management process, review panel, role-specific training for investigators (50+ employees), Group Integrity team, awareness sessions (116), Speak Up champions, mandatory annual training, and protections against retaliation. Governance and operational detail substantial.",
+  "quantification_rationale": "Reports operational metrics: 99.97% completion of training, 157 new whistleblower reports (vs 157 in 2020), 1,435 employee relations cases, 573 with formal consequence, 77% of investigated reports led to recommended actions, 114 terminations + 381 warnings + 78 separations. Whistleblower-side disclosure is strong. However, the SASB FN-CB-510a.1 metric (monetary losses from legal proceedings) is not disclosed in retrieved evidence.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0155",
+    "ANZ_2021_ESGSupplement#chunk_0153",
+    "ANZ_2021_ESGSupplement#chunk_0151",
+    "ANZ_2021_ESGSupplement#chunk_0201",
+    "ANZ_2021_ESGSupplement#chunk_0154"
+  ]
+}

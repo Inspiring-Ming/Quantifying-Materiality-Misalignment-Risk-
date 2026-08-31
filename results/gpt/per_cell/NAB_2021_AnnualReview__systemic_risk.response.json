@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.5,
+  "presence_rationale": "The evidence addresses related systemic-risk themes through risk management, capital adequacy, liquidity, and financial/operational resilience, including the Pillar 3 report description. However, it does not explicitly discuss G-SIB/D-SIB designation or stress testing as a systemic risk management topic.",
+  "specificity_rationale": "The disclosure is mostly high-level. It states that capital ratios are reviewed against the external economic and regulatory outlook and that NAB has a risk and compliance system, but it does not explain stress test scenarios, how results feed into capital planning, or any recovery/resolution arrangements.",
+  "quantification_rationale": "There are concrete capital metrics: CET1 ratio of 13.00% on an APRA basis, 17.95% internationally comparable, leverage ratio of 5.83%, and a target range of 10.75-11.25%. But the evidence does not include a G-SIB/D-SIB score or stress test outputs, so quantification is only partial.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0052", "NAB_2021_AnnualReview#chunk_0004", "NAB_2021_AnnualReview#chunk_0003"]
+}

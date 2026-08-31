@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive climate-ESG-in-credit framework: Group ESG Credit Risk Policy with mandatory ESG risk assessment prior to financing approval and at periodic reviews. Customer and Transaction Risk Escalation Committee (CTREC) for Institutional bankers. Sustainable Finance Framework launching with Sustainable Finance Taxonomy. Joined NZBA principals/steering bodies in 2023.",
+  "specificity_rationale": "Names Equator Principles (founding adopter, first Australian bank 2003), Group ESG Credit Risk Policy, ESG specialists support, CTREC review process, Institutional Bank Chief Executive escalation authority, Sustainable Finance Framework, Sustainable Finance Taxonomy, ETI partner, ASFI Technical Advisory Group + Natural Capital Advisory Group, ASFI Unlocking Finance for Home Retrofit workshop, Sustainalytics ESG Risk Ratings on share trading platform.",
+  "quantification_rationale": "Mentions Sector targets and ESG risk policies but no aggregate commercial and industrial credit exposure breakdown in retrieved chunks (lives in Climate Report metrics tables / Sustainability Index and Datasheet). SASB FN-CB-410a.1 not directly disclosed in retrieved evidence here.",
+  "citations": [
+    "Westpac_2023_ClimateReport#chunk_0452",
+    "Westpac_2023_ClimateReport#chunk_0010",
+    "Westpac_2023_ClimateReport#chunk_0019",
+    "Westpac_2023_ClimateReport#chunk_0451",
+    "Westpac_2023_ClimateReport#chunk_0152"
+  ]
+}

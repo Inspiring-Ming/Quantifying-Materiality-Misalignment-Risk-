@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence directly addresses financed and facilitated emissions, including coverage estimation, sector decarbonisation targets, and a PCAF-based methodology. This is clearly the same disclosure area as FN-CB-410b.",
+  "specificity_rationale": "The report gives a substantive methodology description, including data-source hierarchy, coverage-ratio formulas, and key terms tied to financed emissions analysis. However, it stops short of reporting the SASB-required financed emissions figures and sector-by-sector exposure detail.",
+  "quantification_rationale": "There is limited quantification, mainly a 62% coverage figure and formula structure. The evidence does not provide absolute gross financed emissions by Scope 1, 2, and 3, gross exposure by industry/asset class, or the percentage of gross exposure included in the financed emissions calculation.",
+  "citations": ["NAB_2025_ClimateReport#chunk_0328", "NAB_2025_ClimateReport#chunk_0161"]
+}

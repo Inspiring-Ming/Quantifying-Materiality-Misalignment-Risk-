@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence directly says sustainability-related policy settings are applied, that climate risk is assessed in credit risk and due diligence, and that bankers consider ESG-related questions in customer assessment. It clearly addresses incorporation of ESG factors into lending/credit analysis, not just generic sustainability statements.",
+  "specificity_rationale": "The report describes how ESG/climate factors enter credit work: bankers assess customer transition and physical risks, apply policy settings, use a Customer Transition Plan Assessment Framework, and integrate climate risk into credit models and due diligence. It also identifies roles like bankers, senior management, and a specialist customer risk assessment team. However, it is climate-focused rather than a full ESG framework.",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown is provided, and no SASB-required quantitative credit-exposure metrics appear in the evidence. The only numbers shown relate to unrelated operational or scenario-analysis details, not the required disclosure metric.",
+  "citations": ["NAB_2025_ClimateReport#chunk_0106", "NAB_2025_ClimateReport#chunk_0081", "NAB_2025_ClimateReport#chunk_0082", "NAB_2025_ClimateReport#chunk_0083", "NAB_2025_ClimateReport#chunk_0136"]
+}

@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Dedicated 'Data protection and privacy' material ESG issue with explicit Board oversight (Operational Risk Executive Committee, Board Digital Business and Technology Committee). Plus extensive scams/fraud-prevention coverage with named features.",
+  "specificity_rationale": "Names governance bodies (Op Risk ExCo, Board DBT Committee), Privacy Office, Suncorp Bank integration plan post-acquisition (31 July 2024), preparation for Privacy Act reform tranche 1 (Dec 2024), Automated Decision Making program, ANZ-wide Privacy/Data Protection/Ethics Essentials mandatory learning, OAIC Privacy Awareness Week, Confirmation of Payee, CallSafe (40,000+ uses), Digital Padlock, BioCatch Trust, Falcon platform, Australian Government Scams Prevention Framework Feb 2025.",
+  "quantification_rationale": "Reports SASB FN-CB-230a.1 with completeness: '4 data breaches across the markets we operate in' under data breach reporting obligations; 1 reported to OAIC under Notifiable Data Breach Scheme involving notification to a single impacted individual; 3 separately reported in NZ to OPC involving 4 impacted individuals; 0 from Suncorp Bank. Number of breaches AND number of customers affected disclosed by jurisdiction. Plus 200,000+ Confirmation of Payee abandonments, 40,000+ CallSafe uses.",
+  "citations": [
+    "ANZ_2025_ESGReport#chunk_0117",
+    "ANZ_2025_ESGReport#chunk_0118",
+    "ANZ_2025_ESGReport#chunk_0119",
+    "ANZ_2025_ESGReport#chunk_0109",
+    "ANZ_2025_ESGReport#chunk_0110"
+  ]
+}

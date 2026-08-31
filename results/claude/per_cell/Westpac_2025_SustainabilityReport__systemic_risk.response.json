@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive systemic-risk integration: ICAAP integration explicit ('considered via our annual ICAAP, which could lead to holding higher levels of capital for assessed risks'). Group Stress Tests and Scenario Analysis feeding ICAAP. Climate Risk Policy implemented. 5 climate-scenario analyses across Retail and Non-Retail portfolios with detailed scope and TCE coverage.",
+  "specificity_rationale": "Names ICAAP (annual), Board Strategy Review (BSR) cycle (3-5 years), Climate Risk Policy, IPCC RCP2.6/RCP4.5/RCP8.5 (AU), CMIP6 SSP1-2.6/SSP2-4.5/SSP5-8.5 (NZ), NGFS Net Zero 2050/Delayed Transition/Current Policies, NZBA 'Orderly' and 'Too Little Too Late' qualitative scenarios. Group Risk Impact Scale and Likelihood Matrix. Time horizons aligned to BSR cycle and ICAAP.",
+  "quantification_rationale": "Reports SASB FN-CB-550a.2 with full quantitative detail: $547bn AU retail mortgage TCE assessed (~42% of total Group TCE), NZ$84.5bn NZ mortgage TCE, NZ$9.3bn NZ commercial real estate, NZ$9.3bn NZ agricultural lending, $599bn business and institutional TCE assessed (~46% of total Group TCE) for transition risk. Total Group TCE coverage substantial. SASB FN-CB-550a.1 (G-SIB) not in retrieved chunks (Annual Report); SASB FN-CB-550a.2 fully covered with explicit ICAAP integration and TCE coverage.",
+  "citations": [
+    "Westpac_2025_SustainabilityReport#chunk_0065",
+    "Westpac_2025_SustainabilityReport#chunk_0194",
+    "Westpac_2025_SustainabilityReport#chunk_0552",
+    "Westpac_2025_SustainabilityReport#chunk_0062",
+    "Westpac_2025_SustainabilityReport#chunk_0171"
+  ]
+}

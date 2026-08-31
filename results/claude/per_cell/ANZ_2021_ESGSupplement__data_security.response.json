@@ -1,0 +1,16 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Cyber security, data protection and privacy' section with explicit commitments and scope across the bank's operations.",
+  "specificity_rationale": "Names governance roles (CISO, Data Protection Officer, EDG team), specific frameworks (CPS 234, refreshed Privacy Policy), Data Event Management process, third-party assurance program, and Security Operations Centre. Multiple programmes named with controls and accountabilities.",
+  "quantification_rationale": "Reports the SASB-mandated metric: 'three data breaches reported to OAIC under the Notifiable Data Breach Scheme'. Also reports 56% improvement in security behavioural index. However, no percentage of breaches that involved personal data and no number of customers affected, so the FN-CB-230a.1 disclosure is partial.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0196",
+    "ANZ_2021_ESGSupplement#chunk_0194",
+    "ANZ_2021_ESGSupplement#chunk_0191",
+    "ANZ_2021_ESGSupplement#chunk_0195",
+    "ANZ_2021_ESGSupplement#chunk_0189",
+    "ANZ_2021_ESGSupplement#chunk_0190"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The topic is clearly addressed. The evidence covers business ethics through litigation/reviews exposure and a whistleblower policy, including a speak-up culture and whistleblower cases. This directly matches FN-CB-510a coverage.",
+  "specificity_rationale": "The disclosure goes beyond a bare mention: it says the whistleblower policy is public, adheres to ASIC Regulatory Guide 270, and references a speak-up culture and SpeakUP program cases. However, it does not describe detailed procedures, escalation steps, or corrective actions, so it is substantial but not fully developed.",
+  "quantification_rationale": "There is some quantification via 317 SpeakUP Program cases and 96 whistleblower cases, but the key SASB metric on monetary losses from legal proceedings is not reported in the evidence. No dollar amount, no loss breakdown, and no quantified corrective action are shown.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0109", "CBA_2022_SustainabilityAppendix#chunk_0108"]
+}

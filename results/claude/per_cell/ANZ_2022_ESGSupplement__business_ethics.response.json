@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated sections on Whistleblower Policy/Program, ABAC Policy, AML/CTF Program, sanctions compliance, fraud, Code of Conduct. Topic comprehensively addressed.",
+  "specificity_rationale": "Detailed governance: Whistleblower Policy with jurisdiction-specific country schedules, Whistleblower Program with case management, role-specific training for Board/Executive Committee whistleblower recipients, ABAC Policy and Framework, AML/CTF risk assessments at enterprise and country level, enhanced due diligence triggers, sanctions compliance program. Multiple substantive controls and accountabilities described.",
+  "quantification_rationale": "Reports operational metrics: 142 new whistleblower reports (10% decrease YoY), 76% of investigated reports led to recommended actions, 195 awareness sessions delivered (vs 116 in 2021), bank-wide staff survey conducted. Whistleblower-side disclosure is strong with YoY tracking. SASB FN-CB-510a.1 metric (monetary losses from legal proceedings) is not present in retrieved evidence.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0224",
+    "ANZ_2022_ESGSupplement#chunk_0277",
+    "ANZ_2022_ESGSupplement#chunk_0225",
+    "ANZ_2022_ESGSupplement#chunk_0226",
+    "ANZ_2022_ESGSupplement#chunk_0307"
+  ]
+}

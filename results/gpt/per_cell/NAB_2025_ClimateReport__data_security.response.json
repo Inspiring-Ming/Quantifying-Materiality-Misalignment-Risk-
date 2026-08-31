@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is climate-only and discusses emissions targets, offsets, and scenario modelling, not data security, breaches, or cyber risk management.",
+  "specificity_rationale": "No discussion appears of identifying or addressing data security risks, attack vectors, emerging threats, or regulatory response related to customer data.",
+  "quantification_rationale": "There are no breach counts, percentages of personal data breaches, affected account holders, or other SASB FN-CB-230a metrics in the evidence.",
+  "citations": []
+}

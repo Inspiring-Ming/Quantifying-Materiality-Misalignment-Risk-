@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financed emissions in the business lending portfolio, including “assessing the emissions intensity” of lending, “financed emissions” targets, and “methodology for assessing emissions financed emissions.” It also says disclosures are provided at a “priority sector level.” This is directly on-topic, not just adjacent climate reporting.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention: it describes methodology changes, sector-specific assumptions, portfolio assessment, and related targets. However, it still stops short of a full SASB-style financed emissions disclosure because it does not present the required emissions inventory structure, exposure breakdowns, or coverage percentages.",
+  "quantification_rationale": "There are some numbers, such as emissions intensity of 0.22 kgCO-e/$AUD and funding targets of $15bn and $70bn, plus emissions reductions. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, gross exposure by industry and asset class, or the percentage of exposure included in the calculation. That keeps quantification low.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0005", "CBA_2021_AnnualReport_Sustainability#chunk_0042", "CBA_2021_AnnualReport_Sustainability#chunk_0045", "CBA_2021_AnnualReport_Sustainability#chunk_0046"]
+}

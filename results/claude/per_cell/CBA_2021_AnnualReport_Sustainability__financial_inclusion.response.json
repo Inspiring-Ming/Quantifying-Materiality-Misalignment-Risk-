@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive 'Customers' section addressing financial wellbeing, vulnerable customers, hardship support, Indigenous business support, Start Smart program, and Streamline Basic account. Topic addressed across multiple chunks.",
+  "specificity_rationale": "Names Melbourne Institute Financial Wellbeing Scale partnership, Benefits finder, Community Wellbeing team (trauma-informed care), Start Smart program (since 2007), Streamline Basic account (zero monthly fees for concession card holders), Bankwest plain-English terms via UWA Law Faculty, COVID-19 deferral support, automated abuse-language blocks. Multiple programmes named with operational specificity.",
+  "quantification_rationale": "Reports 530,000+ on MI Financial Wellbeing Scale, $481M Benefits finder savings, 4M+ students through Start Smart since 2007, 22,500 Community Wellbeing team interactions, $6.1M Indigenous procurement, 0.8% Indigenous representation (target 3% by 2026), 12 Teaching Awards × $45,000 fellowships. No-cost-account product disclosed. SASB FN-CB-240a.4 (literacy participants) covered. SASB 240a.1/.2 (small-business community-development loan amounts) not explicitly disclosed.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0049",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0051",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0058",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0059",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0057"
+  ]
+}

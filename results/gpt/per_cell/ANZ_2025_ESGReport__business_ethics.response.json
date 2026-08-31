@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses business ethics through whistleblower policy/program disclosure, anti-bribery and anti-corruption, anti-fraud, and financial crime controls. It describes reporting channels, oversight, investigations, and outcomes, so the topic is directly covered.",
+  "specificity_rationale": "Disclosure is substantive: it explains the whistleblower policy, eligible reporters, protections, training, board oversight, reporting channels, investigation handling, and corrective actions from substantiated cases. It also links ethics controls to ABAC, AML/CTF, fraud, and insider misconduct.",
+  "quantification_rationale": "The evidence includes some quantitative detail on whistleblower activity and training, such as 264 reports, 61% assessed reports within scope, and 201 awareness sessions. However, it does not disclose monetary losses from legal proceedings, which is the key SASB metric, so quantification remains limited.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0064", "ANZ_2025_ESGReport#chunk_0065", "ANZ_2025_ESGReport#chunk_0120", "ANZ_2025_ESGReport#chunk_0007", "ANZ_2025_ESGReport#chunk_0036"]
+}

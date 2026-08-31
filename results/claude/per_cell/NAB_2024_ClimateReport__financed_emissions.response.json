@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: 12 sector decarbonisation targets in 8 of 9 carbon-intensive sectors. Sector EAD breakdown for 12 sectors with operational scope, baseline metric, baseline year. Updated power generation tCO2-e/MWh, MtCO2-e for thermal coal/oil and gas/iron and steel/etc.",
+  "specificity_rationale": "Names PCAF Standard, NZBA membership, UNEP FI Guidelines for Climate Target Setting for Banks, ATAG Waypoint 2050 reference scenario for aviation, Sectoral Decarbonisation Approach Services Buildings methodology v2.1.2, June 2024 Supplementary Climate Disclosure (with sector targets and EFA), KPMG/EY assurance over financed emissions and operational emissions. 58% of NAB total EAD covered by sector-target-setting.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 with detail: 12 sector baselines with metrics and baseline years (Power 0.17 tCO2-e/MWh, Thermal coal 4.9 MtCO2-e, Oil and gas 3.4 MtCO2-e, Cement 0.57 tCO2-e/tCement, Aluminium 1.8 tCO2-e/tAluminium, Iron and steel 6.1 MtCO2-e, Transport-road 217 gCO2/vkm, Aviation 104 gCO2-e/pkm, Shipping alignment delta -1.0%, CRE-office 70.8 kgCO2e/m2, CRE-retail 78.4, RRE 35.1). FN-CB-410b.2 explicit. FN-CB-410b.3: 58% EAD coverage / 71% emissions coverage. Operational SECR table with full Scope 1/2/3 disclosure. SASB FN-CB-410b metrics fully covered.",
+  "citations": [
+    "NAB_2024_ClimateReport#chunk_0478",
+    "NAB_2024_ClimateReport#chunk_0326",
+    "NAB_2024_ClimateReport#chunk_0477",
+    "NAB_2024_ClimateReport#chunk_0385",
+    "NAB_2024_ClimateReport#chunk_0067"
+  ]
+}

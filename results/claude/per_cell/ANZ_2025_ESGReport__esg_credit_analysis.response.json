@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Equator Principles framework with 2025 case studies (300MW solar USA, public health facility AU, affordable housing OECD), Enhanced Human Rights Due Diligence integrated into Social and Environmental Risk Screening Tool, dedicated Human Rights and Modern Slavery sections.",
+  "specificity_rationale": "Detailed governance: EP framework, Human Rights Statement, Mechanism Framework endorsed by Board with Social and Environmental Risk ExCo oversight, Modern Slavery and Human Trafficking Statement (AU + UK Acts), targeted training (relationship managers, procurement managers, branch employees in higher-risk migrant-workforce regions), modern slavery module in Third-Party Risk Management. Enhanced Human Rights Due Diligence process named.",
+  "quantification_rationale": "Mentions case-study counts. Two human-rights grievances received (one closed, one under assessment). Pointer to 2025 ESG Data and Frameworks Pack for Equator Principles aggregate data — but those numbers are not in retrieved evidence. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) not in retrieved evidence chunks.",
+  "citations": [
+    "ANZ_2025_ESGReport#chunk_0128",
+    "ANZ_2025_ESGReport#chunk_0130",
+    "ANZ_2025_ESGReport#chunk_0169",
+    "ANZ_2025_ESGReport#chunk_0170",
+    "ANZ_2025_ESGReport#chunk_0171"
+  ]
+}

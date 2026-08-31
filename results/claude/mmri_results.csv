@@ -1,0 +1,24 @@
+# Stage 3: MMRI per report, applying a_i (applicability) and w_i=1/6.
+# MMRI_r = sum_i a_i w_i (1 - C_{r,i}) / sum_i a_i w_i
+# C_{r,i} = mean(Presence, Specificity, Quantification); a_i=0 for non-climate topics in climate-only reports.
+bank,year,report_id,n_topics_applicable,MMRI,cov_data_security,cov_financial_inclusion,cov_esg_credit_analysis,cov_financed_emissions,cov_business_ethics,cov_systemic_risk,ai_data_security,ai_financial_inclusion,ai_esg_credit_analysis,ai_financed_emissions,ai_business_ethics,ai_systemic_risk
+ANZ,2021,ANZ_2021_ESGSupplement,6,0.3333,0.75,0.9167,0.8333,0.3333,0.9167,0.25,1,1,1,1,1,1
+ANZ,2022,ANZ_2022_ESGSupplement,6,0.2778,0.8333,0.9167,0.8333,0.4167,0.9167,0.4167,1,1,1,1,1,1
+ANZ,2023,ANZ_2023_ESGSupplement,6,0.2639,0.8333,0.8333,0.8333,0.5833,0.9167,0.4167,1,1,1,1,1,1
+ANZ,2024,ANZ_2024_ESGSupplement,6,0.1806,0.9167,0.9167,0.8333,0.5833,0.9167,0.75,1,1,1,1,1,1
+ANZ,2025,ANZ_2025_ESGReport,6,0.0833,1.0,0.9167,0.8333,0.8333,1.0,0.9167,1,1,1,1,1,1
+CBA,2021,CBA_2021_AnnualReport_Sustainability,6,0.2361,0.3333,0.8333,0.9167,1.0,0.8333,0.6667,1,1,1,1,1,1
+CBA,2022,CBA_2022_SustainabilityAppendix,6,0.0972,0.75,1.0,0.8333,0.9167,1.0,0.9167,1,1,1,1,1,1
+CBA,2023,CBA_2023_SustainabilityReporting,6,0.2361,0.8333,0.9167,0.75,0.9167,0.75,0.4167,1,1,1,1,1,1
+CBA,2024,CBA_2024_SustainabilityReporting,6,0.1667,0.9167,0.9167,0.8333,1.0,0.9167,0.4167,1,1,1,1,1,1
+CBA,2025,CBA_2025_SustainabilityAppendix,6,0.0694,0.75,1.0,0.9167,0.9167,1.0,1.0,1,1,1,1,1,1
+NAB,2021,NAB_2021_AnnualReview,6,0.0833,0.8333,0.9167,0.8333,1.0,0.9167,1.0,1,1,1,1,1,1
+NAB,2022,NAB_2022_ClimateReport,3,0.0833,0.0,0.1667,0.8333,1.0,0.1667,0.9167,0,0,1,1,0,1
+NAB,2023,NAB_2023_ClimateReport,3,0.1389,0.0,0.1667,0.75,1.0,0.1667,0.8333,0,0,1,1,0,1
+NAB,2024,NAB_2024_ClimateReport,3,0.0556,0.0,0.1667,0.9167,1.0,0.1667,0.9167,0,0,1,1,0,1
+NAB,2025,NAB_2025_ClimateReport,3,0.0833,0.0,0.4167,0.8333,1.0,0.1667,0.9167,0,0,1,1,0,1
+Westpac,2021,Westpac_2021_SustainabilitySupplement,6,0.0972,0.75,1.0,0.9167,1.0,0.9167,0.8333,1,1,1,1,1,1
+Westpac,2022,Westpac_2022_SustainabilitySupplement,6,0.4722,0.8333,1.0,0.4167,0.5833,0.3333,0.0,1,1,1,1,1,1
+Westpac,2023,Westpac_2023_ClimateReport,3,0.1111,0.0,0.1667,0.8333,1.0,0.1667,0.8333,0,0,1,1,0,1
+Westpac,2024,Westpac_2024_ClimateReport,3,0.0556,0.0,0.4167,0.9167,1.0,0.4167,0.9167,0,0,1,1,0,1
+Westpac,2025,Westpac_2025_SustainabilityReport,6,0.3194,0.1667,0.5,1.0,1.0,0.4167,1.0,1,1,1,1,1,1

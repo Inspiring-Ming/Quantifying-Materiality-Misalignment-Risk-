@@ -1,0 +1,15 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address ESG-themes intersection (climate risk + human rights), KPMG assurance methodology (ASAE 3000 / ASAE 3410), and reference-scenario selection principles. No SASB FN-CB-510a (whistleblower or monetary losses) content in retrieved evidence.",
+  "specificity_rationale": "ESG governance intersection framework. KPMG limited and reasonable assurance over climate metrics. References to UNEP-FI Guidelines for Climate Change Target Setting. No whistleblower or ABAC content.",
+  "quantification_rationale": "No SASB FN-CB-510a metrics in retrieved evidence.",
+  "citations": [
+    "Westpac_2023_ClimateReport#chunk_0073",
+    "Westpac_2023_ClimateReport#chunk_0191",
+    "Westpac_2023_ClimateReport#chunk_0072",
+    "Westpac_2023_ClimateReport#chunk_0193",
+    "Westpac_2023_ClimateReport#chunk_0253"
+  ]
+}

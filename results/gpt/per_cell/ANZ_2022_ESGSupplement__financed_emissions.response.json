@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The report only touches the topic indirectly. It says the SBTi-based target does not include emissions from financing activities (Scope 3) and mentions extending climate risk assessment to institutional customers in higher-emitting sectors. That shows awareness of financed emissions, but there is no direct disclosure of financed emissions itself.",
+  "specificity_rationale": "Disclosure is very limited and mostly contextual. The evidence provides a high-level note that financing activities are excluded from one methodology and a target to expand climate risk work, but it does not explain any financed emissions framework, portfolio coverage, sector breakdown, or calculation approach.",
+  "quantification_rationale": "No financed emissions figures are disclosed. The evidence contains only Scope 1 and 2 targets and performance data, plus a statement that financing activities are excluded from the SBTi methodology. There are no absolute financed emissions numbers, no gross exposure by industry, and no percentage of exposure covered.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0059", "ANZ_2022_ESGSupplement#chunk_0050", "ANZ_2022_ESGSupplement#chunk_0116", "ANZ_2022_ESGSupplement#chunk_0119"]
+}

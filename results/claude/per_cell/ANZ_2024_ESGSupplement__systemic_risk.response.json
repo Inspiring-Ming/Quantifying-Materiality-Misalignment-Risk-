@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Managing non-financial risk at ANZ' section addressing the APRA capital overlay (operational-risk capital overlay) imposed for NFR weaknesses, Markets-business issues with Board oversight, and culture/risk reviews. This is a substantive systemic-risk disclosure even though framed as NFR rather than capital adequacy.",
+  "specificity_rationale": "Names APRA capital overlay, CPS 220 Risk Management compliance, Financial Accountability Regime, NFR Management program post-Royal Commission, Internal Audit culture reviews, My Voice survey, Risk Culture Assessments, Risk Culture Action Plans. Names individuals (Paul O'Sullivan independent reviewer; Oliver Wyman commissioned for Markets review). Board-level remuneration consequences detailed. The SASB FN-CB-550a stress test integration into capital planning is partial — climate stress tests addressed, capital ratios not.",
+  "quantification_rationale": "Reports remuneration impact (reduction in 2024 STVR, reduction in 2025 LTVR restricted rights granted Nov/Dec 2024). However, no G-SIB or D-SIB score, no CET1 / capital ratio numbers, no explicit numerical capital overlay amount in retrieved evidence. SASB FN-CB-550a metrics are partially missing.",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0067",
+    "ANZ_2024_ESGSupplement#chunk_0069",
+    "ANZ_2024_ESGSupplement#chunk_0080",
+    "ANZ_2024_ESGSupplement#chunk_0050"
+  ]
+}

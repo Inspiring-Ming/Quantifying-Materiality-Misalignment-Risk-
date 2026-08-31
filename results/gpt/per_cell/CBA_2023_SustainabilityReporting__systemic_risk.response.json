@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence contains only adjacent resilience and risk-control discussion, such as APRA-related remedial actions, cyber resilience testing, and recovery capability, but it does not directly address systemic risk management, capital adequacy, or stress testing. There is some topical overlap, but the SASB topic itself is not substantively discussed.",
+  "specificity_rationale": "Disclosure is general and focused on cyber security, privacy, and operational resilience. It mentions simulations, assessments, and regulatory reviews, but provides no explanation of stress-test incorporation into capital planning, long-term strategy, or recovery/resolution arrangements required for this topic.",
+  "quantification_rationale": "No G-SIB/D-SIB score, CET1 or leverage ratios, stress-test results, scenario details, or explicit capital-planning metrics are shown. The evidence is qualitative only and does not include the SASB-mandated quantitative items.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0045", "CBA_2023_SustainabilityReporting#chunk_0047"]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses ESG factors in credit analysis. It names FN-CB-410a.2, discusses E&S risk as a material risk, references an ESG risk assessment tool, an Environmental and Social Framework, and Equator Principles assessments. However, the evidence is partial and does not show the full SASB-required industry exposure table in the excerpt.",
+  "specificity_rationale": "The disclosure is substantive because it names the framework used, cites the Climate Report and Environmental and Social Framework, and indicates ESG risk assessment in lending. But it does not identify governance roles, oversight bodies, accountability, or clearly explain how ESG factors enter creditworthiness decisions, so it is not highly detailed.",
+  "quantification_rationale": "Quantification is limited. The excerpt gives only one concrete metric set: six project finance loans and two project-related refinance transactions assessed for ESG risks. It does not provide the industry-by-industry commercial and industrial credit exposure breakdown required by FN-CB-410a.1, nor targets or broader quantitative credit-analysis metrics.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0105", "CBA_2022_SustainabilityAppendix#chunk_0106", "CBA_2022_SustainabilityAppendix#chunk_0107"]
+}

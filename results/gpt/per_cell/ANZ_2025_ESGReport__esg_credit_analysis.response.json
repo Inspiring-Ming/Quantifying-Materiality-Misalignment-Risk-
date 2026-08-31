@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.0,
+  "presence_rationale": "The report clearly addresses ESG factors in lending and credit-related risk analysis through the Social and Environmental Risk Screening Tool, the Equator Principles framework, and human rights due diligence for large business customers and project finance. It also states Board and committee oversight. This is directly on-topic for incorporation of ESG factors in credit analysis.",
+  "specificity_rationale": "The disclosure is substantive: it names the framework, explains that it is used to identify, assess, and manage social and environmental risks in financing, and identifies governance oversight by the Board and the Social and Environmental Risk Executive Committee. However, it does not fully spell out how ESG factors change creditworthiness assessment or provide an industry-by-industry credit exposure breakdown.",
+  "quantification_rationale": "No relevant quantitative disclosure is shown for this topic. The evidence does not include commercial and industrial credit exposure by industry, nor any numeric targets or metrics for ESG integration in credit analysis. The few numbers mentioned elsewhere are unrelated to this SASB topic.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0128", "ANZ_2025_ESGReport#chunk_0171"]
+}

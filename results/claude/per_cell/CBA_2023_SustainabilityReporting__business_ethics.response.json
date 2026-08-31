@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive 'Governing ESG' / 'Making it safe to speak up' subsections with Board oversight, ELT E&S Committee, Group Whistleblower Policy, 24/7 SpeakUP service, refreshed Code of Conduct.",
+  "specificity_rationale": "Names CBA Code of Conduct refreshed with 'Should We?' test, Group Whistleblower Policy, SpeakUP service (24/7, anonymous), Australian whistleblower-law protections, 'How we act/solve problems/make decisions' framing. References financed-emissions and modern-slavery governance forums.",
+  "quantification_rationale": "Reports 331 SpeakUP reports (up from 317 in 2022) of which 81 whistleblower cases. Political donations disclosed ($62,100 Labor, $62,000 Liberal, $12,825 National Party). YoY tracking on whistleblower volumes. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not in retrieved evidence chunks here.",
+  "citations": [
+    "CBA_2023_SustainabilityReporting#chunk_0040",
+    "CBA_2023_SustainabilityReporting#chunk_0014",
+    "CBA_2023_SustainabilityReporting#chunk_0015",
+    "CBA_2023_SustainabilityReporting#chunk_0001"
+  ]
+}

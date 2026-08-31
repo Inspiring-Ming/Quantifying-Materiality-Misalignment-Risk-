@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financed emissions: it defines Scope 3 (financed) emissions, describes them as emissions attributable to lending and investment activities, and presents sector-level financed emissions targets and figures. This is directly relevant to FN-CB-410b. However, the disclosure is spread across definitions and sector tables rather than a dedicated full SASB-style financed emissions section.",
+  "specificity_rationale": "Disclosure is fairly detailed because it explains what financed emissions mean and shows how Westpac sets/derives sector targets for specific portfolios, including calculation approaches for commercial real estate and cement. Still, it does not provide a complete bank-wide financed emissions methodology or a full disclosure of the SASB-required metrics, so it is substantial but not comprehensive.",
+  "quantification_rationale": "There are concrete numbers, including sector absolute financed emissions figures and target values, plus emissions-intensity metrics and baseline comparisons. But the evidence does not show absolute gross financed emissions disaggregated by Scope 1, 2, and 3, gross exposure by industry/asset class, or the percentage of exposure covered. Lack of these core SASB metrics limits the score.",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0219", "Westpac_2023_ClimateReport#chunk_0113", "Westpac_2023_ClimateReport#chunk_0314", "Westpac_2023_ClimateReport#chunk_0288"]
+}

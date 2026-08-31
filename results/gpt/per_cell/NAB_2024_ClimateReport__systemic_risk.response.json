@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report addresses stress testing, ICAAP, and how scenario analysis informs strategy, risk appetite, and capital adequacy, so the topic is clearly touched. However, it does not discuss G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements, so coverage is incomplete for FN-CB-550a.",
+  "specificity_rationale": "Disclosure is moderately detailed: it explains the role of climate scenario analysis, the link to stress testing and capital adequacy, and gives a concrete drought scenario used in ICAAP. Still, the discussion is climate-focused rather than systemic-risk focused, and it omits the SASB-specific approach to capital planning and business activities.",
+  "quantification_rationale": "Some numbers are provided, including a 3-year, 1-in-100-year drought scenario, a 2-year drought, and references to time horizons out to 2050. But the evidence lacks the core SASB quantitative metrics such as G-SIB/D-SIB score and capital ratios, so quantitative disclosure is limited.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0038", "NAB_2024_ClimateReport#chunk_0140", "NAB_2024_ClimateReport#chunk_0149"]
+}

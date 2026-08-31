@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive systemic-risk disclosure: drought scenario incorporated into ICAAP (Internal Capital Adequacy Assessment Process) since 2022. 2024 ICAAP scenario: 3-year 1-in-100-year drought impacting agriculture on East Coast Australia and NZ. FarmID and HomeID tools developed. Direct ICAAP integration is the SASB FN-CB-550a.2 focus.",
+  "specificity_rationale": "Names ICAAP, FarmID (Australian agribusiness physical risk tool with geospatial data), HomeID (home lending physical risk analysis), 2024 drought scenario design (informed by RBNZ 2023 Climate Stress Test and 2022 APRA CVA), three agricultural segments stress-tested (dairy, livestock, crops). Customer-level stress applied to revenues/expenses/asset prices to derive credit rating impacts and default rates.",
+  "quantification_rationale": "Reports thermal coal mining exposure trajectory (Mar 22 to Sep 24): 0.46→0.16 $bn including rehabilitation guarantees breakdown (59% at Sep-24). Oil and gas exposure trajectory (USD$2.23→USD$1.66bn). Drought scenario quantitatively applied. ICAAP integration of climate scenario is direct evidence of SASB FN-CB-550a.2. SASB FN-CB-550a.1 (G-SIB score) not in retrieved chunks. SASB FN-CB-550a.2 substantively covered.",
+  "citations": [
+    "NAB_2024_ClimateReport#chunk_0038",
+    "NAB_2024_ClimateReport#chunk_0149",
+    "NAB_2024_ClimateReport#chunk_0140",
+    "NAB_2024_ClimateReport#chunk_0080",
+    "NAB_2024_ClimateReport#chunk_0121"
+  ]
+}

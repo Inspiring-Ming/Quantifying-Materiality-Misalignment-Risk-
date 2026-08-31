@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is climate-focused and does not address financial inclusion, capacity building, unbanked or underbanked customers, no-cost accounts, financial literacy, or qualifying small business/community development loans.",
+  "specificity_rationale": "No substantive disclosure on the SASB topic appears in the evidence. The passages discuss climate advocacy, community resilience, and retrofit support, but not financial inclusion strategy, underserved-market products, or related operational practices.",
+  "quantification_rationale": "No relevant numbers or SASB metrics are shown for this topic: there are no counts or amounts of qualifying loans, no-cost accounts, or financial literacy participants, and no topic-specific targets.",
+  "citations": ["NAB_2025_ClimateReport#chunk_0004", "NAB_2025_ClimateReport#chunk_0060", "NAB_2025_ClimateReport#chunk_0070", "NAB_2025_ClimateReport#chunk_0071", "NAB_2025_ClimateReport#chunk_0249"]
+}

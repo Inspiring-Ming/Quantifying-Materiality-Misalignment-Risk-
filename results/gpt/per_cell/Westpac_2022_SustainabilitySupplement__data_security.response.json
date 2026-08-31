@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.0,
+  "presence_rationale": "The report explicitly lists “Data privacy and security” as a sustainability topic and describes multiple customer security measures, including scam blocks, fraud teams, and digital banking protections. That shows the topic is clearly addressed, although the evidence is framed more around scam/fraud prevention than a full data security disclosure.",
+  "specificity_rationale": "The disclosure gives a substantive description of controls and response mechanisms: dedicated fraud specialist teams, safety-by-design product development, abusive-message blocking, real-time security prompts, dynamic CVC, and Wi-Fi risk warnings. It explains how risks are reduced, but it does not provide a formal incident-response or breach-management narrative.",
+  "quantification_rationale": "The evidence includes operational counts unrelated to the SASB breach metric set, such as customers supported and transactions blocked, but it does not disclose number of data breaches, percentage involving personal data, or number of account holders affected. No SASB-required quantitative data for FN-CB-230a.1 is shown.",
+  "citations": ["Westpac_2022_SustainabilitySupplement#chunk_0012", "Westpac_2022_SustainabilitySupplement#chunk_0023", "Westpac_2022_SustainabilitySupplement#chunk_0024", "Westpac_2022_SustainabilitySupplement#chunk_0025", "Westpac_2022_SustainabilitySupplement#chunk_0026"]
+}

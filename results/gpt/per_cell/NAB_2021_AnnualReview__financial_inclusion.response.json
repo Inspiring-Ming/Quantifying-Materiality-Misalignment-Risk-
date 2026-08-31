@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses support for Indigenous business and economic inclusion, including a dedicated Indigenous business strategy, a new team, roundtables, and a customer value proposition for Indigenous Community customers. This is materially aligned with financial inclusion and underserved-customer support, even though the SASB topic is not named directly and the exact mandated metrics are not shown.",
+  "specificity_rationale": "Disclosure is substantive and strategy-oriented: it explains an ambition to close participation gaps, describes the Indigenous business strategy, and lists concrete initiatives such as roundtables, supply-chain spend, and cultural-awareness forums. However, it focuses on Indigenous business support rather than a broader, fully developed financial inclusion program covering all SASB elements.",
+  "quantification_rationale": "There is some quantitative content, including $4.3 million spent with Indigenous businesses and an assurance appendix item for 'number and dollar value of microfinance loans written.' But the evidence does not provide the SASB-required figures for loans outstanding, past due/nonaccrual or forbearance loans, no-cost retail accounts, or financial literacy participants.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0135", "NAB_2021_AnnualReview#chunk_0136", "NAB_2021_AnnualReview#chunk_0205"]
+}

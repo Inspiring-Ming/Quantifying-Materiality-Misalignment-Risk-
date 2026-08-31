@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Topic addressed via climate-side stress-testing references (extending Climate Change Risk Assessment to top-100 customers, ES data strategy for scenario analysis and stress testing). Core SASB FN-CB-550a focus (G-SIB score, capital adequacy, integration of mandatory stress tests into capital planning) is partial — only the climate-related slice.",
+  "specificity_rationale": "Climate-risk approach detailed (ES data strategy endorsed by Data Prioritisation Forum, NZ climate risk lessons, sectoral transition pathways). Operational sustainability targets detailed. However, no description of regulatory capital adequacy framework, no resolution/recovery planning detail, no description of how supervisory stress tests feed capital adequacy in retrieved evidence.",
+  "quantification_rationale": "Operational metrics quantified (Scope 1+2 80% reduction, 49% renewables, 71% waste/paper reduction). However, the SASB FN-CB-550a metrics (G-SIB score, CET1, leverage ratio, LCR/NSFR, stress test scenario outputs) are NOT in retrieved evidence.",
+  "citations": [
+    "ANZ_2023_ESGSupplement#chunk_0047",
+    "ANZ_2023_ESGSupplement#chunk_0010",
+    "ANZ_2023_ESGSupplement#chunk_0055",
+    "ANZ_2023_ESGSupplement#chunk_0053"
+  ]
+}

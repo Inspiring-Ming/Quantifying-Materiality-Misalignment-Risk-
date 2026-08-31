@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through fee-free/discounted products, SME support, hardship assistance, financial literacy tools, workshops, and accessible banking initiatives. It is directly on-topic, with multiple references to underserved, newly arrived refugee, Indigenous, and multicultural customer groups.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention and describes several concrete initiatives, including financial literacy toolkits, translated materials, workshops, accessibility improvements, and support for SME programs. However, it does not fully explain the program logic, implementation details, or how outcomes feed back into product design in a detailed way.",
+  "quantification_rationale": "There are several numbers, including 69,705 business accounts, more than $4,300 million in SME Guarantee Scheme loans, 123,749 hardship accounts, and $185,054,356 in foregone revenue. However, the SASB-mandated metrics are not fully disclosed: there is no clear count and amount of qualifying loans outstanding, no-cost accounts opened, or financial literacy participants.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0104", "CBA_2022_SustainabilityAppendix#chunk_0103", "CBA_2022_SustainabilityAppendix#chunk_0025", "CBA_2022_SustainabilityAppendix#chunk_0037", "CBA_2022_SustainabilityAppendix#chunk_0017"]
+}

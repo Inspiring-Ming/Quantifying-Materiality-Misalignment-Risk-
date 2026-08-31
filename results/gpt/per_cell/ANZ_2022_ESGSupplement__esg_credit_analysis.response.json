@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses ESG incorporation in lending/credit assessment through the Equator Principles and Social and Environmental Risk Policy, including due diligence for project and business lending and decisions to approve or decline financing based on environmental and social risks. However, the disclosure is concentrated in project finance rather than a broad bank-wide credit analysis discussion. Citations: chunk_0290, chunk_0291, chunk_0292, chunk_0434.",
+  "specificity_rationale": "The disclosure gives a substantive description of the review process: third-party environmental and social due diligence, factors examined, and examples where risks led to approval conditions or refusal. It also names the Equator Principles and social/environmental risk policy. It does not explain accountability, governance oversight, or how ESG is integrated across ordinary creditworthiness assessment in enough detail for a high score. Citations: chunk_0290, chunk_0291, chunk_0292.",
+  "quantification_rationale": "There are only limited concrete numbers and classifications: examples of three solar farms, one category A project, one category B project, and one category C project. The required SASB metric on commercial and industrial credit exposure by industry is not present, and there are no portfolio-level exposure figures, targets, or metric tables for ESG-in-credit analysis. Citations: chunk_0290, chunk_0291, chunk_0292.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0290", "ANZ_2022_ESGSupplement#chunk_0291", "ANZ_2022_ESGSupplement#chunk_0292", "ANZ_2022_ESGSupplement#chunk_0434"]
+}

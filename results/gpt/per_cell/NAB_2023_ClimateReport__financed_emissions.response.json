@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financed emissions directly, with a section titled “Reducing financed emissions” and a table for “NAB’s attributable financed emissions estimate.” It also states the bank is assessing emissions attributable to its financing. This is an explicit match to FN-CB-410b rather than a passing reference.",
+  "specificity_rationale": "The disclosure goes beyond a generic statement by describing the bank’s approach, sector coverage, and operational/geographic boundary assumptions for attributable financed emissions. It identifies multiple sectors and scope inclusions and links the topic to decarbonisation targets. However, the methodology is only partially explained in these excerpts and does not name PCAF.",
+  "quantification_rationale": "There are concrete numbers for sector exposures and each sector’s share of total EAD, plus scope inclusion labels. However, the key SASB metrics are not fully shown here: no absolute gross financed emissions by Scope 1, 2, and 3, no full gross exposure by asset class for the calculation, and no explicit percentage of gross exposure covered by the financed emissions calculation. ",
+  "citations": ["NAB_2023_ClimateReport#chunk_0055", "NAB_2023_ClimateReport#chunk_0244", "NAB_2023_ClimateReport#chunk_0208"]
+}

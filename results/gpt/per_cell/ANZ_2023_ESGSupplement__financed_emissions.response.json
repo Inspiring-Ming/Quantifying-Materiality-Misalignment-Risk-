@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financed emissions and related climate-risk management. It references a dedicated Financed Emissions Methodology, says ANZ is engaging its 100 largest emitting customers, and discusses support for transition plans and climate risk assessment. However, it does not present the actual financed-emissions disclosure itself in the retrieved evidence.",
+  "specificity_rationale": "The disclosure is moderately specific: it names the methodology, explains the engagement approach for large emitters, and links the topic to climate risk and transition planning. But it remains high-level and largely programmatic, with no breakdown by sector, asset class, or emissions scope in the evidence shown.",
+  "quantification_rationale": "Quantification is limited to targets and counts such as 100 largest emitting customers and timing goals. The evidence does not show absolute gross financed emissions for Scope 1, 2, or 3, no gross exposure by industry or asset class, and no percentage of exposure included in the calculation. That keeps Q low.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0005", "ANZ_2023_ESGSupplement#chunk_0010", "ANZ_2023_ESGSupplement#chunk_0053", "ANZ_2023_ESGSupplement#chunk_0055", "ANZ_2023_ESGSupplement#chunk_0057"]
+}

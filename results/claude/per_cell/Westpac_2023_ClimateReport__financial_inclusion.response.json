@@ -1,0 +1,11 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address NZ Dairy, NZ Beef and Sheep agriculture sector targets and methodology — no financial inclusion content. Acknowledgement of Indigenous Peoples and Te Tiriti o Waitangi only as governance opener.",
+  "specificity_rationale": "Acknowledgement of Country and Te Tiriti o Waitangi only. No specific financial-inclusion programmes in retrieved evidence.",
+  "quantification_rationale": "No SASB FN-CB-240a metrics in retrieved evidence.",
+  "citations": [
+    "Westpac_2023_ClimateReport#chunk_0007"
+  ]
+}

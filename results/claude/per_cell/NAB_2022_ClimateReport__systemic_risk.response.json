@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive climate stress-test disclosure: completed APRA Climate Vulnerability Assessment, NGFS scenario application, ABA Climate Risk Working Group, UNEP FI TCFD programme. The SASB FN-CB-550a focus is climate-side stress test integration into capital planning, which is well covered.",
+  "specificity_rationale": "Names APRA CVA (3 objectives, collaborative pilot with major banks), 2 NGFS scenarios (Current Policies + Delayed Transition), IEA NZE 2050 reference scenario, NGFS members, climate-related litigation reviews, ABA Climate Risk Working Group developing Australian banking climate roadmap. Carbon-price ranges per scenario (USD37-144 for Delayed Transition portfolio modelling).",
+  "quantification_rationale": "Reports portfolio carbon-price ranges per scenario, scenario warming outcomes (1.6C / 3C+), customer-level analysis carbon-price ranges (USD0.63-USD497). 47% energy reduction since 2019, 74% Scope 1+2 reduction since 2015. SASB FN-CB-550a.1 (G-SIB score) not in retrieved evidence — 2022 NAB CET1 / capital ratios not disclosed in this climate-only report. SASB FN-CB-550a.2 substantively covered through CVA disclosure.",
+  "citations": [
+    "NAB_2022_ClimateReport#chunk_0053",
+    "NAB_2022_ClimateReport#chunk_0045",
+    "NAB_2022_ClimateReport#chunk_0042",
+    "NAB_2022_ClimateReport#chunk_0117"
+  ]
+}

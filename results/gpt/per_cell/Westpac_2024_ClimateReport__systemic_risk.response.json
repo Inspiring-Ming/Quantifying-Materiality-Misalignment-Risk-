@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report addresses capital adequacy, ICAAP, stress testing, and scenario analysis, which are relevant to systemic risk management. However, it is a climate report and does not explicitly discuss G-SIB/D-SIB designation, recovery/resolution planning, or broader systemic-risk governance. The topic is present indirectly rather than directly.",
+  "specificity_rationale": "The disclosure gives some process detail: ICAAP is reviewed annually, stress testing under adverse economic scenarios is considered, and climate scenario analysis is used over short-, medium-, and long-term horizons. But the discussion is narrow and climate-focused, not a substantive systemic risk management narrative tied to capital planning and corporate strategy.",
+  "quantification_rationale": "There are some numerical references such as 1.5°C, ~1.8°C, >3°C, 2050, 3-year ICAAP, and 3-to-5-year Board Strategy Review cycles. But the evidence does not include SASB-relevant quantitative items like G-SIB score, D-SIB status, CET1, leverage ratios, or explicit stress-test outputs integrated into capital adequacy planning.",
+  "citations": ["Westpac_2024_ClimateReport#chunk_0201", "Westpac_2024_ClimateReport#chunk_0216", "Westpac_2024_ClimateReport#chunk_0218", "Westpac_2024_ClimateReport#chunk_0222"]
+}

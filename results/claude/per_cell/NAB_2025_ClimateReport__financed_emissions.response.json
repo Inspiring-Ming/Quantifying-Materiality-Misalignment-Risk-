@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: financed AND facilitated emissions reporting (PCAF Standards Part A and B). Sector decarbonisation targets covering 62% of in-scope EAD. EY assurance over financed and facilitated emissions. Mandatory Australian climate reporting starts from 2026.",
+  "specificity_rationale": "Names PCAF Standard Part A (Financed Emissions Second Edition 2022), PCAF Standard Part B (Facilitated Emissions First Version 2023), UNEP FI Guidance v4 for Climate Target Setting for Banks, NAB Group Financed Emissions Methodology and Target Setting Baseline Methodology, NGERS data hierarchy, EY assurance scope. Coverage methodology with 2 ratios (sector emissions / total emissions, sector emissions / UNEP FI high-emitting sectors emissions).",
+  "quantification_rationale": "Reports SASB FN-CB-410b directly: SECR table with full Scope 1/2/3 (Scope 1+2 = 49,777 tCO2-e Group total, down from 55,200 prior year). 62% of in-scope EAD covered by sector decarbonisation targets. Coverage ratios decreased YoY due to high-emitting sector exposure reduction. 2024 financed emissions period: 1 July 2023 - 30 June 2024. Facilitated emissions: 3-year average. SASB FN-CB-410b.1, .2, .3, .4 all substantively covered with PCAF methodology and EY assurance.",
+  "citations": [
+    "NAB_2025_ClimateReport#chunk_0394",
+    "NAB_2025_ClimateReport#chunk_0254",
+    "NAB_2025_ClimateReport#chunk_0393",
+    "NAB_2025_ClimateReport#chunk_0328",
+    "NAB_2025_ClimateReport#chunk_0161"
+  ]
+}

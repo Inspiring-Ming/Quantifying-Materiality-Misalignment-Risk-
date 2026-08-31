@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Improving conduct and culture' section, Code of Conduct, Whistleblower Program, Fraud Policy, financial crime (AML/CTF, sanctions, ABAC). Topic comprehensively covered.",
+  "specificity_rationale": "Detailed governance: Fraud Policy with named roles (Customer Advocate, AUSTRAC escalation, police welfare checks), Whistleblower Protection Officers, role-specific training for Board/Executive, World Whistleblower Day campaign, 'speak up' advocates. Financial crime platforms with analytical and detective systems named. Code of Conduct training suite enumerated (Living the Code, EO, Financial Crime, Operational Risk, Security, Privacy/Competition).",
+  "quantification_rationale": "Operational metrics reported: 170 new whistleblower reports (up from 142 in 2022), 210 awareness sessions (vs 195), 1,330 employee relations cases, 501 with formal consequence, 99.6% training completion, 314 warnings + 100 terminations + 87 separations. YoY tracking strong. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not disclosed in retrieved evidence.",
+  "citations": [
+    "ANZ_2023_ESGSupplement#chunk_0135",
+    "ANZ_2023_ESGSupplement#chunk_0144",
+    "ANZ_2023_ESGSupplement#chunk_0140",
+    "ANZ_2023_ESGSupplement#chunk_0141",
+    "ANZ_2023_ESGSupplement#chunk_0142"
+  ]
+}

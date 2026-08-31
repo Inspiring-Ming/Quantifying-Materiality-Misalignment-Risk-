@@ -1,0 +1,24 @@
+# Two-model comparison: MMRI per report under Claude vs GPT,
+# identical corpus, retrieval and prompt. Supports the paper's finding that
+# absolute MMRI is model-dependent while relative ranking is more stable.
+report_id,bank,year,mmri_claude,mmri_gpt,difference_gpt_minus_claude
+ANZ_2021_ESGSupplement,ANZ,2021,0.3333,0.5139,0.1806
+ANZ_2022_ESGSupplement,ANZ,2022,0.2778,0.4444,0.1666
+ANZ_2023_ESGSupplement,ANZ,2023,0.2639,0.4583,0.1944
+ANZ_2024_ESGSupplement,ANZ,2024,0.1806,0.375,0.1944
+ANZ_2025_ESGReport,ANZ,2025,0.0833,0.3889,0.3056
+CBA_2021_AnnualReport_Sustainability,CBA,2021,0.2361,0.4306,0.1945
+CBA_2022_SustainabilityAppendix,CBA,2022,0.0972,0.3889,0.2917
+CBA_2023_SustainabilityReporting,CBA,2023,0.2361,0.5,0.2639
+CBA_2024_SustainabilityReporting,CBA,2024,0.1667,0.5,0.3333
+CBA_2025_SustainabilityAppendix,CBA,2025,0.0694,0.4167,0.3473
+NAB_2021_AnnualReview,NAB,2021,0.0833,0.3611,0.2778
+NAB_2022_ClimateReport,NAB,2022,0.0833,0.5278,0.4445
+NAB_2023_ClimateReport,NAB,2023,0.1389,0.4444,0.3055
+NAB_2024_ClimateReport,NAB,2024,0.0556,0.3611,0.3055
+NAB_2025_ClimateReport,NAB,2025,0.0833,0.4167,0.3334
+Westpac_2021_SustainabilitySupplement,Westpac,2021,0.0972,0.4444,0.3472
+Westpac_2022_SustainabilitySupplement,Westpac,2022,0.4722,0.6389,0.1667
+Westpac_2023_ClimateReport,Westpac,2023,0.1111,0.6389,0.5278
+Westpac_2024_ClimateReport,Westpac,2024,0.0556,0.4444,0.3888
+Westpac_2025_SustainabilityReport,Westpac,2025,0.3194,0.5833,0.2639

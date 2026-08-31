@@ -1,0 +1,14 @@
+{
+  "presence": 0.75,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Topic addressed via climate-systemic-risk framing: Group-wide climate stress test consistent with APRA Climate Vulnerability Assessment, 2-NGFS-scenario analysis tailored to Australian context, Energy Value Chain monitoring. The SASB FN-CB-550a focus on capital adequacy and stress test integration into capital planning is partial.",
+  "specificity_rationale": "Names APRA CVA, 2 NGFS scenarios, Bank Risk Committee oversight, Group-wide climate work program, glidepath methodology embedded in business practices, scenario analysis since 2018-2019, ELT Environmental & Social Committee, Board E&S accountability. Climate-side stress-test process well documented. However, no description of regulatory capital framework, CET1, leverage ratio, or recovery/resolution planning.",
+  "quantification_rationale": "Reports Energy Value Chain exposures ($5bn+ in scope) with YoY changes, $4.8bn renewables exposure (+13%), 42% Scope 1+2 reduction target. However, no G-SIB or D-SIB score, no CET1 / capital ratio numbers, no LCR/NSFR. SASB FN-CB-550a.1 metric is not in retrieved evidence.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0003",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0035",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0030",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0031"
+  ]
+}

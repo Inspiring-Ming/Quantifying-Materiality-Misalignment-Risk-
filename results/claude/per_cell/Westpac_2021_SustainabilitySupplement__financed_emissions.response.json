@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: financed emissions analysis attributing emissions to Australian business + institutional + residential mortgage portfolios. Sector criteria for thermal coal/oil & gas/metals & mining. NZBA membership. APRA CVA participation.",
+  "specificity_rationale": "Names sector criteria for oil and gas/metals and mining/agribusiness, IEA Net Zero by 2050 + IPCC Sixth Assessment Report + APRA CVA as reference scenarios, Climate Active and Toitū Carbonzero certifications, BT alignment with TCFD, Climate Action Plan with thermal coal/electricity criteria, $15bn 2030 climate change solutions target, Paris-aligned business strategies.",
+  "quantification_rationale": "Reports SASB FN-CB-410b directly: Total Scope 1+2 = 61,832 tCO2-e (vs 107,634 in 2020), Scope 3 supply chain = 71,738 tCO2-e (vs 91,616 in 2020). Financed emissions (Group Australian emissions intensity per $ lent: 0.151-0.257 kgCO2-e/$ across sectors). 58% Scope 1+2 reduction since 2016 baseline (43% YoY). 45% renewable electricity. Electricity portfolio emissions intensity 0.26 tCO2-e/MWh (vs NEM 0.69). 79% renewables share of electricity-sector lending. Thermal coal exposure 0.05% Group TCE, oil and gas 0.21%. $1.9bn climate-change-solutions financing in 2021. SASB FN-CB-410b.1, .2, .3 substantively covered.",
+  "citations": [
+    "Westpac_2021_SustainabilitySupplement#chunk_0129",
+    "Westpac_2021_SustainabilitySupplement#chunk_0100",
+    "Westpac_2021_SustainabilitySupplement#chunk_0139",
+    "Westpac_2021_SustainabilitySupplement#chunk_0074",
+    "Westpac_2021_SustainabilitySupplement#chunk_0124"
+  ]
+}

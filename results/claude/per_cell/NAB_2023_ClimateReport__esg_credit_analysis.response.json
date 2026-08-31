@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.25,
+  "presence_rationale": "Substantive ESG governance disclosure. Just-and-inclusive-transition principles documented (4 principles). Sustainability Risk material risk category integrated into Risk Management Framework. GCMRC oversight of ESG-related credit policy and risk settings for emissions-intensive/climate-sensitive/low-emissions sectors.",
+  "specificity_rationale": "Names Group Credit and Market Risk Committee, Group Risk Appetite Statement, dedicated human rights grievance mechanism (multiple languages), 2023 Australian Dialogue on Business and Human Rights participation, Net Zero Authority establishment in Australia, UTS Institute for Sustainable Futures research collaboration. Just transition guiding principles framework explicit (build awareness/operationalise/engage/improve transparency).",
+  "quantification_rationale": "No specific commercial and industrial credit exposure breakdown in retrieved chunks (lives in financed-emissions section). Substantive risk-threshold descriptions ($1M EAD floor, materiality thresholds for diversified mining identification). SASB FN-CB-410a.1 not directly disclosed in retrieved chunks (the per-sector EAD breakdown is in financed-emissions chunks, not retrieved here).",
+  "citations": [
+    "NAB_2023_ClimateReport#chunk_0060",
+    "NAB_2023_ClimateReport#chunk_0053",
+    "NAB_2023_ClimateReport#chunk_0077",
+    "NAB_2023_ClimateReport#chunk_0067",
+    "NAB_2023_ClimateReport#chunk_0054"
+  ]
+}

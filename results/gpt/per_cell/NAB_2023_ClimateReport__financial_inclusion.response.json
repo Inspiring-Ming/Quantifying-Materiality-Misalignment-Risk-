@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The evidence is a climate report and only mentions adjacent governance topics such as sustainability, affordable housing, Indigenous advisory structures, and climate strategy. It does not address financial inclusion, unbanked or underbanked customers, small business/community development lending, no-cost accounts, or financial literacy initiatives.",
+  "specificity_rationale": "No substantive disclosure on FN-CB-240a appears in the retrieved chunks. There is no description of a financial inclusion strategy, no linkage to underserved customer products, and no discussion of how results feed product design. The material is unrelated climate governance content.",
+  "quantification_rationale": "None of the required SASB metrics are present: no counts or amounts of qualifying loans, no past-due or forbearance figures, no no-cost retail checking account counts, and no financial literacy participant counts. The evidence contains only unrelated climate percentages and emissions data.",
+  "citations": ["NAB_2023_ClimateReport#chunk_0004", "NAB_2023_ClimateReport#chunk_0061", "NAB_2023_ClimateReport#chunk_0067", "NAB_2023_ClimateReport#chunk_0093", "NAB_2023_ClimateReport#chunk_0209"]
+}

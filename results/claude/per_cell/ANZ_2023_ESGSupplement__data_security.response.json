@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Information security' and 'Data protection and privacy' sections with explicit description of cyber, scam, fraud, and breach response programmes.",
+  "specificity_rationale": "Names specific capabilities: behavioural biometrics, mule detection AI/ML, Scam Assist team, NZ-specific scam friction controls, multidisciplinary incident response, ANZ Privacy Week, root-cause analysis, OAIC notification process. Multiple programs, scope, and accountabilities described.",
+  "quantification_rationale": "Reports the SASB FN-CB-230a.1 metric: 'three data breaches notified to OAIC' (zero in 2022). Reports >$100M stopped from being sent to criminals, ~12,300 scams investigated, ~1,400 high-risk mule accounts identified. YoY tracking present. Percentage personal-data and number of customers affected not disclosed.",
+  "citations": [
+    "ANZ_2023_ESGSupplement#chunk_0137",
+    "ANZ_2023_ESGSupplement#chunk_0126",
+    "ANZ_2023_ESGSupplement#chunk_0138",
+    "ANZ_2023_ESGSupplement#chunk_0127"
+  ]
+}

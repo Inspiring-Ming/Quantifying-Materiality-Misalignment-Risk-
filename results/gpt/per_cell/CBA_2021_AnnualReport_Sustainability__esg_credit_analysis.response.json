@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses ESG incorporation in credit analysis: ESG risk assessment is part of the lending approval process, applies to institutional and large business bank loans, and considers each client's ESG risks and mitigations. Governance over environmental and social risks is also described. This is directly on-topic for FN-CB-410a.",
+  "specificity_rationale": "The disclosure explains the process, scope, and governance: a Group E&S Policy, an ESG risk assessment tool, a new executive-level committee, and an E&S Committee overseeing exposures. It also says the assessment is part of lending approval and considers client mitigations. However, it does not fully detail accountability lines or the exact decision thresholds used in creditworthiness assessment.",
+  "quantification_rationale": "There is some quantification, including that ESG assessment applies to all institutional bank loans and large business bank loans, plus a table with sector exposure amounts such as $5.0bn, $0.6bn, and $0.03bn. But the evidence does not provide a full industry-by-industry commercial and industrial credit exposure breakdown, so the SASB quantitative metric is only partially evidenced.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0072", "CBA_2021_AnnualReport_Sustainability#chunk_0002", "CBA_2021_AnnualReport_Sustainability#chunk_0038"]
+}

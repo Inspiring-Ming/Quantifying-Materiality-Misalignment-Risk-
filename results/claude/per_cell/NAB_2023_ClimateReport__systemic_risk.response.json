@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive climate stress-test disclosure: Group climate scenario analysis with 2 NGFS scenarios (Delayed Transition + Current Policies), BNZ participation in RBNZ 2023 Climate Stress Test (Too Little Too Late scenario, 2023-2050 period). Climate Measurement Standards Initiative participation. ASFI working groups participation.",
+  "specificity_rationale": "Names 2 NGFS scenarios, RBNZ 'Too Little, Too Late' (TLTL) climate stress scenario, Shared Socioeconomic Pathway 2 (SSP2), Phase III NGFS scenarios, Reserve Bank of New Zealand stress test design (2C from pre-industrial), Australian Sustainable Finance Institute (founding member), CMSI Addendum to Science Report, UNEP FI TCFD programme transition plan capacity-building, Institute for the Future of Business with Melbourne University.",
+  "quantification_rationale": "Reports portfolio carbon-price ranges per scenario (USD37-144 for Delayed Transition, USD16-62 for Current Policies). Customer-level analysis carbon prices (USD0.63-USD497 for delayed). Scenario warming outcomes (1.6C / 3C+). However, no G-SIB or D-SIB score, no CET1 / capital ratio numbers, no LCR/NSFR — these live in NAB Annual Report Pillar 3, not this Climate Report. SASB FN-CB-550a.2 substantively covered through CST disclosure.",
+  "citations": [
+    "NAB_2023_ClimateReport#chunk_0092",
+    "NAB_2023_ClimateReport#chunk_0103",
+    "NAB_2023_ClimateReport#chunk_0094",
+    "NAB_2023_ClimateReport#chunk_0044",
+    "NAB_2023_ClimateReport#chunk_0046"
+  ]
+}

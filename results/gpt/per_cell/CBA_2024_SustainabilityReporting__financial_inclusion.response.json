@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financial inclusion and access to banking, including stakeholder priority listings for financial inclusion/accessibility and detailed discussion of support for remote Indigenous communities, restoring banking access, and improving products and services for vulnerable customers. This is directly relevant to the topic, even though it is broader than the SASB metric set.",
+  "specificity_rationale": "The disclosure describes concrete actions such as the First Nations Reach program, visits to remote communities, account-opening and access restoration support, and an internal review that produced 12 product/service recommendations. However, it does not specifically discuss small-business/community-development lending programs or financial literacy initiatives in the SASB sense.",
+  "quantification_rationale": "There are some numbers in the surrounding disclosure, such as 12 recommendations and 14 remote communities visited, but none of the required SASB metrics are reported: no counts or amounts of qualifying loans, no no-cost account counts, and no participant totals for financial literacy initiatives. Quantitative coverage is therefore limited.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0010",
+    "CBA_2024_SustainabilityReporting#chunk_0046",
+    "CBA_2024_SustainabilityReporting#chunk_0061",
+    "CBA_2024_SustainabilityReporting#chunk_0070"
+  ]
+}

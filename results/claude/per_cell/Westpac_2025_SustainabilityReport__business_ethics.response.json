@@ -1,0 +1,15 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Sustainability Report mentions Climate Risk Policy implemented, refreshed Carbon-Intensive Sector Requirements, Customer Climate Transition Plan Evaluations strengthened, ESG Risk Assessment tool, Incident Management Policy. Limited inline business-ethics whistleblower or monetary-loss content (lives in Annual Report).",
+  "specificity_rationale": "Names Climate Risk Policy, Customer Transition Plan Evaluations, Incident Management Policy, ESG Risk Assessment tool, Customer & Transaction Risk Escalation Committee, Group STVR scorecard with 5% sustainability/climate weight including scam/fraud refund timeliness, Stress Testing & Scenario Analysis feeding ICAAP. Group-wide crisis exercise simulating major weather event on Australia's eastern seaboard. Responsible Sourcing Code of Conduct.",
+  "quantification_rationale": "Reports 5% sustainability/climate weight in STVR Scorecard, 'reducing customer losses from scams and the number of days to refund customers for fraud events' as STVR component. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not in retrieved chunks (Annual Report); 510a.2 (whistleblower) not specifically disclosed in retrieved evidence.",
+  "citations": [
+    "Westpac_2025_SustainabilityReport#chunk_0012",
+    "Westpac_2025_SustainabilityReport#chunk_0014",
+    "Westpac_2025_SustainabilityReport#chunk_0048",
+    "Westpac_2025_SustainabilityReport#chunk_0194",
+    "Westpac_2025_SustainabilityReport#chunk_0282"
+  ]
+}

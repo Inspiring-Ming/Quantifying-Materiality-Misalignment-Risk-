@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financed emissions, including a section titled “Reducing financed emissions” and a table on NAB’s attributable financed emissions estimate with sector coverage and scopes. This goes beyond a passing mention and shows the topic is substantively covered.",
+  "specificity_rationale": "The disclosure is fairly detailed: it explains the bank’s approach, mentions sector decarbonisation targets, and provides a sector table showing geographic boundary, operational boundary, EAD, and baseline year. However, it does not describe the calculation methodology in depth or name PCAF, so it is not fully specific.",
+  "quantification_rationale": "There are concrete figures for exposure by sector and percentages of total EAD, plus scope inclusions and baseline metrics. But the evidence does not show absolute gross financed emissions totals by Scope 1, Scope 2, and Scope 3, nor the percentage of gross exposure covered by the calculation, so quantification is partial.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0067", "NAB_2024_ClimateReport#chunk_0385"]
+}

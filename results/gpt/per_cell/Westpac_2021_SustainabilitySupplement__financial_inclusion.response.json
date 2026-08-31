@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through financial education platforms, a Recovery Hub, and improved banking accessibility for Indigenous and remote Australians. It also describes expanding product offerings and access to capital for Indigenous businesses. However, it does not directly discuss the SASB framing of unbanked/underbanked lending programs in a comprehensive way.",
+  "specificity_rationale": "Disclosure is moderately substantive: it describes initiatives, delivery channels, and intended customer outcomes, plus a future focus on expanding offerings and measuring whether customers felt supported. But it lacks a clear strategy tying inclusion results back to product design in the specific SASB sense, and it does not explain the full program logic for community development lending.",
+  "quantification_rationale": "There are several counts, including programs and content to over 1.2 million Australians, 90,000+ Recovery Hub users, 8,600+ Spend Snapshot users, 56,600 community members reached, and 8,200+ Indigenous and remote customers supported. But the evidence does not give the SASB-required numbers and amounts for qualifying loans, no-cost accounts, or financial literacy participants.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0057", "Westpac_2021_SustainabilitySupplement#chunk_0066", "Westpac_2021_SustainabilitySupplement#chunk_0055", "Westpac_2021_SustainabilitySupplement#chunk_0039", "Westpac_2021_SustainabilitySupplement#chunk_0078"]
+}

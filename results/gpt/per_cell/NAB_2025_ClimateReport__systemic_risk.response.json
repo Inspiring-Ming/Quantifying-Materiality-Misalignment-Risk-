@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence clearly discusses stress testing, ICAAP, scenario analysis, and capital adequacy planning, which are directly relevant to systemic risk management. However, it is framed as climate risk management rather than broader systemic-risk disclosure, and it does not mention G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements.",
+  "specificity_rationale": "The report gives a substantive description of how climate scenarios are used in risk management, including internal capital adequacy assessment, market risk, and portfolio vulnerability analysis. That is more than a passing mention, but it is still narrow and does not explain a full systemic-risk framework or how mandatory and voluntary stress tests feed into broader strategic planning beyond climate context.",
+  "quantification_rationale": "There are some concrete numbers and scenario references, such as the 2023 RBNZ climate stress test, the 1-in-100-year flood scenario, and short/medium/long-term time frames. But the evidence does not include the SASB-specific quantitative metric of a G-SIB score, any CET1 or leverage ratios, or other required systemic-risk figures, so quantification remains limited.",
+  "citations": ["NAB_2025_ClimateReport#chunk_0026", "NAB_2025_ClimateReport#chunk_0128", "NAB_2025_ClimateReport#chunk_0129", "NAB_2025_ClimateReport#chunk_0130", "NAB_2025_ClimateReport#chunk_0132"]
+}

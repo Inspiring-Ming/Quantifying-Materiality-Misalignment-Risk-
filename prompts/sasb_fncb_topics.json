@@ -1,0 +1,232 @@
+{
+  "_file": "sasb_fncb_topics.json",
+  "_purpose": "Canonical SASB FN-CB Commercial Banks topic schema (2025-12 version).",
+  "_source": "commercial-banks-standard_en-gb (1).pdf  (IFRS Foundation, ISSB-stewarded)",
+  "_extracted_from_pages": "8, 11, 14, 17, 19, 21 (topic summaries) + 6, 7 (metrics tables)",
+  "_used_by": "pipeline/stage1_*.py and pipeline/stage2_score.py (loaded by Stage 1.2 retrieval and Stage 2 prompt rendering; same schema for Claude and GPT)",
+
+  "topics": {
+    "data_security": {
+      "code_prefix": "FN-CB-230a",
+      "name": "Data Security",
+      "summary": "Ensuring personal financial data privacy and security is an essential responsibility of Commercial Banks. Entities that fail to safeguard customer data may be susceptible to decreased revenue and consumer confidence. As the growth in mobile banking and cloud storage continues and more bank operations become technology- and internet-dependent, data security management becomes increasingly important. Sophisticated technology and continuous staff training are essential amid growing cybersecurity threats.",
+      "metrics": [
+        {
+          "code": "FN-CB-230a.1",
+          "category": "Quantitative",
+          "description": "(1) Number of data breaches, (2) percentage that are personal data breaches, (3) number of account holders affected"
+        },
+        {
+          "code": "FN-CB-230a.2",
+          "category": "Discussion and Analysis",
+          "description": "Description of approach to identifying and addressing data security risks (including emerging cyber threats, attack vectors, regulatory environment)"
+        }
+      ],
+      "keyword_seeds": [
+        "data breach", "data breaches", "personal data", "customer data",
+        "cyber security", "cybersecurity", "cyber threat", "cyber attack",
+        "ransomware", "phishing", "data protection", "privacy",
+        "encryption", "information security", "account holder", "scam",
+        "fraud prevention", "notifiable data breach", "OAIC", "privacy act"
+      ],
+      "evidence_required_for_high_score": [
+        "explicit count of breaches in the year",
+        "percentage that involved personal data",
+        "number of customers affected",
+        "description of cyber risk identification and response process",
+        "discussion of emerging threat landscape"
+      ]
+    },
+
+    "financial_inclusion": {
+      "code_prefix": "FN-CB-240a",
+      "name": "Financial Inclusion & Capacity Building",
+      "summary": "As their primary business activity, commercial banks must continuously balance their capacity building efforts with the risks and opportunities associated with lending to unbanked, underbanked or underserved customers. Emerging financing models and technologies provide banks with an opportunity to offer products and services in previously underserved markets and obtain additional sources of revenue.",
+      "metrics": [
+        {
+          "code": "FN-CB-240a.1",
+          "category": "Quantitative",
+          "description": "(1) Number and (2) amount of loans outstanding that qualify for programmes designed to promote small business and community development"
+        },
+        {
+          "code": "FN-CB-240a.2",
+          "category": "Quantitative",
+          "description": "(1) Number and (2) amount of past due and nonaccrual loans or loans subject to forbearance that qualify for programmes designed to promote small business and community development"
+        },
+        {
+          "code": "FN-CB-240a.3",
+          "category": "Quantitative",
+          "description": "Number of no-cost retail checking accounts provided to previously unbanked or underbanked customers"
+        },
+        {
+          "code": "FN-CB-240a.4",
+          "category": "Quantitative",
+          "description": "Number of participants in financial literacy initiatives for unbanked, underbanked, or underserved customers"
+        }
+      ],
+      "keyword_seeds": [
+        "financial inclusion", "underbanked", "unbanked", "underserved",
+        "low income", "low-income", "small business loan", "community development",
+        "financial literacy", "financial wellbeing", "indigenous", "first nations",
+        "vulnerable customer", "hardship", "no-cost checking", "affordable banking",
+        "regional", "remote", "capacity building", "MoneyMinded"
+      ],
+      "evidence_required_for_high_score": [
+        "number/amount of loans to small business / community development programmes",
+        "number of no-cost accounts opened for underbanked customers",
+        "number of financial literacy participants",
+        "description of strategy linking results back into product design"
+      ]
+    },
+
+    "esg_credit_analysis": {
+      "code_prefix": "FN-CB-410a",
+      "name": "Incorporation of Environmental, Social, and Governance Factors in Credit Analysis",
+      "summary": "As financial intermediaries, commercial banks contribute to significant positive and negative environmental and social externalities through their lending practices. ESG factors can have material implications for the underlying entities, assets and projects to which commercial banks lend. Banks must examine ESG factors when determining the quality of collateral and may enable positive externalities through ESG-aligned lending.",
+      "metrics": [
+        {
+          "code": "FN-CB-410a.1",
+          "category": "Quantitative",
+          "description": "Commercial and industrial credit exposure, by industry"
+        },
+        {
+          "code": "FN-CB-410a.2",
+          "category": "Discussion and Analysis",
+          "description": "Description of approach to incorporation of ESG factors in credit analysis (including parties responsible, oversight, accountability, integration into creditworthiness assessment)"
+        }
+      ],
+      "keyword_seeds": [
+        "ESG factor", "ESG risk", "ESG in credit", "ESG integration",
+        "environmental and social risk", "ESG assessment", "sector policy",
+        "due diligence", "responsible lending", "sensitive sector", "human rights",
+        "modern slavery", "Equator Principles", "ESRM", "credit policy",
+        "environmental social governance", "lending policy", "exclusion list"
+      ],
+      "evidence_required_for_high_score": [
+        "industry-by-industry credit exposure breakdown",
+        "named ESG-in-credit framework / policy",
+        "description of governance roles and oversight bodies",
+        "description of how ESG factors enter the credit decision"
+      ]
+    },
+
+    "financed_emissions": {
+      "code_prefix": "FN-CB-410b",
+      "name": "Financed Emissions",
+      "summary": "Entities participating in commercial banking activities face risks and opportunities related to the greenhouse gas emissions associated with those activities. Counterparties with higher emissions might be more susceptible to risks associated with technological changes, supply and demand shifts and policy change, which in turn can impact the prospects of the financial institution providing services to these entities. These risks can arise as credit risk, market risk, reputational risk.",
+      "metrics": [
+        {
+          "code": "FN-CB-410b.1",
+          "category": "Quantitative",
+          "description": "Absolute gross financed emissions, disaggregated by (1) Scope 1, (2) Scope 2 and (3) Scope 3"
+        },
+        {
+          "code": "FN-CB-410b.2",
+          "category": "Quantitative",
+          "description": "Gross exposure for each industry by asset class (financed emissions disclosure under IFRS S2 B62-B62A)"
+        },
+        {
+          "code": "FN-CB-410b.3",
+          "category": "Quantitative",
+          "description": "Percentage of gross exposure included in the financed emissions calculation"
+        },
+        {
+          "code": "FN-CB-410b.4",
+          "category": "Discussion and Analysis",
+          "description": "Description of the methodology used to calculate financed emissions"
+        }
+      ],
+      "keyword_seeds": [
+        "financed emissions", "scope 1", "scope 2", "scope 3", "GHG emissions",
+        "greenhouse gas", "net zero", "net-zero", "carbon emissions", "emissions intensity",
+        "PCAF", "TCFD", "TNFD", "transition plan", "decarbonisation", "decarbonization",
+        "SBTi", "science-based target", "carbon neutral", "tCO2e",
+        "sectoral pathway", "1.5 degree", "Paris Agreement", "physical risk",
+        "transition risk"
+      ],
+      "evidence_required_for_high_score": [
+        "absolute Scope 1/2/3 financed emissions numbers",
+        "industry/sector breakdown of exposure",
+        "% of gross exposure covered by the calculation",
+        "named methodology (PCAF) and explanation"
+      ]
+    },
+
+    "business_ethics": {
+      "code_prefix": "FN-CB-510a",
+      "name": "Business Ethics",
+      "summary": "The regulatory environment surrounding the Commercial Banks industry continues to evolve internationally. Entities must adhere to a complex and often inconsistent set of rules relating to performance and conduct, as well as provide disclosure on issues including insider trading, antitrust behaviour, price fixing and market manipulation. Entities are subject to strict legal requirements against tax evasion, fraud, money laundering and corrupt practices.",
+      "metrics": [
+        {
+          "code": "FN-CB-510a.1",
+          "category": "Quantitative",
+          "description": "Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, antitrust, anti-competitive behaviour, market manipulation, malpractice, or other related financial industry laws or regulations"
+        },
+        {
+          "code": "FN-CB-510a.2",
+          "category": "Discussion and Analysis",
+          "description": "Description of whistleblower policies and procedures"
+        }
+      ],
+      "keyword_seeds": [
+        "business ethics", "code of conduct", "whistleblower", "whistleblowing",
+        "anti-bribery", "anti bribery", "anti-corruption", "anti corruption",
+        "money laundering", "AML", "CTF", "fraud", "insider trading",
+        "conduct risk", "misconduct", "regulatory breach", "monetary loss",
+        "legal proceedings", "antitrust", "market manipulation", "tax evasion",
+        "speak up", "ethics committee"
+      ],
+      "evidence_required_for_high_score": [
+        "monetary losses from legal proceedings (with $ amount)",
+        "context of those losses (fraud / antitrust / etc.)",
+        "description of whistleblower policy and reporting channels",
+        "corrective actions taken"
+      ]
+    },
+
+    "systemic_risk": {
+      "code_prefix": "FN-CB-550a",
+      "name": "Systemic Risk Management",
+      "summary": "Commercial Bank entities that fail to manage risks to capital effectively may suffer significant losses while increasing their liabilities. Because of the interconnectedness of the global financial system, these failures can contribute to significant market disruption and financial crises. The systemic interconnectedness of financial institutions has become a central concern for regulators. Many jurisdictions require that banks undergo supervised stress tests to evaluate whether the entity has sufficient capital reserves and liquidity to absorb shocks.",
+      "metrics": [
+        {
+          "code": "FN-CB-550a.1",
+          "category": "Quantitative",
+          "description": "Global Systemically Important Bank (G-SIB) score, by category"
+        },
+        {
+          "code": "FN-CB-550a.2",
+          "category": "Discussion and Analysis",
+          "description": "Description of approach to incorporation of results of mandatory and voluntary stress tests into capital adequacy planning, long-term corporate strategy, and other business activities"
+        }
+      ],
+      "keyword_seeds": [
+        "systemic risk", "G-SIB", "D-SIB", "stress test", "stress-test",
+        "capital adequacy", "APRA", "Basel", "liquidity coverage",
+        "resolution plan", "recovery plan", "macroprudential",
+        "prudential", "operational resilience", "CET1", "tier 1 capital",
+        "leverage ratio", "LCR", "NSFR", "ICAAP"
+      ],
+      "evidence_required_for_high_score": [
+        "G-SIB / D-SIB score (or explicit statement that bank is not designated)",
+        "regulatory capital ratios (CET1, leverage)",
+        "description of stress test scenarios and integration into planning",
+        "description of recovery / resolution arrangements"
+      ]
+    }
+  },
+
+  "applicability_rules": {
+    "_purpose": "Some report types do not address all 6 topics. a_i = 0 if the topic is out of scope for the report TYPE.",
+    "climate_only_report": {
+      "_examples": ["NAB_2022_ClimateReport", "NAB_2023_ClimateReport", "NAB_2024_ClimateReport", "NAB_2025_ClimateReport", "Westpac_2023_ClimateReport", "Westpac_2024_ClimateReport"],
+      "applies": ["financed_emissions", "esg_credit_analysis", "systemic_risk"],
+      "does_not_apply": ["data_security", "financial_inclusion", "business_ethics"]
+    },
+    "full_esg_or_sustainability_report": {
+      "_examples": ["all ANZ_*_ESG*", "all CBA_*_Sustainability*", "Westpac_2021/2022/2025", "NAB_2021_AnnualReview"],
+      "applies": ["data_security", "financial_inclusion", "esg_credit_analysis", "financed_emissions", "business_ethics", "systemic_risk"],
+      "does_not_apply": []
+    }
+  }
+}

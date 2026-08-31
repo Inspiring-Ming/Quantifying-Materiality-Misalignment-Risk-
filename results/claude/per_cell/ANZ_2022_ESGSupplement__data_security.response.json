@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Data protection and privacy' section with explicit governance, regulatory tracking (EU SCCs, UK IDTA, Thailand PDPA), and operational program description.",
+  "specificity_rationale": "Names Chief Risk Officer for Data and Technology (Data Protection Officer), 24/7 security operations centre, data event management process (since 2019), Privacy Week, mandatory annual training, ACSC partnership, and specific regulatory responses by jurisdiction. Multiple controls and processes named.",
+  "quantification_rationale": "Reports the SASB FN-CB-230a.1 metric: 'zero data breaches reported to OAIC under the Notifiable Data Breach Scheme (three in 2021)'. Also reports 178% increase in fraudulent ANZ-impersonating sites taken down and 5,556 scams investigated. Number of breaches and YoY tracking present, but no percentage personal-data breakdown and no number of customers affected.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0268",
+    "ANZ_2022_ESGSupplement#chunk_0267",
+    "ANZ_2022_ESGSupplement#chunk_0266",
+    "ANZ_2022_ESGSupplement#chunk_0271"
+  ]
+}

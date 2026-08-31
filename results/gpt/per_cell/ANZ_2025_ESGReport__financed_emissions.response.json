@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report explicitly discusses financed emissions, stating that lending contributes to financed emissions and that ANZ has sectoral pathways and targets to transition lending to net zero financed emissions by 2050. It also references the 2025 Climate Report for further detail on climate and environment targets and progress. This is clearly on-topic, even if the disclosure is high level.",
+  "specificity_rationale": "The disclosure gives some substantive context on how ANZ frames financed emissions within its transition planning, including sectoral pathways, large customer engagement, and references to methodology. However, it does not provide a focused financed-emissions disclosure with the SASB-required elements or a clear breakdown by asset class or industry. The discussion is relevant but mostly narrative and directional.",
+  "quantification_rationale": "There are some numbers in the surrounding climate disclosure, such as 10 sectors/sub-sectors, 77 customers in the Mature phase, and target amounts, but the evidence does not show absolute financed emissions for Scope 1, Scope 2, or Scope 3. It also does not show gross exposure by industry, the percentage of exposure covered, or a financed-emissions methodology such as PCAF in the retrieved chunks.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0088", "ANZ_2025_ESGReport#chunk_0176", "ANZ_2025_ESGReport#chunk_0048", "ANZ_2025_ESGReport#chunk_0051", "ANZ_2025_ESGReport#chunk_0182"]
+}

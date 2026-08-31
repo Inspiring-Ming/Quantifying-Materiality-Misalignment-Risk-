@@ -1,0 +1,15 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "Topic referenced via NZBA membership, '100 largest emitting customers' engagement target, and explicit pointer to the separate 'Financed Emissions Methodology' document and 2023 Climate-related Financial Disclosures report. Substantive references but the actual numbers live in those companion documents, not in the ESG Supplement evidence.",
+  "specificity_rationale": "Names NZBA, Climate Change Risk Assessment methodology, target to extend assessment to top-100 customers by end-2024, target to lift transition-plan ratings by end-2025. References Financed Emissions Methodology document. Operational targets very detailed. Financed-emissions methodology in evidence is at a high level.",
+  "quantification_rationale": "Operational targets quantified (Scope 1+2 80% reduction since 2015, 49% renewable electricity). $10B by end-2030 sustainable-housing target. NZ$670m to 16,000 households by 2025. However, the SASB FN-CB-410b metrics (absolute Scope 1/2/3 financed emissions, gross exposure by industry, % of exposure covered) are NOT in retrieved evidence — they live in the Climate Disclosures and Financed Emissions Methodology documents.",
+  "citations": [
+    "ANZ_2023_ESGSupplement#chunk_0055",
+    "ANZ_2023_ESGSupplement#chunk_0005",
+    "ANZ_2023_ESGSupplement#chunk_0010",
+    "ANZ_2023_ESGSupplement#chunk_0053",
+    "ANZ_2023_ESGSupplement#chunk_0057"
+  ]
+}

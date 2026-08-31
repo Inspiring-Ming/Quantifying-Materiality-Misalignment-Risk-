@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses data security through dedicated sections on data protection, privacy, and information security, including breach handling, incident management, threat intelligence, and customer/staff training. It also discusses cyber risk and emerging scams. This is directly responsive to FN-CB-230a.",
+  "specificity_rationale": "The disclosure is substantive: it explains governance, training, incident response, root-cause analysis, post-incident reviews, privacy compliance, and use of threat intelligence to refine controls. It also notes the evolving threat landscape and new security capabilities. However, it does not fully detail the regulatory environment or map all response processes in a highly granular way.",
+  "quantification_rationale": "The evidence provides one concrete metric: ANZ notified three data breaches in the year, compared with zero in 2022. But it does not state the percentage of breaches that involved personal data or the number of account holders affected, so the SASB quantitative metric is only partially satisfied.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0137", "ANZ_2023_ESGSupplement#chunk_0138", "ANZ_2023_ESGSupplement#chunk_0126"]
+}

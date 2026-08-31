@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The topic is directly addressed in the SASB index and supporting text. The report states that E&S risk is a material risk, describes an E&S Framework and internal E&S Policy, and references an ESG risk assessment tool and credit-risk embedding. It also includes governance context and related supporting locations.",
+  "specificity_rationale": "Disclosure is substantive: it names the E&S Framework, internal Group E&S Policy, business-unit procedures, and an ESG risk assessment tool, and says the framework was updated this year. It also identifies board oversight. However, the evidence does not spell out a full step-by-step credit approval process or detailed integration criteria for all lending decisions.",
+  "quantification_rationale": "There is very limited quantification. The evidence gives one number, 13 EP project finance transactions, but it does not provide the required industry-by-industry commercial and industrial credit exposure breakdown or other SASB-mandated quantitative exposure metrics for this topic. That keeps Q low despite some numeric disclosure.",
+  "citations": ["CBA_2025_SustainabilityAppendix#chunk_0062", "CBA_2025_SustainabilityAppendix#chunk_0010", "CBA_2025_SustainabilityAppendix#chunk_0013"]
+}

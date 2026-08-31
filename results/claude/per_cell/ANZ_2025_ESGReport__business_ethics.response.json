@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Dedicated Whistleblower Program section, dedicated Financial Crime / AML/CTF / ABAC sections, plus extensive disclosure of the ASIC settlement (Markets + Australia Retail) including the AOFM bond issuance and hardship-handling matters. Topic comprehensively addressed.",
+  "specificity_rationale": "Whistleblower Program governance with Board oversight + quarterly Op Risk ExCo reporting, Whistleblower Investigators / Protection Officers / eligible recipients role-specific training (incl. Board), introduction of new external whistleblower reporting service this year. Financial Crime team with proprietary algorithms, AML/CTF Policy Summary, ABAC Business Integrity Policy applies to employees + third parties + Suncorp Bank, AFP partnership, NZ FCPN partnership. Suncorp Bank policy adoption phased.",
+  "quantification_rationale": "Reports the SASB FN-CB-510a.1 metric directly: '$240 million penalty' for ASIC settlement on Markets and Australia Retail matters (across 5 regulatory investigations), plus separate $40 million penalty for hardship-handling failures (ASIC matter, 488 customers). Whistleblower volume: 264 reports in 2025 (up from 222 in 2024); 61% within scope; 201 awareness sessions delivered. SASB FN-CB-510a.1 (monetary losses from legal proceedings with explicit context) and 510a.2 (whistleblower policies and procedures) both fully covered.",
+  "citations": [
+    "ANZ_2025_ESGReport#chunk_0064",
+    "ANZ_2025_ESGReport#chunk_0065",
+    "ANZ_2025_ESGReport#chunk_0120",
+    "ANZ_2025_ESGReport#chunk_0007",
+    "ANZ_2025_ESGReport#chunk_0036"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-550a.1 (G-SIB score) and FN-CB-550a.2 (stress tests in capital adequacy planning). Notes CBA is not classified as G-SIB but discloses against G-SIB indicators under APRA Prudential Standard APS 330.",
+  "specificity_rationale": "Names APRA Prudential Standard APS 330 Public Disclosure, APRA Climate Vulnerability Assessment, Group submits stress-test results to regulator, climate scenario analysis with both physical and transition risk. Audited Sustainability Funding Target balance with KPMG. Pointer to 2022 Climate Report pp. 34-37 for full scenario analysis.",
+  "quantification_rationale": "Reports 74% of lending portfolio tested for climate-transition risk, 63% for physical risk. CBA stated as not G-SIB classified — defensible negative disclosure. Pointer to G-SIB indicator disclosure in APS 330 reporting (not in retrieved evidence). FY20 baseline 18,224 tCO2-e Scope 1+2 + 36,916 Scope 3 used as stress baselines. SASB FN-CB-550a.1 (G-SIB indicator) is referenced as 'not classified' with pointer to APS 330 disclosures; .2 substantively covered.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0111",
+    "CBA_2022_SustainabilityAppendix#chunk_0110",
+    "CBA_2022_SustainabilityAppendix#chunk_0029",
+    "CBA_2022_SustainabilityAppendix#chunk_0020"
+  ]
+}

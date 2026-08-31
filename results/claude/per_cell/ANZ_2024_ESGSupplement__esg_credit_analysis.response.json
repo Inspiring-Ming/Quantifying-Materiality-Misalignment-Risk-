@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Social and environmental risk management' and 'Equator Principles' sections, with sensitive sectors framework (Energy, Extractive Industries, Forest, Water, Military Equipment) and human-rights / climate-risk integration into credit decisions.",
+  "specificity_rationale": "Detailed policy stack: Social and Environmental Risk Policy + Standard, sensitive-sector requirements, Climate Change Risk Assessment, Climate Variability tool, Reputation Risk Radar, Agri Viability Tool, Energy Transaction Escalation Process. Multiple 2024 Equator Principles case studies (Wind farm Eastern AU Cat B, Wind farm Maryland USA, BESS project) with named EP DD process and independent advisor engagement.",
+  "quantification_rationale": "Mentions case-study counts and EP categorisations. Explicit pointer to '2024 ESG Data and Frameworks Pack' for Equator Principles aggregate data — but those numbers are not in retrieved evidence chunks. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) is not disclosed in retrieved evidence.",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0196",
+    "ANZ_2024_ESGSupplement#chunk_0199",
+    "ANZ_2024_ESGSupplement#chunk_0198",
+    "ANZ_2024_ESGSupplement#chunk_0200",
+    "ANZ_2024_ESGSupplement#chunk_0191"
+  ]
+}

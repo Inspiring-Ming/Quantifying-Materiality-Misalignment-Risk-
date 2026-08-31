@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence directly addresses systemic risk management: it states the Group is not classified as a G-SIB but discloses against G-SIB indicators, and it says stress test results are submitted to the regulator and discussed in annual report/climate disclosures. This is clearly on-topic and not incidental.",
+  "specificity_rationale": "The disclosure gives a limited but relevant description of approach: stress testing is submitted to the regulator, linked to annual report risk management, and tied to climate-risk analysis and portfolio resilience. However, it does not explain detailed stress test scenarios, capital planning integration, or recovery/resolution arrangements in depth.",
+  "quantification_rationale": "There is some quantification, including the statement that the bank is not a G-SIB and the testing of 47% and 89% of lending portfolios. But the SASB-mandated G-SIB score by category is not provided, and there are no CET1 or leverage ratios, so quantitative coverage is partial.",
+  "citations": ["CBA_2025_SustainabilityAppendix#chunk_0067", "CBA_2025_SustainabilityAppendix#chunk_0071"]
+}

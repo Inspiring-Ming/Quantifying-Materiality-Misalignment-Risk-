@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: 11 sectors with EAD breakdown (Power 6.7 / Thermal coal 0.6 / Oil and gas 1.3 / Cement 0.8 / Aluminium 0.07 / Iron and steel 0.3 / Aviation 3.2 / Other transport 7.7 / Commercial real estate 5.2 / Residential real estate 338.0 / Agriculture 36.4 $bn). Updated Scope 1+2 target aligned with 1.5C scenario. 88.3% renewable electricity (up from 72.4%).",
+  "specificity_rationale": "Names PCAF Standard, NZBA membership and 5-year decarbonisation target review cycle, RE100 target (100% renewable by 30 June 2025), Sectoral Decarbonisation Approach Services Buildings methodology v2.1.2, NGER Act + SECR reporting frameworks, ACCU prioritisation of Indigenous-led savanna burning projects. Updated 2030 Scope 1+2 market-based target (72% reduction from 2022 baseline of 23,018 tCO2-e).",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 with detail: per-sector Scope 1+2 (and Scope 3 for fossil fuel), 11-sector EAD breakdown ($bn and % total). FN-CB-410b.2 explicit. FN-CB-410b.3 (% gross exposure included) reported in detail. Operational metrics: 88.3% renewables, 64,566 carbon offsets retired. Updated Scope 1+2 target 23,018→6,366 tCO2-e (72% reduction by 2030 from 2022 baseline). Strong SASB FN-CB-410b coverage.",
+  "citations": [
+    "NAB_2023_ClimateReport#chunk_0227",
+    "NAB_2023_ClimateReport#chunk_0244",
+    "NAB_2023_ClimateReport#chunk_0224",
+    "NAB_2023_ClimateReport#chunk_0208",
+    "NAB_2023_ClimateReport#chunk_0055"
+  ]
+}

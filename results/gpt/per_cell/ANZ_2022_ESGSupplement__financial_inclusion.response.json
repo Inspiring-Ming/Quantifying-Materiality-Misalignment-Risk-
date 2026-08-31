@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financial inclusion through “banking the unbanked” in Fiji, access to money transfer services for customers without bank accounts, and financial wellbeing/financial literacy programs. It also links inclusion research to improving products and digital accessibility, which is directly relevant to the topic.",
+  "specificity_rationale": "Disclosure is substantive: it describes the rural banking model, partnership with UNDP and Vodafone, accessibility research, digital channel inclusivity, and how insights inform products and services. It shows a strategy tied to underserved customers, not just a generic mention of inclusion.",
+  "quantification_rationale": "Quantification is limited. The evidence gives one concrete operational figure, “more than 326,000 transactions,” but it does not disclose SASB-mandated metrics such as number/amount of qualifying loans, no-cost accounts, or financial literacy participants. No relevant loan or account counts are shown.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0142", "ANZ_2022_ESGSupplement#chunk_0143", "ANZ_2022_ESGSupplement#chunk_0156", "ANZ_2022_ESGSupplement#chunk_0132"]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "The report directly addresses financed emissions, including an explicit section on 'Understanding our financed emissions' and discussion of how lending activities are linked to emissions and the low-carbon transition. It also mentions expanding attributable financed emissions coverage and using this baseline for monitoring. The topic is clearly present, not just implied.",
+  "specificity_rationale": "The disclosure is substantive: it explains why financed emissions matter, describes the bank's approach, notes sector expansion, and references the Partnership for Carbon Accounting Financials methodology. It also discusses decarbonisation pathways and customer transition support. However, it does not fully provide the SASB-required breakdowns, especially scope 1/2/3 financed emissions.",
+  "quantification_rationale": "There are concrete figures: 10,885,840 tCO2-e, 50.7% coverage of Group EAD, 24.1 tonnes per $1 million financed, and prior-year 18,437,681 tCO2-e. But the evidence does not show absolute financed emissions split into Scope 1, 2, and 3, nor a gross exposure-by-industry-by-asset-class table. That keeps Q below the top anchor.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0097", "NAB_2021_AnnualReview#chunk_0098", "NAB_2021_AnnualReview#chunk_0119", "NAB_2021_AnnualReview#chunk_0094"]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The topic is clearly addressed through the Code of Conduct, fraud/financial crime controls, whistleblower program, and misconduct reporting. The evidence explicitly discusses ethics, conduct, fraud, conflicts of interest, and whistleblower protections/channels, which maps directly to SASB FN-CB-510a.",
+  "specificity_rationale": "The disclosure is substantive: it describes the whistleblower policy, protections against reprisal, reporting channels, training, governance, investigation outcomes, and follow-up actions on misconduct. It also links conduct expectations to policy frameworks and board/employee awareness, so this is more than a passing mention.",
+  "quantification_rationale": "The evidence includes several counts and percentages, such as 170 new whistleblower reports, 1,330 employee relations cases, 99.6% training completion, and investigation outcomes. However, it does not disclose the SASB-required monetary losses from legal proceedings, so quantification is partial rather than high.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0135", "ANZ_2023_ESGSupplement#chunk_0140", "ANZ_2023_ESGSupplement#chunk_0141", "ANZ_2023_ESGSupplement#chunk_0142", "ANZ_2023_ESGSupplement#chunk_0144"]
+}

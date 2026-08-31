@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "The topic is clearly addressed through multiple disclosures on data protection, privacy risk management, cyber security, and data breaches. The report says ANZ has a Data Event Management process, privacy risk assessments, privacy training, third-party controls, and explicitly discusses cyber events and data breaches in 2024.",
+  "specificity_rationale": "The evidence gives a substantive description of how ANZ identifies and addresses data security risk: DEM triggers, privacy impact assessments, mandatory privacy learning, third-party procurement controls, oversight of privacy risk, and response to emerging cyber threats and scam trends. It also mentions the regulatory environment and cross-border privacy laws, which aligns well with the SASB discussion requirement.",
+  "quantification_rationale": "There is some quantification: ANZ reported one data breach in 2024 and notified one impacted individual. However, the evidence does not provide the percentage of breaches involving personal data, so the SASB quantitative metric is only partially met. That supports a mid-level quantification score rather than a high one.",
+  "citations": ["ANZ_2024_ESGSupplement#chunk_0143", "ANZ_2024_ESGSupplement#chunk_0142", "ANZ_2024_ESGSupplement#chunk_0124", "ANZ_2024_ESGSupplement#chunk_0144"]
+}

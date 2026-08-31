@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The report only makes a limited, indirect reference to conduct-related oversight, including \"risk or conduct findings\" and \"scam and fraud prevention\" in governance/performance discussion. It does not present a dedicated business ethics section or clearly address whistleblower policies, legal proceedings, or anti-corruption controls in depth.",
+  "specificity_rationale": "Disclosure is very high-level and incidental to remuneration/governance. It names fraud prevention and conduct findings, but gives no description of whistleblower procedures, reporting channels, corrective actions, or ethics compliance processes. The evidence shows awareness of conduct issues, not substantive business ethics reporting.",
+  "quantification_rationale": "No monetary losses from legal proceedings are reported, and no SASB-required quantitative ethics metrics appear. There are also no counts, targets, or other figures tied to fraud, insider trading, antitrust, market manipulation, or whistleblower activity in the retrieved evidence.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0091"]
+}

@@ -1,0 +1,24 @@
+# Python 3.10+
+#
+# scripts/verify_repo.py and scripts/fetch_reports.py use only the standard
+# library — you need nothing here to validate the repository or rebuild the
+# corpus. The packages below are for rerunning the pipeline itself.
+
+# Stage 1.1 — PDF text and table extraction
+pdfplumber>=0.10
+
+# Stage 1.1 — OCR fallback for image-only pages.
+# Also needs the system binaries: tesseract and poppler
+#   macOS:  brew install tesseract poppler
+#   Ubuntu: apt-get install tesseract-ocr poppler-utils
+pytesseract>=0.3.10
+pdf2image>=1.16
+
+# Stage 3 and the figure scripts
+matplotlib>=3.7
+numpy>=1.24
+
+# Stage 2 (scripts/scoring/stage2_score.py) needs nothing beyond the standard
+# library. It does not call an API itself: `show` / `show_all` render prompts to
+# stdout, and `collect` validates the .response.json files you put back. Wire it
+# to whatever provider SDK or CLI you prefer.

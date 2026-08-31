@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through First Nations financial inclusion, a First Nations Strategy, a First Nations financial education program (MoneyBusiness), and lending via the First Nations Guarantee program. It also describes partnerships aimed at supporting financial wellbeing and inclusion. However, the disclosure is not framed around the SASB topic or its full set of required metrics.",
+  "specificity_rationale": "Disclosure is substantive: it explains strategy, implementation mechanisms, and how the bank is working with First Nations communities, including financial education and targeted lending. It also shows some linkage to broader capability-building and inclusion objectives. Still, it does not give a full operational breakdown tied to underserved customer products, no-cost accounts, or a complete SASB metric discussion.",
+  "quantification_rationale": "There are concrete figures for financial education participation, lending, and program scale: 126,422 participants this year, more than 1.1 million since 2002, and more than $150 million lent through the First Nations Guarantee program. But the required SASB metrics on number/amount of qualifying loans outstanding, past due loans, and no-cost retail checking accounts are not shown, so quantification is incomplete.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0151", "ANZ_2025_ESGReport#chunk_0152", "ANZ_2025_ESGReport#chunk_0096"]
+}

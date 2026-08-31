@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses data security and privacy through breach handling, privacy policy updates, cyber risk management, third-party security, training, and threat intelligence. It directly discusses customer data protection and incident response processes. [chunk_0191], [chunk_0194], [chunk_0195], [chunk_0196]",
+  "specificity_rationale": "The disclosure is fairly detailed: it names governance owners (DPO, EDG team), internal controls, supplier assessments, mandatory training, phishing drills, incident response exercises, a privacy helpdesk, and real-time threat intelligence. It explains how the bank identifies and manages cyber/privacy risks, but it is not highly technical or exhaustive. [chunk_0191], [chunk_0194], [chunk_0195]",
+  "quantification_rationale": "Some quantification is present because the bank states it reported three data breaches to the OAIC. However, the evidence does not give the percentage of breaches involving personal data or the number of account holders/customers affected, so the SASB metric is only partially covered. [chunk_0196]",
+  "citations": ["ANZ_2021_ESGSupplement#chunk_0191", "ANZ_2021_ESGSupplement#chunk_0194", "ANZ_2021_ESGSupplement#chunk_0195", "ANZ_2021_ESGSupplement#chunk_0196"]
+}

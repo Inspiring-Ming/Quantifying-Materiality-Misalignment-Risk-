@@ -1,0 +1,13 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address Customer Transition Plans framework (with Aug-2024 external review by independent reviewer), GPI scorecard sustainability and conduct considerations. No SASB FN-CB-510a (whistleblower or monetary losses) content in retrieved evidence — correctly out-of-scope.",
+  "specificity_rationale": "Customer Transition Plan framework with external review process, NAB Group Environmental Reporting and Offset Management Policy, KPMG-assured operational emissions. Governance only — no whistleblower programme or ABAC content.",
+  "quantification_rationale": "No SASB FN-CB-510a metrics in retrieved evidence.",
+  "citations": [
+    "NAB_2024_ClimateReport#chunk_0023",
+    "NAB_2024_ClimateReport#chunk_0024",
+    "NAB_2024_ClimateReport#chunk_0091"
+  ]
+}

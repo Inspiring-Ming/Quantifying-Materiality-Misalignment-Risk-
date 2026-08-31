@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is from a climate report and discusses governance, sustainability measures, and financed emissions methodology, but it does not address data security, breaches, customer data privacy, or cyber risk management.",
+  "specificity_rationale": "No substantive disclosure appears on identifying or addressing data security risks, emerging cyber threats, attack vectors, or the regulatory environment. The only nearby reference is a general mention of scam and fraud prevention, which is not the SASB topic.",
+  "quantification_rationale": "There are no counts of data breaches, no percentage of personal data breaches, and no number of affected account holders. The evidence also lacks any SASB FN-CB-230a.1 or FN-CB-230a.2 metrics.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0091", "NAB_2024_ClimateReport#chunk_0341", "NAB_2024_ClimateReport#chunk_0378"]
+}

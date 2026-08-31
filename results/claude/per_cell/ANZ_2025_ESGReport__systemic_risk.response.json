@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Improving non-financial risk management' material ESG issue elevated this year. Detailed coverage of court enforceable undertaking (CEU) with APRA (3 April 2025), Remediation and Culture Reform Plan (RCRP) approved by APRA (7 Nov 2025), Program PACT three-year program. Substantive systemic-risk disclosure framed as NFR rather than capital adequacy.",
+  "specificity_rationale": "Names APRA CEU, RCRP submitted 30 Sep 2025 with seven core workstreams (Governance/Accountability, Operating Model, NFR Framework and Processes, Culture, Performance and Remuneration, Capabilities, Data and Systems), Program PACT, Target States. Settlement of ASIC investigation detailed for AOFM Bond Issuance Duration Manager role. ANZ has relationships with 800+ regulatory bodies. Suncorp acquisition impact described.",
+  "quantification_rationale": "$240M ASIC penalty (5 investigations into Markets and Australia Retail), $40M hardship-handling penalty, RCRP timelines explicit. However, no G-SIB or D-SIB score, no CET1 / capital ratio numbers in retrieved evidence, no LCR/NSFR. The capital-overlay specifics referenced in 2024 evolved into the CEU framework in 2025 — substantively disclosed but the SASB FN-CB-550a.1 G-SIB score itself is not in retrieved evidence.",
+  "citations": [
+    "ANZ_2025_ESGReport#chunk_0032",
+    "ANZ_2025_ESGReport#chunk_0054",
+    "ANZ_2025_ESGReport#chunk_0060",
+    "ANZ_2025_ESGReport#chunk_0046",
+    "ANZ_2025_ESGReport#chunk_0051"
+  ]
+}

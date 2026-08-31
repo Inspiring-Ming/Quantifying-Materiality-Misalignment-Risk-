@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Safeguarding personal information / Privacy' / 'Reducing fraud and scams' sections. Cyber security and operational resilience flagged as top stakeholder priority across all stakeholder groups.",
+  "specificity_rationale": "Names CommBank Safe, NameCheck, CallerCheck, CustomerCheck for in-branch verification, Crypto Protect ($10K/customer/month limit and 24-hr hold on cryptocurrency exchange payments), investment scam transaction detection model. Group Privacy Statement and Privacy Enforceable Undertaking with OAIC (formal obligations completed in 2024). Risk-based supplier privacy due diligence.",
+  "quantification_rationale": "Reports CBA customer scam losses halved YoY. Privacy EU formal obligations completed. 17.6M customers, 53,000+ employees, 3,900+ suppliers contextual scope. SASB FN-CB-230a.1 metric (number of breaches, % personal data, customers affected) not directly disclosed in retrieved chunks (lives in supplementary disclosure).",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0043",
+    "CBA_2024_SustainabilityReporting#chunk_0078",
+    "CBA_2024_SustainabilityReporting#chunk_0008",
+    "CBA_2024_SustainabilityReporting#chunk_0012"
+  ]
+}

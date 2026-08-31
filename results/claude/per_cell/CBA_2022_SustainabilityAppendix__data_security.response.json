@@ -1,0 +1,13 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-230a.1 and FN-CB-230a.2 with structured response. Acknowledges Cybersecurity and Privacy as material risks. Voluntary Enforceable Undertaking referenced for context.",
+  "specificity_rationale": "Names Group Privacy Statement, CommBank Secure programme, Information Classification Standards, Code of Conduct privacy expectations. Pointers to 2022 Annual Report Litigation/Investigations and Reviews (pp. 191-195) for details. SASB-aligned structure but most operational detail is referenced rather than presented inline.",
+  "quantification_rationale": "Explicitly notes 'CBA is required to report notifiable data breaches to OAIC' and points to '2022 Sustainability performance metrics and disclosures: governance, data breaches reported to the OAIC' — but the actual number of breaches is not in retrieved evidence chunks (it lives in the linked supplementary file). FN-CB-230a.1 disclosure pointed to but not contained.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0097",
+    "CBA_2022_SustainabilityAppendix#chunk_0096",
+    "CBA_2022_SustainabilityAppendix#chunk_0093"
+  ]
+}

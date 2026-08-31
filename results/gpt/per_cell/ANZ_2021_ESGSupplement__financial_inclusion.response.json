@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial wellbeing/capacity building through MoneyMinded, Saver Plus, savings habits, and financial wellbeing research. It shows a real initiative to support customers and communities, including vulnerable people in the Pacific. However, it does not explicitly frame this as lending to unbanked/underbanked customers or community development finance.",
+  "specificity_rationale": "The disclosure is substantive: it describes program delivery, regional partnerships, community champions, and how survey research is intended to inform product design. It also links financial wellbeing initiatives to customer behavior and broader community support. Still, it stops short of detailed discussion of underserved banking products or the full SASB topic framing.",
+  "quantification_rationale": "There are multiple figures, including around 151,600 customers supported, 64,011 MoneyMinded participants, and 3,000+ Saver Plus participants. But the evidence does not provide the SASB-required loan outstanding, past due/nonaccrual loan, or no-cost account metrics, and only partially covers financial literacy participation.",
+  "citations": ["ANZ_2021_ESGSupplement#chunk_0046", "ANZ_2021_ESGSupplement#chunk_0044", "ANZ_2021_ESGSupplement#chunk_0075", "ANZ_2021_ESGSupplement#chunk_0004", "ANZ_2021_ESGSupplement#chunk_0055"]
+}

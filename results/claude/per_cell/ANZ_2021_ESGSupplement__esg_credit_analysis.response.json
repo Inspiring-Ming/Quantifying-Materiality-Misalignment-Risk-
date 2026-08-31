@@ -1,0 +1,17 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated section on Equator Principles, Social and Environmental Risk Policy, sensitive sector requirements, and Human Rights Statement / Grievance Mechanism. Topic is fully addressed across multiple chunks.",
+  "specificity_rationale": "Detailed framework: Equator Principles 4 with category breakdowns (B/C), case studies (solar farms NSW, infrastructure facility VIC, wind farm), assessment criteria (client capacity, transaction scope, EIA, community concern), Social and Environmental Risk Screening Tool, Modern Slavery program with specific actions (5 e-learning modules, 9 awareness sessions, supplier assessments), human rights grievance mechanism. Named oversight bodies and decision processes.",
+  "quantification_rationale": "Mentions case studies and named EP categories but does NOT disclose the SASB FN-CB-410a.1 metric (commercial and industrial credit exposure by industry). Also lacks aggregate counts like number of EP-screened transactions or ESRM reviews completed. Some quantitative references exist but the core SASB metric is missing.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0219",
+    "ANZ_2021_ESGSupplement#chunk_0215",
+    "ANZ_2021_ESGSupplement#chunk_0217",
+    "ANZ_2021_ESGSupplement#chunk_0216",
+    "ANZ_2021_ESGSupplement#chunk_0237",
+    "ANZ_2021_ESGSupplement#chunk_0234",
+    "ANZ_2021_ESGSupplement#chunk_0243"
+  ]
+}

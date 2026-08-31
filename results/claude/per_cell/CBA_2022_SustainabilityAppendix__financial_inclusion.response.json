@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-240a.1, .2, .3, .4 with concrete numerical responses. Substantive financial-inclusion coverage including Indigenous customer assistance, Community Wellbeing team, Financial Independence Hub.",
+  "specificity_rationale": "Names Government SME Guarantee Scheme, Financial Assistance Solutions team, Indigenous Customer Assistance Line, Community Wellbeing Team, Financial Independence Hub, Settlement Services International (Financial Literacy Toolkit translated into Dari/Farsi/Ukrainian/Russian), Migrant Banking, Indigenous Banking, RecruitAbility scheme. Multiple inclusion targets with timelines (47-50% Executive Manager gender by 2025; 3% Indigenous workforce by 2026). Detailed operational specificity.",
+  "quantification_rationale": "Reports SASB FN-CB-240a.1 ($3.1M foregone revenue from 69,705 not-for-profit business accounts; $4.3bn cumulative SME Guarantee loans), FN-CB-240a.2 (123,749 hardship accounts at 30 June 2022), FN-CB-240a.3 ($185M retail foregone revenue), and pointer to FN-CB-240a.4 (Indigenous Customer Assistance Line calls, Community Wellbeing interactions). Plus 124 First Nations external hires, $7M+ First Nations supplier spend (up YoY), 43.1% women Executive Manager+ (up from 41.7%), 45% women Board, 0.9% Indigenous workforce. SASB metrics substantively covered.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0104",
+    "CBA_2022_SustainabilityAppendix#chunk_0103",
+    "CBA_2022_SustainabilityAppendix#chunk_0017",
+    "CBA_2022_SustainabilityAppendix#chunk_0025",
+    "CBA_2022_SustainabilityAppendix#chunk_0037"
+  ]
+}

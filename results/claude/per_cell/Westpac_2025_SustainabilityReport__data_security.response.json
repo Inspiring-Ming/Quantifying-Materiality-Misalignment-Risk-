@@ -1,0 +1,11 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Westpac 2025 is a Sustainability Report focused on climate transition. Retrieved chunks address sector-target dependencies and methodology revisions — minimal data-security content. Brief mention of 'reducing customer losses from scams and the number of days to refund customers for fraud events' as a 5% STVR component.",
+  "specificity_rationale": "Brief STVR scorecard reference to scam losses and fraud refund timeliness. No SASB FN-CB-230a-specific framework or numbers in retrieved chunks (these likely live in Annual Report).",
+  "quantification_rationale": "No SASB FN-CB-230a metrics in retrieved evidence — sustainability report scope is climate-focused.",
+  "citations": [
+    "Westpac_2025_SustainabilityReport#chunk_0048"
+  ]
+}

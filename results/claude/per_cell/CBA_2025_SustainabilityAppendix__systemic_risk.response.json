@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-550a.1 (G-SIB score) and FN-CB-550a.2 (stress tests in capital adequacy planning). Notes CBA is not classified as G-SIB but discloses against G-SIB indicators under APRA Prudential Standard APS 330. Activity Metrics FN-CB-000.A also disclosed.",
+  "specificity_rationale": "Names APRA Prudential Standard APS 330 Public Disclosure, Independent Review of Remedial Action Plan (Thirteenth Report), Sedgwick recommendations fully implemented for branch network frontline, climate scenario analysis (47%/89% portfolio coverage), CBA Royal Commission implementation update. Capital management explicitly referenced in 2025 Results Presentation slides 100-115.",
+  "quantification_rationale": "Reports 47% physical / 89% transition climate-related stress test coverage of lending portfolios. SASB FN-CB-000.A Activity Metric: $322bn transaction balances at 30 June 2025, 11.7M retail transaction accounts, 1.3M business transaction accounts. 408 SpeakUP / 68 whistleblower. CBA stated as not G-SIB classified — defensible negative disclosure with pointer to APS 330 G-SIB indicator disclosure. SASB FN-CB-550a.1 covered as 'not classified' with required indicator disclosure; .2 substantively covered.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0067",
+    "CBA_2025_SustainabilityAppendix#chunk_0071",
+    "CBA_2025_SustainabilityAppendix#chunk_0078",
+    "CBA_2025_SustainabilityAppendix#chunk_0081"
+  ]
+}

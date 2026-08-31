@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The report is climate-only and does not disclose business ethics under FN-CB-510a. The only nearby mentions are incidental references to conduct risk, fraud, and legal action in climate context, not a business ethics policy, whistleblower program, or legal proceedings related to fraud/antitrust/market manipulation.",
+  "specificity_rationale": "No substantive discussion of insider trading, antitrust, corruption, whistleblower channels, or corrective actions appears in the evidence. The references to conduct risk and fraud are generic assurance or climate-risk statements, not a dedicated ethics disclosure with procedures or governance detail.",
+  "quantification_rationale": "There are no monetary loss figures, no legal proceeding amounts, and no SASB-mandated quantitative metrics for FN-CB-510a. The evidence contains only qualitative risk language and assurance notes, so quantification is absent.",
+  "citations": ["Westpac_2024_ClimateReport#chunk_0212", "Westpac_2024_ClimateReport#chunk_0260", "Westpac_2024_ClimateReport#chunk_0268"]
+}

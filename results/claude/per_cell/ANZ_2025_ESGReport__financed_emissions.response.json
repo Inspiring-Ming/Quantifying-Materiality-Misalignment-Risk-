@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive financed-emissions disclosure. Sectoral pathways and 2030 interim targets in place for 10 sectors/sub-sectors with status tracking ('8 on-track, 2 close to on-track'). Large Emitters Engagement Program (LEEP) expanded to additional Safeguard Mechanism customers. Pointer to companion 2025 Climate Report.",
+  "specificity_rationale": "LEEP framework named, sectoral pathways for 10 sectors named with on-track/close/off-track tracking, Climate and Environment Strategy integrating divisional action plans (Institutional, Commercial, Retail, NZ), Safeguard Mechanism scope. Estimates that lending to Institutional customers contributes ~2/3 of total financed emissions. Climate Change Commitment to be released. However, the absolute Scope 1/2/3 financed-emissions numbers and sector-by-sector exposure breakdowns live in the 2025 Climate Report, not in retrieved evidence here.",
+  "quantification_rationale": "Some financed-emissions-relevant numbers reported: $84.72B contributed since 1 April 2023 to $100B social/environmental target ($45.75B in 2025), 412 customer transactions, $42.09B funded + $38.96B facilitated + $3.67B direct investment + 61 bond purchases. 77 LEEP customers in 'Mature' phase end-2025 (4 upgraded from 2024). Op Scope 1+2 96% reduction since 2015 (target achieved early). However, the absolute Scope 1/2/3 financed-emissions metric (FN-CB-410b.1) and industry-level exposure (410b.2) and percentage-of-exposure-covered (410b.3) live in the 2025 Climate Report, not retrieved.",
+  "citations": [
+    "ANZ_2025_ESGReport#chunk_0182",
+    "ANZ_2025_ESGReport#chunk_0051",
+    "ANZ_2025_ESGReport#chunk_0088",
+    "ANZ_2025_ESGReport#chunk_0176",
+    "ANZ_2025_ESGReport#chunk_0048"
+  ]
+}

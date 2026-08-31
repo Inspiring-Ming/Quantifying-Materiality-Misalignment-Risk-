@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence explicitly addresses data privacy, scams, fraud, and customer information protection. It states that privacy risk is inherent in the bank’s operations and describes actions to protect personal information and customers’ privacy, so the topic is clearly present.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention: it describes suspicious-activity detection, security systems and controls, customer education tools, extra care flags, and strengthened processes/system-control design. It also notes the rising sophistication of scams and emerging risks. However, it does not fully discuss the regulatory environment or provide a full cyber risk governance process.",
+  "quantification_rationale": "The evidence includes some figures related to fraud prevention and customer support, such as $16 million in potential additional fraud averted and 33,400+ cases assisted, but it does not report the SASB breach metrics: number of data breaches, percentage personal data breaches, or number of account holders affected.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0035", "Westpac_2021_SustainabilitySupplement#chunk_0051", "Westpac_2021_SustainabilitySupplement#chunk_0053", "Westpac_2021_SustainabilitySupplement#chunk_0173"]
+}

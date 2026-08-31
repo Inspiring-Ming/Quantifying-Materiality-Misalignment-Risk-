@@ -1,0 +1,13 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-230a.1 and FN-CB-230a.2. Cyber security, privacy and data management listed as material risks with dedicated Annual Report section (pp. 89-91).",
+  "specificity_rationale": "Names CommBank Safe, Code of Conduct, Information Classification Standards, Information Security Statement, Group Privacy Statement, voluntary Privacy Enforceable Undertaking with OAIC referenced. Pointer to Annual Report for detailed actions.",
+  "quantification_rationale": "Explicitly notes obligation to report notifiable data breaches to OAIC and points to '2025 Full year sustainability performance metrics and disclosures - Customers/Governance tab' for actual numbers. SASB FN-CB-230a.1 disclosure is structured but the actual breach count lives in supplementary file, not retrieved chunks.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0056",
+    "CBA_2025_SustainabilityAppendix#chunk_0057",
+    "CBA_2025_SustainabilityAppendix#chunk_0054"
+  ]
+}

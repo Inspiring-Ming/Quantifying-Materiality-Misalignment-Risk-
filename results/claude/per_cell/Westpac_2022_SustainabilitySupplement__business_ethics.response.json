@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "Index-style supplement: Ethics and business conduct, Tax transparency, AML/CTF risk management all listed as material sustainability topics with pointers to Annual Report. Limited inline content on whistleblower or ABAC.",
+  "specificity_rationale": "References to Modern Slavery Statement (separate document), Code of Conduct (in Corporate Governance Statement), AML/CTF risk in Annual Report Section 2 Risk factors. Customer abusive-message blocking with 48,000+ blocks. Most ethics framework lives in Annual Report and separate Modern Slavery Statement.",
+  "quantification_rationale": "Reports 48,000+ abusive transactions blocked (with 2,300+ warning letters sent). SASB FN-CB-510a.1 (monetary losses from legal proceedings) and 510a.2 (whistleblower) not in retrieved chunks here — these live in Annual Report and separate Whistleblower Policy.",
+  "citations": [
+    "Westpac_2022_SustainabilitySupplement#chunk_0012",
+    "Westpac_2022_SustainabilitySupplement#chunk_0011",
+    "Westpac_2022_SustainabilitySupplement#chunk_0024",
+    "Westpac_2022_SustainabilitySupplement#chunk_0006"
+  ]
+}

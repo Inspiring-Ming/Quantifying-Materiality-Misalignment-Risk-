@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses data security and privacy. It describes cyber security controls, privacy governance, a phishing incident, and a notifiable event involving customer data, plus mitigation actions such as hardening authentication controls and improving information security controls.",
+  "specificity_rationale": "The disclosure gives a substantive description of the bank’s approach: benchmarking against NIST CSF, expanding security efforts, investing in a Global Privacy function, and assigning responsibility for policy, training, compliance, and partnerships. It also discusses the threat landscape and response actions, though not in detailed incident-report form.",
+  "quantification_rationale": "There is some incident-level quantification in the sense that the report notes no direct OAIC notifications and identifies specific events affecting limited customer data. However, it does not provide the SASB metrics requested: no explicit breach count for the year, no percentage of personal data breaches, and no number of account holders affected.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0171", "NAB_2021_AnnualReview#chunk_0170"]
+}

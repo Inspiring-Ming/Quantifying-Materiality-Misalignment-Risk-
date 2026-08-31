@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The evidence shows some customer capacity-building activity, including workshops, tools, resources, and customised action plans to support decarbonisation and regional communities. However, it does not address financial inclusion for unbanked or underbanked customers, nor small business/community development lending in the SASB sense. The topic is only tangentially covered.",
+  "specificity_rationale": "Disclosure is high-level and programmatic rather than topic-specific. It describes workshops and support for customers, but gives no strategy for underserved banking access, no-cost accounts, or financial literacy initiatives tied to financial inclusion. There is no discussion of product design linked to these outcomes.",
+  "quantification_rationale": "No relevant SASB metrics are disclosed. The evidence provides no numbers for loans outstanding, past due or nonaccrual qualifying loans, no-cost retail checking accounts, or financial literacy participants. The only figures relate to climate and renewable energy, which are not relevant to FN-CB-240a.",
+  "citations": ["Westpac_2025_SustainabilityReport#chunk_0140"]
+}

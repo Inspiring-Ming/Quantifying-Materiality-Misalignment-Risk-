@@ -1,0 +1,14 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "Index-style supplement with limited inline financed-emissions content. Net-Zero 2030 Targets and Financed Emissions methodology document referenced as separate publication. Climate Change Position Statement and Action Plan referenced. Net-Zero target trajectory (Scope 1+2 -90% / Scope 3 supply -35% by 2030).",
+  "specificity_rationale": "Names Net-Zero 2030 Targets and Financed Emissions methodology document, Climate Change Action Plan, $15bn 2030 climate-change-solutions target. Sectoral details deferred to Annual Report Section 1 Sustainability and the methodology document. Limited inline detail.",
+  "quantification_rationale": "Reports operational emissions reductions: -70% Scope 1+2 since 2016 baseline, -29% Scope 3 supply chain since 2016. $1.9bn climate-change-solutions financing in FY22 toward $3.5bn by 2023 / $15bn by 2030. SASB FN-CB-410b.1, .2, .3 (absolute Scope 1/2/3 financed emissions, sector exposure breakdown, % covered) not in retrieved chunks here — they live in the separate Financed Emissions methodology document.",
+  "citations": [
+    "Westpac_2022_SustainabilitySupplement#chunk_0018",
+    "Westpac_2022_SustainabilitySupplement#chunk_0015",
+    "Westpac_2022_SustainabilitySupplement#chunk_0004",
+    "Westpac_2022_SustainabilitySupplement#chunk_0016"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly discusses stress testing and climate-related risk management, including APRA’s Climate Vulnerability Assessment and the use of scenario analysis, stress testing, and analytics in risk management. That is enough to show the topic is addressed, though not in the full SASB systemic-risk sense. It does not discuss G-SIB/D-SIB status, capital adequacy ratios, or recovery/resolution planning.",
+  "specificity_rationale": "The disclosure gives some process detail: APRA’s CVA had two stress tests, ANZ says it will refine risk appetite statements, develop data strategy, and use findings to inform credit decisions and portfolio stress testing. However, the discussion stays climate-risk focused and is not a substantive systemic-risk management narrative tied to capital planning and corporate strategy as SASB expects.",
+  "quantification_rationale": "There is limited quantification beyond the phrase that APRA’s CVA comprised 'two stress tests' and the general use of scenarios. The evidence does not provide a G-SIB score, CET1 or leverage ratios, stress test results, targets, or recovery/resolution metrics. The numeric ESG targets in the table are unrelated to FN-CB-550a.",
+  "citations": ["ANZ_2022_ESGSupplement#chunk_0050", "ANZ_2022_ESGSupplement#chunk_0074", "ANZ_2022_ESGSupplement#chunk_0077"]
+}

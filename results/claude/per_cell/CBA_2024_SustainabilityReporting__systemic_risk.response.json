@@ -1,0 +1,13 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Topic addressed via APRA Prudential Inquiry Remedial Action Plan progress, banking strategy/operations/operating context as new material theme this year, regulation and banking strategy treated as material risk. Operational resilience and simplification noted. Limited direct disclosure of capital adequacy framework in retrieved chunks.",
+  "specificity_rationale": "Names APRA Prudential Inquiry Remedial Action Plan continuation, Board risk culture assessment, Group Climate Risk Materiality Assessment for material risk impact analysis, customer loyalty programme (CommBank Yello) example of stakeholder feedback loop. Banking strategy/operations/operating context now a material theme. However, no description of regulatory capital framework, recovery/resolution planning, or stress-test integration into capital planning in retrieved evidence.",
+  "quantification_rationale": "No G-SIB or D-SIB score in retrieved evidence, no CET1/leverage/LCR/NSFR ratios. Operational and culture-improvement metrics referenced but not the SASB FN-CB-550a metrics.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0031",
+    "CBA_2024_SustainabilityReporting#chunk_0075",
+    "CBA_2024_SustainabilityReporting#chunk_0014"
+  ]
+}

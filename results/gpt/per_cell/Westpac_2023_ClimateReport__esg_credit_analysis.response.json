@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence is related to ESG/climate in banking, but it does not directly discuss ESG incorporation in credit analysis. It mentions a Sustainable Finance Framework, engagement with regulators on climate, nature and human rights, and support for customers' transition, which is adjacent to the topic but not a disclosure of credit underwriting practice. ",
+  "specificity_rationale": "The disclosure is high-level and mostly about climate commitments, partnerships, and engagement. It does not explain who is responsible for ESG-in-credit decisions, how ESG factors affect creditworthiness assessment, or what oversight/accountability exists. The report shows related framing, but not a substantive topic-specific methodology. ",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table, credit portfolio breakdown, or topic-specific metrics are provided. The evidence contains membership dates and general commitments, but nothing quantifying credit exposure or ESG integration in credit analysis. ",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0010", "Westpac_2023_ClimateReport#chunk_0152", "Westpac_2023_ClimateReport#chunk_0451", "Westpac_2023_ClimateReport#chunk_0452"]
+}

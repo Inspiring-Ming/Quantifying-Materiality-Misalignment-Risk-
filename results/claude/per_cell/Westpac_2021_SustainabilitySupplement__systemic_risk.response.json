@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive systemic-risk disclosure: APRA approved detailed Integrated Plan to strengthen risk governance across financial and non-financial risk. Westpac participating in APRA Climate Vulnerability Assessment with 4 other major banks. NZ climate-related disclosure mandate (likely 2023). 13 customer transactions escalated to Sustainability Committee where climate was material.",
+  "specificity_rationale": "Names APRA Integrated Plan (post-prior-incident remediation), APRA Climate Vulnerability Assessment with 4 other banks, NZ Financial Sector (Climate-related Disclosures and Other Matters) Amendment Bill, IPCC RCP2.6 / RCP8.5 scenarios, Building Code of Australia / AS/NZS1170.2.2011 baseline for cyclone wind speed analysis. APRA Prudential Practice Guide CPG 229 referenced.",
+  "quantification_rationale": "Reports 13 customer transactions escalated where climate was material. APRA CVA expected publication in 2022. However, no G-SIB or D-SIB score in retrieved chunks, no CET1/leverage/LCR/NSFR ratios disclosed in this Sustainability Supplement (these live in Annual Report). SASB FN-CB-550a.1 not in retrieved evidence; SASB FN-CB-550a.2 partially covered through APRA CVA participation and Integrated Plan.",
+  "citations": [
+    "Westpac_2021_SustainabilitySupplement#chunk_0043",
+    "Westpac_2021_SustainabilitySupplement#chunk_0117",
+    "Westpac_2021_SustainabilitySupplement#chunk_0040",
+    "Westpac_2021_SustainabilitySupplement#chunk_0097",
+    "Westpac_2021_SustainabilitySupplement#chunk_0098"
+  ]
+}

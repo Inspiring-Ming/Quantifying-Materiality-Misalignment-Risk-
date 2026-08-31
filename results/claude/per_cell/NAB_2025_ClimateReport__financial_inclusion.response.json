@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Climate-only report with substantive 'just transition' / regional economic resilience coverage. Resilient Building Council partnership (founding partner with IAG and Bluescope) for Resilience Ratings System and self-assessment app. Mortgage retrofit incentive piloted for Shoalhaven bushfire resilience. Regional Economic Resilience pilot program with NAB Foundation and Australian Business Volunteers (launching 2026).",
+  "specificity_rationale": "Names Resilient Building Council, Resilience Ratings System self-assessment app, NAB Foundation Regional Economic Resilience pilot program (launching 2026 in Shoalhaven), Australian Business Volunteers, Climate Finance Asia F-JT Working Group, F-JT Guidelines for Banks. ASFI Climate Advocacy Steering Committee participation. ESOS UK obligation.",
+  "quantification_rationale": "Reports 'up to 21% insurance premium reductions for homeowners with certified ratings of 3 stars or above'. NAB London 7% lighting electricity reduction in 2025. No SASB FN-CB-240a metrics in retrieved chunks (climate-only report scope).",
+  "citations": [
+    "NAB_2025_ClimateReport#chunk_0060",
+    "NAB_2025_ClimateReport#chunk_0070",
+    "NAB_2025_ClimateReport#chunk_0071",
+    "NAB_2025_ClimateReport#chunk_0249"
+  ]
+}

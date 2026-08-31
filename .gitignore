@@ -1,0 +1,19 @@
+# Source PDFs are not redistributed — see README and docs/CORPUS.md.
+# scripts/fetch_reports.py downloads them here.
+reports/
+*.pdf
+!figures/*.pdf
+
+# Intermediate extraction artefacts, rebuilt by scripts/extraction/
+work/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

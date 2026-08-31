@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The report touches on risk governance and regulatory oversight, including APRA-related non-financial risk management remediation, the CEU, and ANZ’s role with regulators in supporting financial stability. That shows some connection to systemic risk management, but it does not directly discuss the SASB topic’s core elements such as stress testing, capital adequacy planning, or recovery/resolution.",
+  "specificity_rationale": "Disclosure is generic and operationally framed around non-financial risk management, regulatory engagement, and remediation programs. It does not explain how stress test results are incorporated into capital planning or strategy, nor does it describe systemic-risk controls, recovery arrangements, or resolution planning. The discussion is therefore limited and not substantive for FN-CB-550a.",
+  "quantification_rationale": "No G-SIB/D-SIB designation, stress-test outputs, CET1 or leverage ratios, or other topic-specific quantitative metrics appear in the evidence. The numbers shown are unrelated ESG targets and remediation dates, so they do not support quantification for this SASB topic.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0032", "ANZ_2025_ESGReport#chunk_0054", "ANZ_2025_ESGReport#chunk_0060"]
+}

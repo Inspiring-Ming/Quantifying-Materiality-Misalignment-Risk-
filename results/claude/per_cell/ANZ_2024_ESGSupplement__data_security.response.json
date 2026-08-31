@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Information security' and 'Data protection and privacy' sections with explicit DEM (Data Event Management) process, Privacy Risk added to Non-Financial Risk Framework, third-party privacy oversight.",
+  "specificity_rationale": "Names DEM process governance, Privacy Risk in NFR Framework, named Falcon technology for fraud, Crypto Protect/Scam Safe/Screen Share Protect/Location-Based Security/Risky App Detection/Active Call Status as specific scam-defence features, Privacy Impact Assessment integration into third-party procurement, Privacy Awareness Week, Data Protection Officer roles, jurisdiction-specific implementation (China and Vietnam).",
+  "quantification_rationale": "Reports the SASB FN-CB-230a.1 metric directly: 'one data breach reported to OAIC and one impacted individual notified under the Notifiable Data Breach Scheme, down from three in 2023'. Number of breaches and YoY tracking present, plus number of customers affected. Percentage personal-data breakdown not stated separately but the single breach was personal-data by description.",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0143",
+    "ANZ_2024_ESGSupplement#chunk_0125",
+    "ANZ_2024_ESGSupplement#chunk_0142",
+    "ANZ_2024_ESGSupplement#chunk_0124",
+    "ANZ_2024_ESGSupplement#chunk_0144"
+  ]
+}

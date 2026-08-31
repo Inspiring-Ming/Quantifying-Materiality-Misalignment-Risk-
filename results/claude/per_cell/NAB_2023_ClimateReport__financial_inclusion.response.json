@@ -1,0 +1,12 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks reference Affordable Housing Council and Indigenous Advisory Group — both are governance forums, not financial inclusion programmes. Brief mention of NAB engagement on Indigenous-led savanna burning carbon projects.",
+  "specificity_rationale": "Affordable Housing Council and Indigenous Advisory Group named as climate/sustainability governance bodies. No MoneyMinded-equivalent or specific financial-inclusion programmes in retrieved evidence.",
+  "quantification_rationale": "No SASB FN-CB-240a metrics in retrieved evidence.",
+  "citations": [
+    "NAB_2023_ClimateReport#chunk_0061",
+    "NAB_2023_ClimateReport#chunk_0209"
+  ]
+}

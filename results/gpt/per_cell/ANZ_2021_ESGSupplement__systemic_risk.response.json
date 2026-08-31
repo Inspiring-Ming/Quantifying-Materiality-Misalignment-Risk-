@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence only indirectly touches systemic risk through banking regulation, capital adequacy, risk appetite, and stress testing language. It does not explicitly discuss systemic risk management as a standalone topic, nor G-SIB/D-SIB designation, capital resilience, or recovery/resolution planning. This is some relevant coverage, but only partial and indirect.",
+  "specificity_rationale": "Disclosure is limited to a high-level description of an enhanced climate risk management framework, refining risk appetite statements, and using scenarios to stress test portfolios. The banking regulation issue list also references capital adequacy generally. There is no substantive discussion of systemic risk governance, stress test integration into strategy, or recovery/resolution arrangements.",
+  "quantification_rationale": "No quantitative systemic-risk metrics are provided. The evidence does not include a G-SIB score, D-SIB designation, CET1 or leverage ratios, stress test results, scenario metrics, or recovery/resolution numbers. The only numbers shown are unrelated environmental targets, so Q remains zero.",
+  "citations": ["ANZ_2021_ESGSupplement#chunk_0031", "ANZ_2021_ESGSupplement#chunk_0094", "ANZ_2021_ESGSupplement#chunk_0095"]
+}

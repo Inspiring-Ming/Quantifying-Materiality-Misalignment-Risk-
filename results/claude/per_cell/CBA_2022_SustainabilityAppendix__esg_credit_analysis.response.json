@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-410a.1 (commercial and industrial credit exposure by industry) and FN-CB-410a.2 (description of approach to ESG factors in credit analysis) with structured response. ESG risk assessment tool and Equator Principles disclosure included.",
+  "specificity_rationale": "Names ESG risk assessment tool, Environmental and Social Framework, Equator Principles signatory, first standalone Climate Report aligned to 11 TCFD recommendations, Modern Slavery and Human Trafficking Statement, Final Remedial Action Plan completion, Group's Green/Social/Sustainability Funding Framework. Signatory to UN PRB, NZBA, Equator Principles, RE100, TNFD Forum.",
+  "quantification_rationale": "Reports 6 project-finance loans + 2 project-related refinance transactions assessed under EP in FY21. Pointer to 2022 Annual Report Notes 9.2 (pp. 215-234) and FY22 Results Presentation pp. 98-104 for credit exposure by industry — but the actual industry-by-industry breakdown is not in retrieved evidence chunks. SASB FN-CB-410a.1 is pointed to but not contained.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0107",
+    "CBA_2022_SustainabilityAppendix#chunk_0073",
+    "CBA_2022_SustainabilityAppendix#chunk_0105",
+    "CBA_2022_SustainabilityAppendix#chunk_0003",
+    "CBA_2022_SustainabilityAppendix#chunk_0106"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The excerpt clearly mentions cybersecurity and fraud prevention efforts, including training to help customers prepare for and respond to cyberattacks. That shows the topic is addressed, but only at a broad awareness/training level rather than as a data security disclosure.",
+  "specificity_rationale": "The disclosure is limited to customer-facing cybersecurity training and a guide for Indigenous businesses. It does not explain how data security risks are identified, monitored, or remediated, nor does it discuss attack vectors, regulatory context, or incident response processes.",
+  "quantification_rationale": "The only numeric disclosure is 6,900 training modules delivered. The evidence does not include the SASB-relevant breach count, share of personal data breaches, or number of account holders affected, so quantification for this topic is weak.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0049"]
+}

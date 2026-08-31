@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The topic is explicitly covered: the bank says it is not classified as a G-SIB and discusses stress testing, APRA’s Climate Vulnerability Assessment, and climate scenario analysis. However, the disclosure is limited and does not fully address the broader systemic risk framework.",
+  "specificity_rationale": "The evidence gives a meaningful but partial description of systemic risk management, including regulator-submitted stress tests, climate scenario analysis, and mention of physical and transition risks. It does not explain how stress test results feed into capital adequacy planning, long-term strategy, or recovery/resolution arrangements.",
+  "quantification_rationale": "There is some numeric disclosure, notably that 74% and 63% of the lending portfolio were tested for climate-related transition and physical risks, and the bank states it is not classified as a G-SIB. But the SASB G-SIB score by category, CET1/leverage ratios, and other core quantitative metrics are not shown.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0111", "CBA_2022_SustainabilityAppendix#chunk_0110"]
+}

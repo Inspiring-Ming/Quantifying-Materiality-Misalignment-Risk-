@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial inclusion through the “banking the unbanked” program in the Pacific, financial wellbeing research, and financial literacy programs such as MoneyMinded and MoneyBusiness. It also states that insights inform products and services, including ANZ Plus. This is directly relevant to the topic, though not all SASB sub-metrics are covered.",
+  "specificity_rationale": "Disclosure is substantive: it explains the purpose of the inclusion programs, who they serve, and how research feeds into product and service design. It also describes delivery channels and partnerships. However, it does not provide a complete discussion of underserved lending, no-cost accounts, or a full strategy tied to all required SASB metrics.",
+  "quantification_rationale": "There are several concrete figures, including 90,400 MoneyBusiness participants since 2005, 4,702 this year, eight coach training sessions, 280 employees trained, and a $11.7 million spend with Indigenous businesses. But the evidence does not show the key SASB loan outstanding, past due, or no-cost account metrics, so quantification is partial rather than comprehensive.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0108", "ANZ_2023_ESGSupplement#chunk_0078", "ANZ_2023_ESGSupplement#chunk_0090", "ANZ_2023_ESGSupplement#chunk_0050", "ANZ_2023_ESGSupplement#chunk_0080"]
+}

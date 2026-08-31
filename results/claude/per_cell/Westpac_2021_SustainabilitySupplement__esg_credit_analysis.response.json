@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive ESG-in-credit framework: Sustainability Risk Management Framework (SRMF) approved by Board Risk Committee, Group ESG Credit Policy, 19-action Human Rights Action Plan. Sustainability Risk Working Group, Indigenous Advisory Committee, Safer Children Safer Communities Roundtable. Modern Slavery Statement recognised by Monash University as among strongest S&P/ASX 100 disclosure quality.",
+  "specificity_rationale": "Names Sustainability Risk Management Framework (reviewed every 2 years by Board Risk Committee), Group ESG Credit Policy, Group and Divisional Risk Appetite Statements, Westpac Indigenous Advisory Committee, Sustainability Risk Working Group, ESG & Reputation Board Committee with Group CEO chair, Responsible Sourcing Program (updated this year), Equator Principles. Modern Slavery Statement under AU + UK Acts.",
+  "quantification_rationale": "Reports $816M Equator Principles assessed financing in 2021 (vs $126M in 2020 / $454M in 2019). Performance metrics include sector-specific exposure breakdowns. Customer + employee assured KPIs including LTIFR, gender equity. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) substantively covered through electricity-generation and other lending tables; some industry breakdown lives in Sustainability Datasheet.",
+  "citations": [
+    "Westpac_2021_SustainabilitySupplement#chunk_0089",
+    "Westpac_2021_SustainabilitySupplement#chunk_0161",
+    "Westpac_2021_SustainabilitySupplement#chunk_0169",
+    "Westpac_2021_SustainabilitySupplement#chunk_0183",
+    "Westpac_2021_SustainabilitySupplement#chunk_0168"
+  ]
+}

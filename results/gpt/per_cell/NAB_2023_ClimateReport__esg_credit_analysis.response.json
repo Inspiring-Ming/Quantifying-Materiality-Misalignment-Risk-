@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0,
+  "presence_rationale": "The report clearly addresses ESG in risk and credit-related governance. It says ESG risks are formally incorporated into the Risk Management Framework, that the Group Credit and Market Risk Committee oversees ESG risks, and that ESG-related policies include assessment of customer-related ESG risk and sector-specific risk appetite settings. That is directly relevant to ESG incorporation in credit analysis, even if not labeled as SASB credit analysis.",
+  "specificity_rationale": "The disclosure gives governance roles and some process detail: Board/BRCC oversight, executive committees, ESG risk appetite, ESG-related policies, and assessment of customer-related ESG risk. It also references embedding ESG considerations in due diligence, decision making, and product development. However, it does not fully explain the actual creditworthiness assessment workflow or accountability chain in a bank-credit context, so it is substantive but not exhaustive.",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table appears in the evidence, and there are no numeric targets, portfolio amounts, or SASB-mandated credit exposure metrics. The references to sectors and risk appetite are qualitative only. Therefore the disclosure provides no meaningful quantification for this topic.",
+  "citations": ["NAB_2023_ClimateReport#chunk_0067", "NAB_2023_ClimateReport#chunk_0077", "NAB_2023_ClimateReport#chunk_0054", "NAB_2023_ClimateReport#chunk_0060"]
+}

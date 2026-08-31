@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Financial education programs' and 'Supporting customers in need of extra care' sections, plus dedicated First Nations Customer Support, accessibility and language support coverage. Topic comprehensively addressed.",
+  "specificity_rationale": "Multiple named programmes (MoneyMinded across 17 markets, MoneyMinded for Family Violence, MoneyBusiness for Indigenous Australians, Saver Plus matched savings up to $500), partnerships (Berry Street since 2016 for Family Violence training), First Nations Customer Support Line, ATM multilingual options (12 languages), iSign interpreter service, Financial Wellbeing Assist (Hardship) team. Substantive operational detail.",
+  "quantification_rationale": "Reports the SASB FN-CB-240a.4 metric: 118,021 MoneyMinded participants this year (>1 million cumulative since 2002), 22,617 across Asia/Pacific/NZ, 440+ Family Violence Coaches accredited, 400+ scams-module coaches trained since March 2024. Hardship metrics: ~4 in 1000 home loan customers, ~2 in 1000 small business; 4,021 NZ hardship customers (+37% YoY). SASB 240a.1/.2/.3 (small business loans, no-cost accounts) not in retrieved evidence.",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0114",
+    "ANZ_2024_ESGSupplement#chunk_0116",
+    "ANZ_2024_ESGSupplement#chunk_0155",
+    "ANZ_2024_ESGSupplement#chunk_0157",
+    "ANZ_2024_ESGSupplement#chunk_0161"
+  ]
+}

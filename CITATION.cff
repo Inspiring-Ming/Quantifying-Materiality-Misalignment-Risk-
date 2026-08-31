@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite both the paper and the archived repository."
+title: "MMRI-ESG-Banking: reproducibility materials for benchmark-based, LLM-assisted ESG disclosure-materiality assessment"
+abstract: >-
+  Derived research data, model outputs, prompts and analysis code behind the
+  Materiality Misalignment Risk Index (MMRI), a benchmark-based measure of the
+  gap between what a bank's sustainability report discloses and what the SASB
+  FN-CB Commercial Banks standard treats as material. Covers 20 sustainability
+  reports from the four major Australian banks, 2021-2025, scored on six SASB
+  topics across three dimensions by two language models, with weight, prompt and
+  repeat-run robustness analyses and a 30-cell human validation pilot.
+type: dataset
+authors:
+  - family-names: "[FAMILY NAME]"
+    given-names: "[GIVEN NAME]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "[INSTITUTION]"
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+license: CC-BY-4.0
+keywords:
+  - ESG disclosure
+  - materiality
+  - SASB
+  - commercial banking
+  - large language models
+  - sustainability reporting
+  - reproducibility
+references:
+  - type: article
+    title: "[PAPER TITLE]"
+    authors:
+      - family-names: "[FAMILY NAME]"
+        given-names: "[GIVEN NAME]"
+    journal: "Technological Forecasting & Social Change"
+    year: [YEAR]
+    doi: "[ARTICLE DOI]"

@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Our climate strategy' section with explicit financed-emissions context (transition roadmap, sector-level targets, PCAF alignment, $70bn Sustainability Funding Target). New 2023 sector-level targets for Australian housing and heavy industry. Net zero by 2050 ambition.",
+  "specificity_rationale": "Names Partnership for Carbon Accounting Financials (PCAF) Standard, Sustainability Funding Target ($70B by 2030), 1.5C-aligned scenarios, sector targets for housing and heavy industry, stranded asset Risk Appetite Statement (agriculture portfolio + non-retail institutional banking portfolio), ENCORE platform for nature dependency analysis, agriculture and mining as priority natural-capital sectors. 2023 Climate Report referenced for full disclosure.",
+  "quantification_rationale": "Reports 95% Scope 1+2 reduction since 2014, 100% renewable electricity equivalent purchased in 2022, $44.7B cumulative SFT funding at 30 June 2023 (toward $70B by 2030 target). Sector-level financed-emissions target additions for housing and heavy industry. Scope 3 increase noted (business travel post-COVID + new categories). The detailed sector-by-sector financed-emissions metrics live in the 2023 Climate Report. SASB FN-CB-410b.1, .2, .3, .4 substantively pointed to with PCAF reference.",
+  "citations": [
+    "CBA_2023_SustainabilityReporting#chunk_0007",
+    "CBA_2023_SustainabilityReporting#chunk_0009",
+    "CBA_2023_SustainabilityReporting#chunk_0008",
+    "CBA_2023_SustainabilityReporting#chunk_0010"
+  ]
+}

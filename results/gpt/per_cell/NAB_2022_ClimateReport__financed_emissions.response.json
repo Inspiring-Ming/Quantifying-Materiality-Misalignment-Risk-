@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report directly addresses financed emissions, including a dedicated methodology section and a table of sector exposures and scope inclusions. It clearly discusses how attributable financed emissions are estimated and what sectors are covered, so the topic is explicitly present.",
+  "specificity_rationale": "Disclosure is substantive: it explains the PCAF-based approach, notes methodology changes in 2022, and lists sectoral/geographic boundaries with scope coverage. However, it does not provide the full SASB-required outcome metrics or a complete worked-through disclosure of financed emissions across Scope 1, 2, and 3.",
+  "quantification_rationale": "There are meaningful numbers, including exposure by sector and percentages of total EAD, plus sector scope boundaries. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, the percentage of gross exposure included in the calculation, or a full quantified methodology output, so Q is partial.",
+  "citations": ["NAB_2022_ClimateReport#chunk_0136", "NAB_2022_ClimateReport#chunk_0134"]
+}

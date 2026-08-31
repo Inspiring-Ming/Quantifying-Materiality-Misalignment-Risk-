@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is about climate targets, emissions reporting, and assurance. It does not address business ethics issues such as fraud, insider trading, antitrust, whistleblower policies, or legal proceedings losses.",
+  "specificity_rationale": "No business ethics disclosure is present in the supplied chunks, so there is no discussion of whistleblower procedures, corrective actions, or compliance controls relevant to FN-CB-510a.",
+  "quantification_rationale": "The evidence includes environmental metrics only. It contains no monetary losses from legal proceedings, no ethics-related incident counts, and no SASB FN-CB-510a quantitative disclosures.",
+  "citations": []
+}

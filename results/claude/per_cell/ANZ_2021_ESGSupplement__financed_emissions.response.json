@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The retrieved evidence discusses operational (Scope 1 and 2) GHG emissions of ANZ's own facilities at length, but financed emissions (Scope 3 of customer activities, the SASB FN-CB-410b focus) are only briefly mentioned: the SBTi target footnote explicitly excludes financing-activity emissions, and the report only states ANZ 'engaged with 100 of our largest emitting business customers'. Topic is touched but not the SASB-defined metric.",
+  "specificity_rationale": "No PCAF methodology described, no industry-by-asset-class breakdown of financed emissions, no description of how financed emissions are measured. Operational emissions reduction levers (Murra Warra wind farm, Pitt Street move) are detailed but those are not financed emissions disclosure.",
+  "quantification_rationale": "No absolute Scope 1/2/3 financed emissions, no industry/sector breakdown of exposure, no percentage of gross exposure included in the calculation, no PCAF methodology disclosure. The SASB FN-CB-410b metrics are not in the evidence. The 47% Scope 1+2 operational reduction is not the financed-emissions metric.",
+  "citations": [
+    "ANZ_2021_ESGSupplement#chunk_0120",
+    "ANZ_2021_ESGSupplement#chunk_0049",
+    "ANZ_2021_ESGSupplement#chunk_0121",
+    "ANZ_2021_ESGSupplement#chunk_0009"
+  ]
+}

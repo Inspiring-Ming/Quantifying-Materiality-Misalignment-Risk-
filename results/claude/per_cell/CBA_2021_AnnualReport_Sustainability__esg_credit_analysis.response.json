@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Good business practices' section with explicit Group E&S Policy in lending, ESG risk assessment tool integrated into lending approval, Modern Slavery Statement (first published this year per 2018 Act).",
+  "specificity_rationale": "ESG risk assessment tool covers nine priority areas (climate and energy, climate physical risk, pollution, biodiversity, water, labour rights and modern slavery, human rights, workplace health and safety, anti-corruption and governance), applied to all institutional and large business loans. Group E&S Policy reviewed this year. Modern slavery contract clause added; data analytics project to flag suspect transactions, ELT E&S Committee oversight.",
+  "quantification_rationale": "Reports specific Energy Value Chain exposures: $5.0bn diversified power generation, $0.6bn coal terminals, $0.002bn coal miners, $0.03bn metallurgical coal, $0.0bn uranium/nuclear, with YoY changes (-78%, -30%, -55%). Sector-policy exclusions named (25% thermal-coal-revenue threshold). Some exposure breakdown by sub-sector. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) is partially disclosed for the energy chain.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0072",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0069",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0071",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0038",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0002"
+  ]
+}

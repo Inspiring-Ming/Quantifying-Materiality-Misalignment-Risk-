@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.0,
+  "presence_rationale": "The report directly says ESG risk assessment is part of credit risk assessment and due diligence, and that ESG settings trigger assessment during loan origination, onboarding, and review. It also names governance escalation to executive, board risk and compliance committees. This is clearly on-topic for ESG factors in credit analysis.",
+  "specificity_rationale": "The disclosure explains the operating approach: a High Risk ESG Sectors and Sensitive Areas list, screening of customers and suppliers, triggering of ESG risk assessment, and escalation through committee governance. It also links ESG assessment to credit policy settings. However, it does not give a detailed framework for how ESG changes creditworthiness decisions or who has final accountability.",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown is shown, and there are no targets, percentages, balances, or other quantitative SASB metrics for this topic. The evidence is qualitative only.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0173", "NAB_2021_AnnualReview#chunk_0174", "NAB_2021_AnnualReview#chunk_0177", "NAB_2021_AnnualReview#chunk_0178"]
+}

@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Governing ESG' section with Board oversight, ELT E&S Committee, Code of Conduct with 'Should We?' test, Modern Slavery Statement, Human Rights of First Nations Stakeholders Grievance Process Framework. New transaction-level committee for fossil fuel sectors.",
+  "specificity_rationale": "Names CBA E&S Framework (updated this year), ELT E&S Committee, Code of Conduct refresh with 'Should We?' test, Modern Slavery and Human Trafficking Statement (Dec 2022), Human Rights First Nations Grievance Framework, Modern Slavery Advisory Council, Indigenous Advisory Council, March transaction-level committee in Institutional Bank for fossil fuel transactions. Refined approach to assessing Clients' Transition Plans.",
+  "quantification_rationale": "Reports 19% YoY increase in Indigenous supplier spend, one human-rights grievance (resources sector) responded to. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) not in retrieved evidence chunks here.",
+  "citations": [
+    "CBA_2023_SustainabilityReporting#chunk_0041",
+    "CBA_2023_SustainabilityReporting#chunk_0040",
+    "CBA_2023_SustainabilityReporting#chunk_0000",
+    "CBA_2023_SustainabilityReporting#chunk_0042"
+  ]
+}

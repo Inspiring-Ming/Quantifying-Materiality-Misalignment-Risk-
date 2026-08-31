@@ -1,0 +1,13 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Explicit Notifiable Data Breach Scheme disclosure including specific incidents (strategic partner notification + UK subsidiary phishing). Cyber security and Privacy as material themes with dedicated coverage.",
+  "specificity_rationale": "Names NIST Cyber Security Framework, Fintel Alliance partnership, Global Privacy function (grown in 2021), authentication-control hardening post-incident, OAIC Notifiable Data Breach Scheme adherence. Specific corrective actions described per incident.",
+  "quantification_rationale": "Reports SASB FN-CB-230a.1 directly: zero direct OAIC notifications by NAB in FY21 (with explicit disclosure of one strategic-partner-mediated incident affecting limited NAB customer data, plus one UK subsidiary phishing incident). $9M reduction in fraud losses YoY. Number of breaches disclosed by jurisdiction. Percentage personal data not separately stated.",
+  "citations": [
+    "NAB_2021_AnnualReview#chunk_0171",
+    "NAB_2021_AnnualReview#chunk_0205",
+    "NAB_2021_AnnualReview#chunk_0170"
+  ]
+}

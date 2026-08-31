@@ -1,0 +1,15 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Topic addressed via climate stress-testing context: ANZ participated in APRA's Climate Vulnerability Assessment (CVA) — a regulator-mandated stress test. References capital adequacy in scope-of-issues table. Core SASB FN-CB-550a focus (G-SIB score, integration of mandatory stress tests into capital planning) is partial.",
+  "specificity_rationale": "Names APRA CVA scope (Australian mortgages and business lending portfolios, two stress tests, counterparty assessment, data quality assessment, three objectives). References CPG 229 (APRA prudential guidance), Risk Appetite Statements being refined for Institutional and including climate risk. Climate-side stress-test process described in detail.",
+  "quantification_rationale": "No G-SIB or D-SIB score, no CET1 / capital ratio numbers, no LCR or NSFR, no quantitative outputs from CVA disclosed (CVA outcomes deferred to APRA's late-2022 release). The SASB FN-CB-550a.1 metric is missing. Some target dates for risk-management actions (end 2023) given.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0050",
+    "ANZ_2022_ESGSupplement#chunk_0077",
+    "ANZ_2022_ESGSupplement#chunk_0074",
+    "ANZ_2022_ESGSupplement#chunk_0007",
+    "ANZ_2022_ESGSupplement#chunk_0035"
+  ]
+}

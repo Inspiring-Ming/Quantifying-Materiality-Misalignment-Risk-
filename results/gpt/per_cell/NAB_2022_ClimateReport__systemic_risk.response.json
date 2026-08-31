@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence does not address systemic risk management directly, but it does discuss stress testing and risk-management activities in a climate context, including APRA’s Climate Vulnerability Assessment and NGFS scenario analysis. That is only a partial, adjacent treatment of the topic rather than a clear disclosure under FN-CB-550a.",
+  "specificity_rationale": "The disclosure is somewhat detailed on climate-risk scenario analysis, portfolio stress testing, and participation in regulatory/industry initiatives. However, it does not discuss G-SIB/D-SIB status, regulatory capital planning, broader systemic-risk governance, or recovery/resolution arrangements, so the treatment remains limited for this SASB topic.",
+  "quantification_rationale": "There are some concrete numbers and named scenarios, such as two NGFS scenarios, 0.3-1.7C, 1.6C, 3C+, and carbon-price ranges, plus APRA’s CVA. But the evidence lacks the SASB-relevant quantitative items like G-SIB scores, CET1, leverage ratios, or quantified integration into capital adequacy planning.",
+  "citations": ["NAB_2022_ClimateReport#chunk_0053", "NAB_2022_ClimateReport#chunk_0045", "NAB_2022_ClimateReport#chunk_0042"]
+}

@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-510a.1 (monetary losses from legal proceedings) and FN-CB-510a.2 (whistleblower policies) with structured pointers and specific whistleblower volume. GRI 205 Anti-corruption coverage. Modern Slavery Statement.",
+  "specificity_rationale": "Names CBA Anti Bribery and Corruption Policy, Code of Conduct (updated to add 'Must We?' and 'Can We?' before 'Should We?' test for legal/regulatory compliance), Whistleblower Policy (adheres ASIC RG 270), SpeakUP Programs, Annual Report Notes 7.1 (litigation/investigations/reviews pp. 287-292), Sedgwick recommendations fully implemented for branch frontline. Independent Review of Remedial Action Plan (Thirteenth Report).",
+  "quantification_rationale": "Reports SASB FN-CB-510a.1 pointer to Annual Report Notes 7.1 (pp. 287-292) for monetary losses. Reports SASB FN-CB-510a.2: 408 SpeakUP disclosures in FY25 of which 68 whistleblower cases. ~92% of employees covered by EA. YoY whistleblower volume tracking. Customer remediation provisions explicitly referenced. Strong SASB FN-CB-510a coverage.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0035",
+    "CBA_2025_SustainabilityAppendix#chunk_0067",
+    "CBA_2025_SustainabilityAppendix#chunk_0029",
+    "CBA_2025_SustainabilityAppendix#chunk_0066",
+    "CBA_2025_SustainabilityAppendix#chunk_0078"
+  ]
+}

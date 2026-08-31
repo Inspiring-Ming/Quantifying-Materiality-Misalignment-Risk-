@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive systemic-risk integration: explicit ICAAP capital management and stress-test integration with climate-related risks and opportunities. Capital allocation framework split across Operations / Customers / Investment lenses. Annual review of regulatory minima, buffers, stress testing under different adverse economic scenarios, business mix.",
+  "specificity_rationale": "Names ICAAP (annual review), Board Risk Appetite Statement (climate physical and transition twice-yearly review), Group ESG Credit Risk Policy, Westpac 2024 Sustainable Finance Framework, NGFS Phase 4 scenarios (Net Zero 2050, Delayed Transition, Current Policies), IPCC RCP2.6/4.5/8.5 scenarios for physical risk. Bespoke scenarios planned. Time horizons aligned to BSR cycle (3-5 years), ICAAP (3 years).",
+  "quantification_rationale": "Reports 1.5C / 1.8C / 3C+ temperature outcomes per scenario. Climate-related lending capital allocation tracked but specific climate-related capital amounts not separately disclosed. ICAAP integration explicit. Virescent Ventures Fund II investment alongside CEFC ($100M initial raising) as minority investor. SASB FN-CB-550a.1 (G-SIB score) not in retrieved chunks; SASB FN-CB-550a.2 substantively covered through ICAAP integration.",
+  "citations": [
+    "Westpac_2024_ClimateReport#chunk_0201",
+    "Westpac_2024_ClimateReport#chunk_0222",
+    "Westpac_2024_ClimateReport#chunk_0202",
+    "Westpac_2024_ClimateReport#chunk_0216",
+    "Westpac_2024_ClimateReport#chunk_0218"
+  ]
+}

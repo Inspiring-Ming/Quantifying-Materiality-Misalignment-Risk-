@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "GRI 305-1 to 305-5 SASB Index addresses Scope 1/2/3 GHG, intensity and reduction. PCAF-aligned financed-emissions estimation explicit. Energy-sector exposure (1% of lending = 27% of 2020 financed emissions) explicitly disclosed.",
+  "specificity_rationale": "Names PCAF Standard for financed-emissions estimation, RE100 commitment, Group's Green/Social/Sustainability Funding Framework, IEA NZE transition pathway as reference, sector-level targets in 4 priority sectors, Climate Report aligned to 11 TCFD recommendations. Operational emissions FY20 baseline of 18,224 tCO2-e Scope 1+2 and 36,916 tCO2-e Scope 3 with specific targets.",
+  "quantification_rationale": "Reports financed-emissions concentration: 1% of lending in energy sectors = 27% of 2020 financed emissions. Specific operational emissions baselines (18,224 + 36,916 tCO2-e). Reduction targets named (Scope 1+2: 21% by 2025, 42% by 2030; Scope 3: 12.5% / 25%). 2,000kW renewables target. Pointer to 2022 Climate Report pp. 41-43 for full methodology and metrics. The detailed sector-by-sector financed-emissions breakdown lives in the Climate Report, not here. SASB FN-CB-410b.1, .2, .3, .4 partially covered with strong PCAF reference.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0089",
+    "CBA_2022_SustainabilityAppendix#chunk_0090",
+    "CBA_2022_SustainabilityAppendix#chunk_0088",
+    "CBA_2022_SustainabilityAppendix#chunk_0014",
+    "CBA_2022_SustainabilityAppendix#chunk_0012"
+  ]
+}

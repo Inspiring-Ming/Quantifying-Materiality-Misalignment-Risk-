@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Detailed ESG risk management framework integrated into Risk Management Framework. Sustainability Risk added as material risk category (effective 1 Oct 2021). Climate-related risk in Group Risk Appetite Statement. ESG credit policy and risk settings for coal/oil/gas explicit.",
+  "specificity_rationale": "Names Group Credit and Market Risk Committee, Group Risk Appetite Statement, Chief Climate Officer role created (2022, recruitment underway), GCRO accountable for climate risk integration, GCOO chairs Sustainability Council (bi-monthly). ESG-related credit policy and risk settings for emissions-intensive/climate-sensitive/low-emissions sectors. Interim sector decarbonisation targets aligned to Paris Agreement.",
+  "quantification_rationale": "Per-sector EAD breakdowns disclosed (power 5.8, thermal coal 0.7, oil and gas 1.9, cement 0.8, commercial real estate 6.0, residential real estate 365, iron and steel 0.2, agriculture 30.6, transport 9.6, aluminium 0.05 $bn). Sector-specific decarbonisation targets covered later. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) directly disclosed for the 10 emissions-intensive sectors.",
+  "citations": [
+    "NAB_2022_ClimateReport#chunk_0031",
+    "NAB_2022_ClimateReport#chunk_0036",
+    "NAB_2022_ClimateReport#chunk_0011",
+    "NAB_2022_ClimateReport#chunk_0008"
+  ]
+}

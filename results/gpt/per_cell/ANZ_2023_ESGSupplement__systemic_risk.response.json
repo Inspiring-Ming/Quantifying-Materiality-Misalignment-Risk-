@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The report mentions climate risk data strategy, scenario analysis, and stress testing, so the topic is touched on in a risk-management context. However, it does not address systemic risk management directly, nor does it mention G-SIB/D-SIB designation, regulatory capital ratios, or recovery/resolution arrangements.",
+  "specificity_rationale": "Disclosure is brief and indirect: it references developing a data strategy and using climate change risk assessment methodology to support engagement with high-emitting customers. It does not explain how mandatory/voluntary stress test results feed into capital adequacy planning, corporate strategy, or broader business activities.",
+  "quantification_rationale": "No topic-relevant SASB metrics are provided. The evidence contains some quantified climate targets, but nothing on G-SIB score, CET1, leverage ratios, stress test outcomes, or systemic-risk-specific measures required for this topic.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0047", "ANZ_2023_ESGSupplement#chunk_0055"]
+}

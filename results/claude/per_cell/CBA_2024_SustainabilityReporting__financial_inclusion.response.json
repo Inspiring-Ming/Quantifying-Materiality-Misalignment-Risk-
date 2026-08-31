@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Dedicated 'Improving accessibility' / 'Engaging with First Nations communities' / 'Strengthening our communities' sections. Regional branch closure moratorium until end-2026, Indigenous Reach Program, Next Chapter for DV/financial abuse.",
+  "specificity_rationale": "Names CBA-branded regional branch closure moratorium (until 2026), First Nations Reach Program (Fitzroy Valley + 14 remote Aboriginal communities visited), CBA Community Council 12 recommendations under action, accessible bank cards (font size, tactile dots, in partnership with Vision Australia), Power of Attorney abuse detection, Indigenous Customer Assistance Line, hardship and extra care teams, NetBank/CommBank app hardship requests, 7th Reconciliation Action Plan, Growing Football Fund partnership.",
+  "quantification_rationale": "Reports 17.6M customers (scope), 53,000+ employees, 14 most-remote Indigenous communities visited, $2M Australians for Indigenous Constitutional Recognition donation, $50K Uluru Dialogue donation, 3,900+ suppliers (26 First Nations). 12 Community Council recommendations being actioned. SASB FN-CB-240a.4 (literacy participants) covered through Indigenous Reach + community programmes. SASB 240a.1/.2/.3 not in retrieved chunks here.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0046",
+    "CBA_2024_SustainabilityReporting#chunk_0083",
+    "CBA_2024_SustainabilityReporting#chunk_0061",
+    "CBA_2024_SustainabilityReporting#chunk_0070"
+  ]
+}

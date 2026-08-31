@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Comprehensive financed-emissions disclosure: 9 sector targets with FY21 baseline, FY22, FY23 progress data and exposures. Per-sector financed-emissions table with absolute MtCO2-e, intensity, exposure $m, and PCAF data quality scores by industry segment.",
+  "specificity_rationale": "Names PCAF Standard, NZBA, IEA NZE 2050, SBTi guidance, NABERS proxy methodology, CRREM, IPCC RCP scenarios. Westpac 2024 Sustainable Finance Framework with Sustainable Finance Taxonomy. Per-target reference scenarios documented (Hydrogen Superpower, SBTi Cement SDA, IEA NZE, MPP Steel Moratorium). EY assurance over financed emissions.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 with full detail across 9 sectors with multi-year progress: Power 0.20 tCO2-e/MWh (FY23, vs 0.26 baseline = -23%), Cement 0.63 (-5%), Oil&gas 5.1 MtCO2-e (-45%), Coal 0.47 MtCO2-e (-81%), Aviation 105.3 g/pkm (-45%). FN-CB-410b.2: per-sector financed emissions table by 9 industries with intensities (Mining 1.228 kgCO2-e/$, Manufacturing 0.424, Agriculture 0.307). Operational Scope 1+2 = 8,565 tCO2-e market-based (vs 21,048 in FY23 = -59%), 96% renewable RE100, 100% renewable Australia. SASB FN-CB-410b.1, .2, .3, .4 fully covered.",
+  "citations": [
+    "Westpac_2024_ClimateReport#chunk_0308",
+    "Westpac_2024_ClimateReport#chunk_0294",
+    "Westpac_2024_ClimateReport#chunk_0252",
+    "Westpac_2024_ClimateReport#chunk_0053",
+    "Westpac_2024_ClimateReport#chunk_0065"
+  ]
+}

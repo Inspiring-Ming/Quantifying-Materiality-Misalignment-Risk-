@@ -1,0 +1,15 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Mentions financed emissions context: NZBA-aligned sector targets set for power generation and commercial real estate (Nov 2021), and 'extending Climate Change Risk Assessment methodology beyond Project Finance to Institutional customers in higher-emitting sectors'. The retrieved evidence focuses on operational emissions and target-setting roadmap rather than disclosed financed emissions.",
+  "specificity_rationale": "Names specific sectors with targets (power generation, commercial real estate), references planned data strategy, and references inclusion of climate risk in lending criteria. However, retrieved evidence does not contain detailed PCAF methodology or industry-by-asset-class exposure decomposition. ANZ refers to a separate Climate-related Financial Disclosures document not in scope of these chunks.",
+  "quantification_rationale": "Operational metrics reported (51% Scope 1+2 reduction, 75% renewable electricity) but those are not financed emissions. The SASB FN-CB-410b metrics (absolute Scope 1/2/3 financed emissions, gross exposure by industry, % covered, methodology) are not present in the retrieved evidence. SBTi footnote explicitly excludes financing-activity emissions.",
+  "citations": [
+    "ANZ_2022_ESGSupplement#chunk_0014",
+    "ANZ_2022_ESGSupplement#chunk_0059",
+    "ANZ_2022_ESGSupplement#chunk_0116",
+    "ANZ_2022_ESGSupplement#chunk_0119",
+    "ANZ_2022_ESGSupplement#chunk_0050"
+  ]
+}

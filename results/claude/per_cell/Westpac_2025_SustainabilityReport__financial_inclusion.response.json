@@ -1,0 +1,14 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "Substantial regional Australia engagement and Sustainable Farm Loan support: $20bn Central-West Orana REZ project supporting 5,000 construction jobs in regional NSW. NZ agriculture targets and farm-level emissions data uplift. Workshops in Tamworth, Roma, Rockhampton for agribusiness customers.",
+  "specificity_rationale": "Names ACEREZ partnership (ACCIONA, COBRA, Endeavour Energy), Mandated Lead Arranger and Green Loan Coordinator role, Westpac Sustainable Farm Loan, Meat & Livestock Australia partnership for Agriculture, Energy Efficiency Council partnership for Commercial Real Estate, customised farm action plan workshops. ABS Agricultural Statistics modernisation, Ag2050 Scenarios Report referenced.",
+  "quantification_rationale": "Reports $20bn regional investment from Central-West Orana REZ supporting 5,000 construction jobs and 2M+ Victorian homes-equivalent. Customer-level emissions data implementation (NZ baseline 19.4→19.8). However, no SASB FN-CB-240a metrics (literacy participants, no-cost accounts, small-business community-development loans) in retrieved chunks.",
+  "citations": [
+    "Westpac_2025_SustainabilityReport#chunk_0154",
+    "Westpac_2025_SustainabilityReport#chunk_0272",
+    "Westpac_2025_SustainabilityReport#chunk_0281",
+    "Westpac_2025_SustainabilityReport#chunk_0140"
+  ]
+}

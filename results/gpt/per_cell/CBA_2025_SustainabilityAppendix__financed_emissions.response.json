@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence explicitly identifies the financed emissions topic and SASB FN-CB-410b metric codes, and the climate strategy text discusses sector-level financed emissions goals, client transition plans, and emissions-focused lending criteria.",
+  "specificity_rationale": "Disclosure is substantive: it describes how financed emissions are managed through sector-level goals, transition plan requirements, and portfolio rebalancing. However, the evidence does not spell out the calculation methodology or provide the underlying emissions tables, so it is not fully detailed.",
+  "quantification_rationale": "There are some numbers and targets in the narrative, such as 2030 goals, 2050 net zero, and 12 of 15 sector-level goals, but the evidence does not show absolute Scope 1/2/3 financed emissions, exposure coverage percentages, or industry-by-asset-class breakdowns required by SASB.",
+  "citations": ["CBA_2025_SustainabilityAppendix#chunk_0038", "CBA_2025_SustainabilityAppendix#chunk_0063", "CBA_2025_SustainabilityAppendix#chunk_0066", "CBA_2025_SustainabilityAppendix#chunk_0002", "CBA_2025_SustainabilityAppendix#chunk_0003"]
+}

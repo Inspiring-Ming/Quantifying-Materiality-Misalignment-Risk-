@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-410b.1, .2, .3, .4 with structured pointers to Annual Report Climate Disclosures section. 15 sector-level financed emissions goals/targets in place. Transition Plan requirements expanded to thermal coal clients this year.",
+  "specificity_rationale": "Names PCAF methodology pointer, 2030 sector-level financed emissions goals and targets, 15 sector-level goals/targets, three-pillar approach to achieving targets (customer engagement, portfolio rebalancing, advocacy), Transition Plan requirements for upstream oil & gas extraction and coal-fired power generation customers (now including thermal coal). E&S Framework, RAP, MSS. Reframing of 'targets' vs 'goals' explicitly clarified. Good Shepherd partnership extended July 2024 - June 2028.",
+  "quantification_rationale": "Reports below-reference-scenario for 12 of 15 sector-level financed emissions goals/targets. 47% physical / 89% transition climate-related stress test coverage of lending portfolios. 13 EP project finance transactions in CY2024. Sector-level targets contributing to net zero by 2050. SASB FN-CB-410b.1, .2, .3 absolute numbers and exposure breakdowns pointed to Annual Report Climate Disclosures appendix (pp. 392-399), not in retrieved chunks here. .4 methodology pointed to Annual Report.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0038",
+    "CBA_2025_SustainabilityAppendix#chunk_0063",
+    "CBA_2025_SustainabilityAppendix#chunk_0066",
+    "CBA_2025_SustainabilityAppendix#chunk_0002",
+    "CBA_2025_SustainabilityAppendix#chunk_0003"
+  ]
+}

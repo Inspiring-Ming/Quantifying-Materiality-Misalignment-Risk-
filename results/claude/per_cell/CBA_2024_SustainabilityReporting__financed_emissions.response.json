@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: PCAF-aligned methodology, 21.8 MtCO2-e absolute financed emissions, 95% in-scope drawn lending exposure coverage. Six new sector-level targets approved by Board this year (transport + Australian commercial property). Targets now cover 67% of 2020 financed emissions.",
+  "specificity_rationale": "Names PCAF Standard, 6 new Board-approved sector targets (transport + commercial property), Group Climate Risk Materiality Assessment, ESG credit standard, framework for assessing client transition plans against well-below-2C, Sustainability Funding Target ($54.2bn cumulative), embodied-carbon review of branch designs, NZBA commitment. Decision to defer Australian agricultural sector targets explicitly disclosed.",
+  "quantification_rationale": "Reports SASB FN-CB-410b.1 directly: 21.8 MtCO2-e absolute financed emissions for 2023 (broadly stable, 1% reduction YoY). 95% lending exposure coverage (FN-CB-410b.3). Sector targets covering 67% of 2020 baseline. Scope 3 operational target updated to 32.7% reduction by 2030. Scope 1+2 trajectory FY20-FY24 charted (12,386 in FY24). $54.2bn SFT cumulative funding. SASB FN-CB-410b.1, .2, .3, .4 all substantively covered with PCAF methodology.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0024",
+    "CBA_2024_SustainabilityReporting#chunk_0023",
+    "CBA_2024_SustainabilityReporting#chunk_0016",
+    "CBA_2024_SustainabilityReporting#chunk_0022",
+    "CBA_2024_SustainabilityReporting#chunk_0019"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through inclusive banking, support for vulnerable customers, remote banking support for First Nations communities, and a financial literacy pilot. This is directly relevant to FN-CB-240a. However, the disclosure is broader than SASB’s exact loan and account metrics.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention by describing programs, customer vulnerability support, community visits, and how those visits will inform future remote banking support. It also links financial inclusion efforts to actual service delivery. Still, it does not explain the full SASB topic structure or provide a detailed product-design strategy tied to all required metric areas.",
+  "quantification_rationale": "There are some concrete figures, including 52,277 interactions, 4,478 participants supported by the Financial Independence Hub, and 750+ impacted people supported in CommBank Next Chapter. But the evidence does not show the SASB-mandated loan outstanding, past due/nonaccrual loan, or no-cost account metrics, so quantification is only partial.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0024", "CBA_2023_SustainabilityReporting#chunk_0037"]
+}

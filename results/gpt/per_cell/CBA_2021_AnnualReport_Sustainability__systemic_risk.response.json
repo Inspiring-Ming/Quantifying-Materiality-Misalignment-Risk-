@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence addresses systemic risk only indirectly through climate-risk management and stress testing. It says climate change presents systemic risks, and the bank conducts group-wide climate stress tests and scenario analysis. However, it does not explicitly discuss broader systemic risk management, G-SIB/D-SIB status, capital adequacy planning, or recovery/resolution arrangements.",
+  "specificity_rationale": "The disclosure gives some process detail on climate scenario analysis, APRA-aligned climate vulnerability assessment, and integrating actions into the climate work program. But it stops short of the SASB-specific systemic risk discussion: no explanation of how stress-test results affect capital planning, long-term strategy, or other business activities, and no resolution framework.",
+  "quantification_rationale": "There are limited quantitative elements, such as a 13% increase in renewables exposure to $4.8 billion and references to 42%/25% emissions targets. These are not the SASB-mandated systemic risk metrics, and there is no G-SIB/D-SIB score, no regulatory capital ratios, and no quantified stress-test outcomes.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0003", "CBA_2021_AnnualReport_Sustainability#chunk_0030", "CBA_2021_AnnualReport_Sustainability#chunk_0031", "CBA_2021_AnnualReport_Sustainability#chunk_0035"]
+}

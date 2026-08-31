@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: 9 NZBA sector targets with 2030 targets, FY22 actuals, baselines, reference scenarios. Net-zero by 2050 commitment aligned with 1.5C pathway. NZBA principals/steering group governance bodies (from 2023).",
+  "specificity_rationale": "Names PCAF, NZBA, IEA NZE 2050, CSIRO/ClimateWorks Hydrogen Superpower Scenario (Power), SBTi Cement SDA (Cement), MPP Technology Moratorium (Steel), CRREM Australia Multi-family homes (RRE), SBTi FLAG Oceania Dairy + Beef pathways. Sustainable Finance Framework, Sustainable Finance Taxonomy. NABERS proxy methodology for CRE.",
+  "quantification_rationale": "Reports SASB FN-CB-410b directly: 9 sector 2030 targets with FY22 progress (Power 0.23 vs 0.10 target tCO2-e/MWh; Cement 0.66 vs 0.57; Oil&gas 7.5 MtCO2-e vs 23% reduction from 9.2 baseline; Coal 1.9 MtCO2-e vs 2.5 baseline → zero by 2030; Aviation 156 vs 76.4 g/pkm; Steel 1.42 target; CRE -59% from 60 kgCO2e/m2; RRE -56% from 35 kgCO2e/m2; Beef&Sheep -9%; Dairy -10%). Operational: Scope 1+2+3 location-based 140,152 tCO2-e (vs 152,555 FY22), market-based 82,092 (vs 107,408). 70% renewables globally (up from 52%). SASB FN-CB-410b.1, .2, .3, .4 fully covered.",
+  "citations": [
+    "Westpac_2023_ClimateReport#chunk_0113",
+    "Westpac_2023_ClimateReport#chunk_0090",
+    "Westpac_2023_ClimateReport#chunk_0219",
+    "Westpac_2023_ClimateReport#chunk_0314",
+    "Westpac_2023_ClimateReport#chunk_0288"
+  ]
+}

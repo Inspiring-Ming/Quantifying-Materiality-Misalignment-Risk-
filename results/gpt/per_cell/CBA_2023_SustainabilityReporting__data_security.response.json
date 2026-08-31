@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses data security and privacy: it discusses cyber security attacks, information security policies, access management, data privacy processes, mandatory privacy training, simulations, and external reviews. This is directly relevant to FN-CB-230a and shows the topic is substantively covered.",
+  "specificity_rationale": "The disclosure gives a fairly detailed approach to managing cyber risk, including policy frameworks, access management standards, data loss prevention, simulations, internal assessments, external reviews, mandatory training, and alignment to ISO, NIST, APRA CPS 234, and ACSC Essential Eight. It explains process, controls, and response, but does not discuss breach events in detail.",
+  "quantification_rationale": "There are some numbers, such as two external reviews and references to ongoing annual training, but the required SASB metrics are not disclosed: no breach count, no percentage of personal data breaches, and no number of account holders affected. Quantitative coverage is therefore limited.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0043", "CBA_2023_SustainabilityReporting#chunk_0045", "CBA_2023_SustainabilityReporting#chunk_0046", "CBA_2023_SustainabilityReporting#chunk_0047"]
+}

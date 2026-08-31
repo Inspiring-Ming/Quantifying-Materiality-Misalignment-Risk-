@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated coverage of ESG risk assessment tool integrated into commercial and corporate lending, refreshed modern slavery due diligence questions in Business Banking ESG tool, Modern Slavery Advisory Council, Human Rights First Nations Stakeholder Grievance Process Framework. Risk-based supplier privacy due diligence.",
+  "specificity_rationale": "Names ESG risk assessment tool, ESG credit standard (developed this year setting bankers' ESG-risk consideration expectations), framework and criteria to assess client transition plans against well-below-2C, Group Climate Risk Materiality Assessment, refreshed modern slavery due diligence questions, Modern Slavery Advisory Council, Human Rights First Nations Stakeholder Grievance Process Framework. Bankers and credit risk teams trained including modern-slavery focus.",
+  "quantification_rationale": "Reports 0 grievances raised through First Nations Stakeholder framework this year (defensible negative disclosure). Operational programme metrics. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) not in retrieved chunks.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0079",
+    "CBA_2024_SustainabilityReporting#chunk_0080",
+    "CBA_2024_SustainabilityReporting#chunk_0078",
+    "CBA_2024_SustainabilityReporting#chunk_0008"
+  ]
+}

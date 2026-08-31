@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0,
+  "presence_rationale": "The report clearly addresses ESG incorporation in lending and credit processes. It says the ESG risk assessment tool is used in commercial and corporate lending, and that bankers and credit risk teams were trained on modern slavery risk. It also references an E&S Framework and assessing ESG risks faced by customers. However, it does not provide the full decision-process detail SASB asks for.",
+  "specificity_rationale": "The disclosure is moderately substantive: it names the ESG risk assessment tool, links it to commercial and corporate lending, and mentions human rights and modern slavery risks, plus banker and credit risk team training. But it does not explain oversight, accountability, who approves or monitors the framework, or exactly how ESG factors change creditworthiness decisions. The treatment is therefore partial rather than detailed.",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure table is shown, and there are no numeric metrics, targets, or quantified outcomes tied to ESG credit analysis. The evidence is entirely qualitative, so SASB’s quantitative metric is absent.",
+  "citations": ["CBA_2024_SustainabilityReporting#chunk_0078", "CBA_2024_SustainabilityReporting#chunk_0079"]
+}

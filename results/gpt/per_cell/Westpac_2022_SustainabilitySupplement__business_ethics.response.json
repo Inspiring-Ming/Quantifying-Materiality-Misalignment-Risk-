@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The report identifies \"Ethics and Corporate business conduct\" as a material sustainability topic and discusses fraud/scam prevention and digital security measures. However, it does not directly discuss business ethics controls in the SASB sense, such as legal proceedings, insider trading, antitrust, or whistleblower governance.",
+  "specificity_rationale": "Disclosure is limited to high-level references to ethics/business conduct and operational fraud-prevention measures. It gives some context on scams, blocked transactions, and customer protection, but no substantive discussion of ethics policies, compliance processes, whistleblower procedures, or corrective actions tied to misconduct.",
+  "quantification_rationale": "No monetary losses from legal proceedings are reported, and no SASB FN-CB-510a metrics are quantified. The evidence includes numbers about scam-related controls and blocked transactions, but not losses from fraud, insider trading, antitrust, or related legal proceedings, nor whistleblower reporting metrics.",
+  "citations": ["Westpac_2022_SustainabilitySupplement#chunk_0012", "Westpac_2022_SustainabilitySupplement#chunk_0006", "Westpac_2022_SustainabilitySupplement#chunk_0024", "Westpac_2022_SustainabilitySupplement#chunk_0025"]
+}

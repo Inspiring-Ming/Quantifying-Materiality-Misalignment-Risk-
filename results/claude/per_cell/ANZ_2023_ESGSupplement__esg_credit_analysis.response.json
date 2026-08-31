@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Equator Principles' section with multiple case studies and detailed integration into Project Finance approval. ANZ has been a member since 2006.",
+  "specificity_rationale": "Detailed case studies (solar farms eastern AU Cat B2, southern AU Cat B2, EV battery manufacturer Europe Cat C2) with categorisation criteria (A/B/C), independent expert engagement, EP DD process, sensitive sector requirements, S&E Risk Policy. Explicit refusal-of-finance triggers. Comprehensive governance described.",
+  "quantification_rationale": "Mentions case-study category counts and physical/transition risk assessment. ANZ refers to '2023 ESG Data and Frameworks Pack' for Equator Principles aggregate data — but that data is not in retrieved evidence. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) is not disclosed in retrieved chunks.",
+  "citations": [
+    "ANZ_2023_ESGSupplement#chunk_0157",
+    "ANZ_2023_ESGSupplement#chunk_0160",
+    "ANZ_2023_ESGSupplement#chunk_0158",
+    "ANZ_2023_ESGSupplement#chunk_0159",
+    "ANZ_2023_ESGSupplement#chunk_0007"
+  ]
+}

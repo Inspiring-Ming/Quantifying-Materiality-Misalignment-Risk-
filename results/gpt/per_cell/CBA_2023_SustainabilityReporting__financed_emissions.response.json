@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report explicitly discusses financed emissions, including sector-level financed emissions targets, a transition roadmap, and aligning lending/financing to 1.5C pathways. It also states the bank measures and reports financed emissions using PCAF and ties this to climate strategy and risk management.",
+  "specificity_rationale": "The disclosure is substantive and topic-specific: it explains climate strategy, sector-level targets, the role of lending and financing activities, and the use of a methodology standard. However, it does not provide the detailed SASB disclosure set for financed emissions, such as industry-by-asset-class exposure breakdowns or scope-level financed emissions figures.",
+  "quantification_rationale": "There are some numbers, such as a 95% reduction in Scope 1 and 2 operational emissions, a $70 billion sustainability funding target, and $44.7 billion in cumulative funding, but not the SASB-required financed emissions metrics. The evidence does not show absolute Scope 1/2/3 financed emissions, gross exposure coverage percentages, or sector-level exposure tables.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0007", "CBA_2023_SustainabilityReporting#chunk_0009", "CBA_2023_SustainabilityReporting#chunk_0010"]
+}

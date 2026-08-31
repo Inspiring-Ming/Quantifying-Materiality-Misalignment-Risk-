@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses financial inclusion and capacity building through financial wellbeing, support for vulnerable customers, financial literacy programs, and low-fee/basic banking products. It also links customer feedback and data to product design. This is directly relevant to FN-CB-240a, even though the exact SASB loan/account metrics are not all shown.",
+  "specificity_rationale": "Disclosure is substantive: it describes Start Smart, Community Wellbeing support, the Streamline Basic account, and using complaints and customer insights to design better products. It also explains support for Indigenous and vulnerable customers. However, it does not fully spell out the SASB topic’s required loan-program detail or a complete financial inclusion strategy with all metric categories.",
+  "quantification_rationale": "The report provides several concrete figures, including 6,900 training modules, 22,500 interactions, more than 4 million students reached, and 1,700+ people in a workforce program. But it does not report the core SASB metrics on small-business/community-development loans, no-cost accounts opened for unbanked customers, or a clear participant count for financial literacy initiatives.",
+  "citations": ["CBA_2021_AnnualReport_Sustainability#chunk_0049", "CBA_2021_AnnualReport_Sustainability#chunk_0051", "CBA_2021_AnnualReport_Sustainability#chunk_0057", "CBA_2021_AnnualReport_Sustainability#chunk_0058", "CBA_2021_AnnualReport_Sustainability#chunk_0059"]
+}

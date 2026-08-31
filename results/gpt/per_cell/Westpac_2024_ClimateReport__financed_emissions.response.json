@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report directly addresses financed emissions, including a dedicated section on “Reducing our financed emissions,” a sector table, and a definition of scope 3 financed emissions. It clearly discusses financed emissions as a topic rather than only mentioning climate generally.",
+  "specificity_rationale": "The disclosure is fairly detailed: it explains the estimation approach, notes data limitations, separates scope 1/2 and scope 3 financed emissions, and presents sector-level information and data quality scores. However, it does not provide a fully complete SASB-style methodology disclosure or the named PCAF approach in the retrieved evidence.",
+  "quantification_rationale": "There are concrete numbers, including sector-level financed emissions, intensities, and exposure values, plus target/actual figures for some sectors. But the evidence does not show absolute gross financed emissions across scopes 1/2/3 for the bank as a whole, gross exposure by asset class, or the percentage of exposure covered, so the SASB metrics are incomplete.",
+  "citations": ["Westpac_2024_ClimateReport#chunk_0065", "Westpac_2024_ClimateReport#chunk_0294", "Westpac_2024_ClimateReport#chunk_0252", "Westpac_2024_ClimateReport#chunk_0308"]
+}

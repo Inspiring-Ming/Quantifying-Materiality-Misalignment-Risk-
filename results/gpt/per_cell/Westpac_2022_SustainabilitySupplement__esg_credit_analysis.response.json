@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence shows Westpac discussing sustainable lending and Paris-aligned financing strategies, including new lending to climate change solutions and portfolio targets. However, it does not explicitly describe ESG factors in credit analysis, creditworthiness assessment, governance, or industry-by-industry credit exposure, so the topic is only partially addressed.",
+  "specificity_rationale": "The disclosure is broad and strategy-level. It references climate-related lending and financing strategies, but gives no named ESG-in-credit framework, no decision process for incorporating ESG into credit analysis, and no roles, oversight, or accountability for credit decisions.",
+  "quantification_rationale": "Some numbers are provided, including over $1.9 billion of new lending to climate change solutions, a three-year horizon for financing strategies and portfolio targets, and emissions reductions since 2016. But the SASB-required quantitative disclosure on commercial and industrial credit exposure by industry is absent.",
+  "citations": ["Westpac_2022_SustainabilitySupplement#chunk_0016", "Westpac_2022_SustainabilitySupplement#chunk_0018"]
+}

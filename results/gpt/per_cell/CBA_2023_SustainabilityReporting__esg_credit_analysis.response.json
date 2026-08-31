@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The evidence shows general E&S governance and mentions business lending activity, but it does not directly address how ESG factors are incorporated into credit analysis. It is adjacent to the topic, not a clear disclosure of FN-CB-410a.",
+  "specificity_rationale": "There is some substantive discussion of ESG governance, including Board oversight and an E&S Committee, yet no description of ESG being integrated into creditworthiness assessment, no responsible parties for credit analysis, and no credit policy/framework tied to lending decisions.",
+  "quantification_rationale": "No industry-by-industry commercial and industrial credit exposure breakdown, targets, or other relevant metrics are shown in the retrieved evidence. The excerpts are qualitative governance statements only.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0040", "CBA_2023_SustainabilityReporting#chunk_0042"]
+}

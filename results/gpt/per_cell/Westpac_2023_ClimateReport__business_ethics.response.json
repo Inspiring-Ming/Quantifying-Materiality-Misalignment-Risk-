@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is from a climate-only report and does not address business ethics topics such as insider trading, antitrust, fraud losses, whistleblower policies, or corrective actions.",
+  "specificity_rationale": "No substantive business ethics disclosure is shown. The chunks only discuss climate governance, assurance language, and scenario setting, not ethics controls, reporting channels, or remediation.",
+  "quantification_rationale": "There are no monetary loss figures, no legal proceeding amounts, and no SASB FN-CB-510a metrics or targets in the evidence.",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0073", "Westpac_2023_ClimateReport#chunk_0072", "Westpac_2023_ClimateReport#chunk_0191", "Westpac_2023_ClimateReport#chunk_0193", "Westpac_2023_ClimateReport#chunk_0253"]
+}

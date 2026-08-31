@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The report touches systemic-risk-adjacent topics such as balance sheet management, capital, liquidity and funding positions, risk management, and APRA-imposed capital overlays. However, it does not clearly address systemic risk management as a dedicated disclosure, nor does it mention G-SIB/D-SIB status, stress tests, or resolution planning. The evidence shows partial relevance rather than full topic coverage.",
+  "specificity_rationale": "The disclosure is mostly high-level. It references non-financial risk management, APRA oversight, and internal audit/culture reviews, but gives little detail on how stress tests inform capital planning or strategy. There is no description of specific scenarios, governance linkage to systemic-risk oversight, or recovery and resolution arrangements. This is more contextual risk governance than substantive FN-CB-550a disclosure.",
+  "quantification_rationale": "No relevant quantitative systemic-risk metrics are shown. The evidence does not provide a G-SIB score, CET1 or leverage ratios, stress-test outcomes, or any numeric capital planning inputs tied to systemic risk. The only capital reference is a qualitative mention of an APRA capital overlay, without a value or related metric.",
+  "citations": ["ANZ_2024_ESGSupplement#chunk_0050", "ANZ_2024_ESGSupplement#chunk_0067", "ANZ_2024_ESGSupplement#chunk_0069", "ANZ_2024_ESGSupplement#chunk_0080"]
+}

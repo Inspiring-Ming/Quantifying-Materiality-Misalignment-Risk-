@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report explicitly discusses financed emissions, says they were estimated, and states the work is aligned with the PCAF Standard. It also links the analysis to strategy and sector-level targets, so the topic is clearly addressed.",
+  "specificity_rationale": "Disclosure goes beyond a passing mention: it explains that financed emissions were estimated, identifies energy sectors as a focus area, and ties the result to net-zero strategy and sector-level targets. However, it does not provide the SASB-required breakdowns or a full methodology description.",
+  "quantification_rationale": "There are some numbers, including 1% of lending to energy sectors and 27% of 2020 financed emissions, but the evidence does not show absolute Scope 1/2/3 financed emissions, gross exposure by industry, or percentage of exposure covered. That keeps quantification low.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0012", "CBA_2022_SustainabilityAppendix#chunk_0014"]
+}

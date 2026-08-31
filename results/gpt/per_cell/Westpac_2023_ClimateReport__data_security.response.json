@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is about commercial real estate emissions targets and methodology, not data security, breaches, or cyber risk management. No relevant disclosure is shown.",
+  "specificity_rationale": "There is no discussion of identifying or addressing data security risks, emerging threats, attack vectors, or regulatory response. The content is unrelated to the SASB topic.",
+  "quantification_rationale": "No breach counts, percentage of personal data breaches, affected account holders, or other data security metrics appear in the evidence.",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0314", "Westpac_2023_ClimateReport#chunk_0312"]
+}

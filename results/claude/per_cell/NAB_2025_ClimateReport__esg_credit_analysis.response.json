@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive ESG-in-credit integration: detailed sustainability-related policy settings for thermal coal/oil and gas/metallurgical coal with explicit Arctic and Antarctic Wildlife Refuge exclusions, sector targets, Customer Transition Plan Assessment Framework, FarmID/HomeID/Commercial-ID development.",
+  "specificity_rationale": "Names sustainability risk management framework with annual RAS review, BNZ specialist customer risk assessment team, Customer Transition Plan Assessment Framework with quality assurance process, climate-specific banker assessment questions, Corporate and Institutional Banking digital sustainability-risk forms, FarmID + HomeID + Commercial-ID tools (real estate). Explicit refusal of finance for new thermal coal mining, new project finance for greenfield infrastructure connected to greenfield thermal coal projects, no support for capital markets activities for thermal coal mining customers.",
+  "quantification_rationale": "Cyclone Alfred case study with 56 branches and business centres closed. Sector-specific ESG-policy settings substantively quantified through carbon-intensive sector caps. SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) partially through ESG sector tolerances; full per-sector EAD breakdown lives in financed-emissions section.",
+  "citations": [
+    "NAB_2025_ClimateReport#chunk_0106",
+    "NAB_2025_ClimateReport#chunk_0081",
+    "NAB_2025_ClimateReport#chunk_0082",
+    "NAB_2025_ClimateReport#chunk_0083",
+    "NAB_2025_ClimateReport#chunk_0136"
+  ]
+}

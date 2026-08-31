@@ -1,0 +1,13 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Topic addressed via APRA Prudential Inquiry Remedial Action Plan referenced (cultural foundations reset), APRA Resilience Prudential Review (no adverse cyber findings), participation in CPS 234 tripartite assessment as one of nine pilot entities. Limited direct disclosure of capital adequacy framework in retrieved chunks.",
+  "specificity_rationale": "Names APRA Prudential Inquiry Remedial Action Plan, Organisational Culture Plan with three phases (Design and implement / Define and embed / Evolve and mature), CPS 234 tripartite assessment, Resilience Prudential Review. However, no description of regulatory capital framework, recovery/resolution planning, stress-test integration into capital planning in retrieved evidence.",
+  "quantification_rationale": "No G-SIB or D-SIB score in retrieved evidence, no CET1/leverage/LCR/NSFR ratios, no stress-test scenario outputs. Operational organisational-culture metrics referenced. SASB FN-CB-550a metrics not in retrieved chunks.",
+  "citations": [
+    "CBA_2023_SustainabilityReporting#chunk_0011",
+    "CBA_2023_SustainabilityReporting#chunk_0012",
+    "CBA_2023_SustainabilityReporting#chunk_0047"
+  ]
+}

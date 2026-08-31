@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "The evidence directly addresses data protection/privacy as a material ESG issue and describes ANZ’s approach to safeguarding personal information, privacy governance, training, and incident reporting. It is clearly on-topic for data security under FN-CB-230a.",
+  "specificity_rationale": "The disclosure is substantive: it explains oversight, privacy policy, mandatory training, privacy impact assessments, speak-up channels, and reform preparation. It also describes how privacy risks are identified and mitigated. However, it does not clearly discuss cyber attack vectors or the broader emerging threat landscape in depth.",
+  "quantification_rationale": "The report provides concrete figures for breaches and impacted individuals: four data breaches across markets, three notifiable privacy breaches at ANZ Bank New Zealand, and one incident affecting a single individual plus four impacted individuals in NZ. It does not state the percentage of breaches that were personal data breaches, so the SASB metric is incomplete.",
+  "citations": ["ANZ_2025_ESGReport#chunk_0117", "ANZ_2025_ESGReport#chunk_0118", "ANZ_2025_ESGReport#chunk_0119"]
+}

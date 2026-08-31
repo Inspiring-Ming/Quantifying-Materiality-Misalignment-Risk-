@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses business ethics through its Whistleblower Program, Code of Conduct breaches, investigation process, reporting channels, confidentiality, and consequences for wrongdoing. It also mentions litigation/disputes in general. This is direct evidence that the topic is covered.",
+  "specificity_rationale": "Disclosure is fairly detailed: it describes the whistleblower program, FairCall hotline, anonymous reporting, independent investigations, professional standards forums, and corrective consequences. It also explains how the bank measures speak-up culture. However, it does not discuss monetary losses from ethics-related legal proceedings.",
+  "quantification_rationale": "The evidence includes several concrete metrics: 190 wrongdoing disclosures, 53 substantiated, 117 unsubstantiated, 20 under investigation, 4,740 Code of Conduct breaches, and survey percentages. But it does not provide the SASB-mandated monetary losses from legal proceedings, so quantification is partial rather than complete.",
+  "citations": ["NAB_2021_AnnualReview#chunk_0085", "NAB_2021_AnnualReview#chunk_0086", "NAB_2021_AnnualReview#chunk_0087", "NAB_2021_AnnualReview#chunk_0209"]
+}

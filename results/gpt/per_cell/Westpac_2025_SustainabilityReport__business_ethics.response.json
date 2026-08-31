@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence is about climate strategy, risk management, remuneration, and financed emissions, not business ethics. It does not mention fraud, insider trading, antitrust, market manipulation, tax evasion, money laundering, whistleblower policies, or legal proceedings losses.",
+  "specificity_rationale": "No disclosure addresses FN-CB-510a topics or provides discussion of ethics controls, whistleblower procedures, reporting channels, or corrective actions. The material is unrelated to the SASB business ethics scope.",
+  "quantification_rationale": "There are no monetary loss figures from legal proceedings and no whistleblower-related metrics or targets in the evidence. The only numbers shown concern climate and financed emissions, which are not relevant to this topic.",
+  "citations": ["Westpac_2025_SustainabilityReport#chunk_0012", "Westpac_2025_SustainabilityReport#chunk_0014", "Westpac_2025_SustainabilityReport#chunk_0048", "Westpac_2025_SustainabilityReport#chunk_0194", "Westpac_2025_SustainabilityReport#chunk_0282"]
+}

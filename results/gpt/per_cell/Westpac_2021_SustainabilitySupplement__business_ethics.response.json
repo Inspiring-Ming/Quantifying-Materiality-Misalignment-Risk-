@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly touches business ethics through whistleblower reporting and fraud/scams controls. It includes a whistleblower-related performance indicator and narrative on scams, fraud prevention, and customer protection. However, it does not directly discuss legal proceedings tied to insider trading, antitrust, market manipulation, or other core SASB ethics issues in detail.",
+  "specificity_rationale": "Disclosure is moderately substantive: it names a whistleblower reporting metric, describes scam/fraud response measures, and mentions security controls and customer education tools. But it does not explain the whistleblower policy, reporting channels, escalation process, or corrective actions for ethics breaches. The discussion is operational rather than a full ethics governance narrative.",
+  "quantification_rationale": "The evidence contains several figures, including whistleblower concern counts, cases assisted by specialist vulnerability teams, and fraud prevented. But it does not provide the SASB-mandated monetary losses from legal proceedings, nor does it quantify whistleblower procedures or ethics incidents in the required way. Numbers are present, but not the specific metric requested.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0188", "Westpac_2021_SustainabilitySupplement#chunk_0089", "Westpac_2021_SustainabilitySupplement#chunk_0053", "Westpac_2021_SustainabilitySupplement#chunk_0051"]
+}

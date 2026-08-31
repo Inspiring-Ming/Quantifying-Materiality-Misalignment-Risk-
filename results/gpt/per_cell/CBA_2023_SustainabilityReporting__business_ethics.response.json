@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report directly addresses business ethics through its whistleblower disclosure, SpeakUP service, whistleblower protections, and governance over E&S risks. This is clearly relevant to FN-CB-510a, even though it does not discuss legal proceedings losses or corrective actions in detail.",
+  "specificity_rationale": "The disclosure gives concrete detail on the whistleblower channel, availability, anonymity, protections under policy and law, and the number of reports and whistleblower cases. However, it does not provide the full SASB discussion on legal losses, case context, or remediation steps, so it is substantial but incomplete.",
+  "quantification_rationale": "The evidence includes counts of SpeakUP reports and whistleblower cases, but it does not disclose monetary losses from legal proceedings or other required financial metrics for FN-CB-510a.1. The available numbers support only limited quantification.",
+  "citations": ["CBA_2023_SustainabilityReporting#chunk_0040"]
+}

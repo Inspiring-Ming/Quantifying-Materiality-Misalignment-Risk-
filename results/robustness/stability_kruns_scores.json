@@ -1,0 +1,747 @@
+{
+  "_purpose": "k=3 run variance estimate on stratified 6-report subset",
+  "_method": "Run-1 = v2 main-study scores (pulled from stage2_llm_coverage_scores.json). Runs 2-3 = fresh re-scores by claude-opus-4-7 on the same 6-report subset with the same SASB rubric. No synthetic perturbation.",
+  "_subset_strategy": "stratified by Claude run-1 MMRI: 2 low (~0.05), 2 mid (~0.18), 2 high (~0.45)",
+  "_k": 3,
+  "_alpha_beta_gamma": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "_a_i_default": 1,
+  "_w_i_default": 0.16666666666666666,
+  "reports": {
+    "ANZ_2025_ESGReport": {
+      "data_security": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.85,
+          "coverage": 0.9333333333333332
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.8,
+          "coverage": 0.9333333333333332
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.95,
+          "coverage": 0.9833333333333334
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.9,
+          "coverage": 0.9500000000000001
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.7,
+          "coverage": 0.8833333333333333
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.6,
+          "coverage": 0.8666666666666667
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 0.75,
+          "quantification": 0.75,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.95,
+          "coverage": 0.9833333333333334
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.85,
+          "coverage": 0.9500000000000001
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.85,
+          "coverage": 0.9333333333333332
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.8,
+          "coverage": 0.9333333333333332
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.85,
+          "coverage": 0.9500000000000001
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.95,
+          "coverage": 0.9666666666666667
+        }
+      }
+    },
+    "CBA_2025_SustainabilityAppendix": {
+      "data_security": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 0.75,
+          "quantification": 0.5,
+          "coverage": 0.75
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.75,
+          "coverage": 0.9
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.7,
+          "coverage": 0.9
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.85,
+          "coverage": 0.9500000000000001
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.9,
+          "coverage": 0.9500000000000001
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.6,
+          "coverage": 0.85
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.9,
+          "coverage": 0.9666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.95,
+          "coverage": 0.9666666666666667
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.7,
+          "coverage": 0.8833333333333333
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.65,
+          "coverage": 0.8833333333333333
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.8,
+          "coverage": 0.9333333333333332
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.9,
+          "coverage": 0.9500000000000001
+        }
+      }
+    },
+    "Westpac_2021_SustainabilitySupplement": {
+      "data_security": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 0.75,
+          "quantification": 0.5,
+          "coverage": 0.75
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.8,
+          "coverage": 0.9166666666666666
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.85,
+          "coverage": 0.9333333333333332
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.8,
+          "coverage": 0.9333333333333332
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.6,
+          "coverage": 0.8666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.55,
+          "coverage": 0.8333333333333334
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.9,
+          "coverage": 0.9666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.95,
+          "coverage": 0.9666666666666667
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 0.55,
+          "specificity": 0.45,
+          "quantification": 0.2,
+          "coverage": 0.39999999999999997
+        },
+        "run3": {
+          "presence": 0.65,
+          "specificity": 0.5,
+          "quantification": 0.15,
+          "coverage": 0.4333333333333333
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.55,
+          "coverage": 0.85
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.5,
+          "coverage": 0.8166666666666668
+        }
+      }
+    },
+    "ANZ_2021_ESGSupplement": {
+      "data_security": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 0.75,
+          "quantification": 0.5,
+          "coverage": 0.75
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.75,
+          "coverage": 0.9
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.65,
+          "coverage": 0.8833333333333333
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.85,
+          "coverage": 0.9500000000000001
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.8,
+          "coverage": 0.9166666666666666
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.55,
+          "coverage": 0.8333333333333334
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.45,
+          "coverage": 0.8166666666666668
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 0.5,
+          "specificity": 0.25,
+          "quantification": 0.25,
+          "coverage": 0.3333333333333333
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.9,
+          "coverage": 0.9666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.85,
+          "coverage": 0.9333333333333332
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.8,
+          "coverage": 0.9333333333333332
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.7,
+          "coverage": 0.8833333333333333
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 0.5,
+          "specificity": 0.25,
+          "quantification": 0.0,
+          "coverage": 0.25
+        },
+        "run2": {
+          "presence": 0.55,
+          "specificity": 0.3,
+          "quantification": 0.1,
+          "coverage": 0.3166666666666667
+        },
+        "run3": {
+          "presence": 0.5,
+          "specificity": 0.35,
+          "quantification": 0.1,
+          "coverage": 0.31666666666666665
+        }
+      }
+    },
+    "Westpac_2023_ClimateReport": {
+      "data_security": {
+        "run1": {
+          "presence": 0.0,
+          "specificity": 0.0,
+          "quantification": 0.0,
+          "coverage": 0.0
+        },
+        "run2": {
+          "presence": 0.25,
+          "specificity": 0.1,
+          "quantification": 0.05,
+          "coverage": 0.13333333333333333
+        },
+        "run3": {
+          "presence": 0.3,
+          "specificity": 0.15,
+          "quantification": 0.05,
+          "coverage": 0.16666666666666666
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 0.25,
+          "specificity": 0.25,
+          "quantification": 0.0,
+          "coverage": 0.16666666666666666
+        },
+        "run2": {
+          "presence": 0.55,
+          "specificity": 0.3,
+          "quantification": 0.2,
+          "coverage": 0.35000000000000003
+        },
+        "run3": {
+          "presence": 0.6,
+          "specificity": 0.35,
+          "quantification": 0.15,
+          "coverage": 0.36666666666666664
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.5,
+          "coverage": 0.8166666666666668
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.9,
+          "quantification": 0.45,
+          "coverage": 0.7833333333333333
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.9,
+          "coverage": 0.9666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.95,
+          "coverage": 0.9666666666666667
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 0.25,
+          "specificity": 0.25,
+          "quantification": 0.0,
+          "coverage": 0.16666666666666666
+        },
+        "run2": {
+          "presence": 0.25,
+          "specificity": 0.1,
+          "quantification": 0.1,
+          "coverage": 0.15
+        },
+        "run3": {
+          "presence": 0.3,
+          "specificity": 0.15,
+          "quantification": 0.05,
+          "coverage": 0.16666666666666666
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.85,
+          "coverage": 0.9333333333333332
+        }
+      }
+    },
+    "NAB_2022_ClimateReport": {
+      "data_security": {
+        "run1": {
+          "presence": 0.0,
+          "specificity": 0.0,
+          "quantification": 0.0,
+          "coverage": 0.0
+        },
+        "run2": {
+          "presence": 0.45,
+          "specificity": 0.1,
+          "quantification": 0.05,
+          "coverage": 0.20000000000000004
+        },
+        "run3": {
+          "presence": 0.5,
+          "specificity": 0.15,
+          "quantification": 0.05,
+          "coverage": 0.23333333333333336
+        }
+      },
+      "financial_inclusion": {
+        "run1": {
+          "presence": 0.25,
+          "specificity": 0.25,
+          "quantification": 0.0,
+          "coverage": 0.16666666666666666
+        },
+        "run2": {
+          "presence": 0.55,
+          "specificity": 0.2,
+          "quantification": 0.1,
+          "coverage": 0.2833333333333333
+        },
+        "run3": {
+          "presence": 0.45,
+          "specificity": 0.2,
+          "quantification": 0.15,
+          "coverage": 0.26666666666666666
+        }
+      },
+      "esg_credit_analysis": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.5,
+          "coverage": 0.8333333333333334
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.9,
+          "quantification": 0.4,
+          "coverage": 0.7666666666666666
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.8,
+          "quantification": 0.45,
+          "coverage": 0.75
+        }
+      },
+      "financed_emissions": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 1.0,
+          "coverage": 1.0
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.9,
+          "coverage": 0.9666666666666667
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.95,
+          "coverage": 0.9666666666666667
+        }
+      },
+      "business_ethics": {
+        "run1": {
+          "presence": 0.25,
+          "specificity": 0.25,
+          "quantification": 0.0,
+          "coverage": 0.16666666666666666
+        },
+        "run2": {
+          "presence": 0.25,
+          "specificity": 0.1,
+          "quantification": 0.1,
+          "coverage": 0.15
+        },
+        "run3": {
+          "presence": 0.3,
+          "specificity": 0.15,
+          "quantification": 0.05,
+          "coverage": 0.16666666666666666
+        }
+      },
+      "systemic_risk": {
+        "run1": {
+          "presence": 1.0,
+          "specificity": 1.0,
+          "quantification": 0.75,
+          "coverage": 0.9166666666666666
+        },
+        "run2": {
+          "presence": 1.0,
+          "specificity": 0.85,
+          "quantification": 0.65,
+          "coverage": 0.8333333333333334
+        },
+        "run3": {
+          "presence": 1.0,
+          "specificity": 0.95,
+          "quantification": 0.55,
+          "coverage": 0.8333333333333334
+        }
+      }
+    }
+  }
+}

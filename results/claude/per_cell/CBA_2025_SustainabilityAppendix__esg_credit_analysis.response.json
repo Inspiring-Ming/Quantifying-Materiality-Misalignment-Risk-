@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-410a.2 (description of approach to ESG factors in credit analysis). Equator Principles disclosure with specific transaction count this year. Updated E&S Framework and reviewed E&S Policy this year.",
+  "specificity_rationale": "Names E&S Framework (updated this year), Group E&S Policy (settings reviewed), business unit-specific ESG procedures, ESG risk assessment tool, Client Transition Plan assessments and criteria (extended to thermal coal clients this year), Equator Principles framework, Modern Slavery Statement, Human Rights of First Nations Stakeholder Grievance Process Framework. Climate disclosures section embedded in Annual Report (preparing for mandatory reporting from 2026).",
+  "quantification_rationale": "Reports 13 EP project finance transactions reaching financial close in year ending Dec 2024, 0 EP project-related corporate loans or refinance reaching financial close (defensible negative disclosure). However, SASB FN-CB-410a.1 (commercial and industrial credit exposure by industry) is pointed to in Annual Report (pp. 162-163) but not in retrieved chunks here.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0062",
+    "CBA_2025_SustainabilityAppendix#chunk_0063",
+    "CBA_2025_SustainabilityAppendix#chunk_0048",
+    "CBA_2025_SustainabilityAppendix#chunk_0010"
+  ]
+}

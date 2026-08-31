@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive systemic-risk disclosure: 1-in-100-year flood scenario incorporated into 2025 ICAAP impacting South-East QLD and North-East NSW homeowners. BNZ included climate events in its enterprise-wide macro stress testing program. ICAAP integration of climate scenarios is direct SASB FN-CB-550a.2 evidence.",
+  "specificity_rationale": "Names ICAAP (Internal Capital Adequacy Assessment Process), 1-in-100-yr flood scenario design (under-insured/non-insured owner-occupier), HomeID + FarmID + Commercial-ID tools using RCP4.5 and RCP8.5 forecasts to 2050. Proof-of-concept transition risk scenario tested in 2025. RBNZ 2023 Climate Stress Test results published. Cyclone Alfred case study (most widespread NAB business disruption since 2023 Auckland weather events).",
+  "quantification_rationale": "Reports flood scenario quantitatively applied to mortgage portfolio (loan-to-value, insurance coverage, owner-occupied vs investment property factors) — additional credit losses 'not considered financially material to NAB'. 1-in-X-year event severity ranges 1, 5, 20, 25, 50, 100, 200, 250, 500, 1000 years. SASB FN-CB-550a.1 (G-SIB score) not in retrieved chunks. SASB FN-CB-550a.2 substantively covered through ICAAP integration with BNZ continuing in 2026.",
+  "citations": [
+    "NAB_2025_ClimateReport#chunk_0130",
+    "NAB_2025_ClimateReport#chunk_0129",
+    "NAB_2025_ClimateReport#chunk_0026",
+    "NAB_2025_ClimateReport#chunk_0128",
+    "NAB_2025_ClimateReport#chunk_0132"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "Topic addressed via Climate and Environment Strategy (Board-approved Oct 2024) with explicit 'Transitioning our lending portfolio to net-zero financed emissions' as one of three core ambitions. Pointer to companion 2024 Climate-related Financial Disclosures document.",
+  "specificity_rationale": "Strategy framework named (three-ambition Climate Strategy with divisional action plans starting 2025: Institutional, Commercial, Retail, NZ). Glossary of Net-zero, Sectoral pathways, Paris Agreement, Transition plan. KPMG provides reasonable assurance over operational Scope 1/2/3 — but the SASB FN-CB-410b focus (financed emissions) is mostly deferred to the Climate-related Financial Disclosures, not this supplement.",
+  "quantification_rationale": "Operational targets quantified (Scope 1+2 80% reduction since 2015, 57% renewable electricity in 2024 — short of 100% target). However, the SASB FN-CB-410b metrics (absolute Scope 1/2/3 financed emissions, gross exposure by industry, % covered, methodology) are NOT in retrieved evidence — they live in the separate 2024 Climate-related Financial Disclosures and Financed Emissions Methodology documents.",
+  "citations": [
+    "ANZ_2024_ESGSupplement#chunk_0274",
+    "ANZ_2024_ESGSupplement#chunk_0084",
+    "ANZ_2024_ESGSupplement#chunk_0010",
+    "ANZ_2024_ESGSupplement#chunk_0082",
+    "ANZ_2024_ESGSupplement#chunk_0061"
+  ]
+}

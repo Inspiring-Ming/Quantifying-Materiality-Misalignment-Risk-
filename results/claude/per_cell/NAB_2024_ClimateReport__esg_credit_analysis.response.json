@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Substantive ESG risk integration into credit framework. Sustainability risk material risk category (since Oct 2021). Detailed ESG-related policy settings for coal/oil and gas/metallurgical coal with explicit caps and transition timelines. Just-transition principles updated for 2024.",
+  "specificity_rationale": "Names Enterprise Risk Taxonomy, Risk Appetite Framework and Group Risk Appetite Statement (annually reviewed; 2024 included climate tolerance review), High Risk ESG Sectors and Sensitive Areas list, GCMRC oversight, Customer Transition Plan assessment framework (1 Oct 2025 implementation date with external review completed Aug 2024), Women in Sustainable Finance panel, UN GCNA Uniting Business Live Conference, Australia just-transition policy submissions.",
+  "quantification_rationale": "Reports thermal coal mining EAD cap at 2019 levels, 50% reduction by 2026, effectively zero by 2030. Oil and gas EAD cap USD$2.28bn (revised down from USD$2.4bn after RCF impact). Sept-2024 thermal coal EAD: rehabilitation guarantees 59% of remaining exposure. Sector-specific ESG policy settings substantively quantified. SASB FN-CB-410a.1 partially covered through ESG sector tolerances.",
+  "citations": [
+    "NAB_2024_ClimateReport#chunk_0098",
+    "NAB_2024_ClimateReport#chunk_0127",
+    "NAB_2024_ClimateReport#chunk_0097",
+    "NAB_2024_ClimateReport#chunk_0099",
+    "NAB_2024_ClimateReport#chunk_0065"
+  ]
+}

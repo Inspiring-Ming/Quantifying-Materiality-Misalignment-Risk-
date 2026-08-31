@@ -1,0 +1,15 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Climate-only report. Substantive customer-engagement coverage in NZ Dairy + Beef and Sheep agricultural targets, Westpac Sustainable Farm Loan, Drought Assistance Package for agribusinesses, specialist hardship support teams. Just-transition references.",
+  "specificity_rationale": "Names Westpac Sustainable Farm Loan (with emissions reduction plan component, in NZ), Drought Assistance Package, specialist hardship teams, Westpac Sustainable Upgrades home and investor loans (CEFC-supported), Westpac Sustainable Equipment Finance Loan in NZ, Indigenous Acknowledgement and Te Tiriti o Waitangi.",
+  "quantification_rationale": "Climate-only context. Sector-target context (10% Dairy reduction etc.) referenced but no SASB FN-CB-240a metrics in retrieved chunks (number of literacy participants, no-cost accounts, small-business loans).",
+  "citations": [
+    "Westpac_2024_ClimateReport#chunk_0143",
+    "Westpac_2024_ClimateReport#chunk_0002",
+    "Westpac_2024_ClimateReport#chunk_0032",
+    "Westpac_2024_ClimateReport#chunk_0181",
+    "Westpac_2024_ClimateReport#chunk_0288"
+  ]
+}

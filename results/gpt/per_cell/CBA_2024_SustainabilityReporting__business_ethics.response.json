@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "The evidence clearly addresses whistleblower policy and reporting procedures via SpeakUP, the Group Whistleblower Policy, and related governance reporting. It also touches on financial crime controls and fraud/scam prevention, which are adjacent to business ethics. However, it does not show disclosure on legal proceedings for fraud, insider trading, antitrust, or market manipulation.",
+  "specificity_rationale": "The disclosure gives some procedural detail: whistleblowers can raise concerns, the Audit Committee and an executive committee receive periodic reporting, and no grievances were raised through one process this year. That is substantive for the whistleblower metric, but it does not provide the broader business-ethics context or corrective actions expected for a high score.",
+  "quantification_rationale": "There are some numbers, including 331 SpeakUP reports and 65 considered within whistleblower cases, but the SASB-required monetary losses from legal proceedings are absent. No dollar amount is given for fraud, insider trading, antitrust, or related matters, so quantification remains low.",
+  "citations": ["CBA_2024_SustainabilityReporting#chunk_0081", "CBA_2024_SustainabilityReporting#chunk_0082", "CBA_2024_SustainabilityReporting#chunk_0043"]
+}

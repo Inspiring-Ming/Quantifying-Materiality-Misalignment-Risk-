@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly addresses ESG in credit analysis through an ESG Risk Assessment tool, ESG Credit Risk Policy, and ESG assessments for commercial and institutional lending. It discusses lending eligibility, escalation, and how ESG risks affect financing decisions, so the topic is fully present.",
+  "specificity_rationale": "The disclosure is substantive and operational. It names the policy framework, describes when assessments occur, identifies responsible teams and committees, and explains how ESG ratings affect credit decisions and escalation. This meets the standard’s expectations for governance, oversight, and integration into creditworthiness assessment.",
+  "quantification_rationale": "The report includes several figures and targets, such as over 9,000 ESG assessments, more than 400 customers reviewed, and zero lending to thermal coal by 30 September 2025. However, it does not provide the SASB-required industry-by-industry commercial and industrial credit exposure breakdown, so quantification is meaningful but incomplete.",
+  "citations": ["Westpac_2025_SustainabilityReport#chunk_0122", "Westpac_2025_SustainabilityReport#chunk_0123", "Westpac_2025_SustainabilityReport#chunk_0193", "Westpac_2025_SustainabilityReport#chunk_0039", "Westpac_2025_SustainabilityReport#chunk_0048"]
+}

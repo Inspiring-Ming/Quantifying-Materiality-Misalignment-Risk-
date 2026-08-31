@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Substantive financed-emissions disclosure: emissions intensity assessment for business lending portfolio in seventh year, sector-by-sector emissions intensity table, glidepath methodology for thermal coal mining / upstream oil / upstream gas / power generation, $70bn 2030 sustainability funding target. Strong coverage.",
+  "specificity_rationale": "Names PCAF-style methodology (seventh annual iteration), Monash University partnership, 4 NGFS scenarios (incl. APRA CVA scenarios), 5-step glidepath embedding process explained, IEA SDS 2020 reference scenario, sector-level glidepaths for 4 priority sectors, ELT E&S Committee oversight, Climate Active carbon-neutral certification, Toitū Carbon Zero NZ. Methodology evolution (removed guarantees, updated agriculture and transport sources) explicitly documented.",
+  "quantification_rationale": "Reports the SASB FN-CB-410b metrics with detail: business-lending emissions intensity 0.22 kgCO2-e/$AUD client expenditure (FY20), per-sector intensity (Agriculture 2.0, Electricity gas water 1.5, Transport, Property, NZ ops). Group operational Scope 1+2 trajectory FY14-FY21 charted. 42% Scope 1+2 reduction target by 2030. 25% upstream Scope 3 reduction target. $5.4bn → $6.4bn Low Carbon Funding progress. $70bn cumulative 2030 target. Renewable PV 1,705kW. SASB FN-CB-410b.1, .2, .3, .4 substantively covered.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0005",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0011",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0042",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0045",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0046"
+  ]
+}

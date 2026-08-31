@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "Substantive 'Scams on the Rise' / 'Safer Children, Safer Communities' / privacy sections. Westpac Vulnerable Customer support framework, dynamic 3-digit CVV digital cards, security wellbeing checks, scams assist team.",
+  "specificity_rationale": "Names Scams Assist team, dynamic 3-digit CVV digital cards, security wellbeing check, Safe and Secure Guide, Scam Safety Score Quiz, Scam Awareness and Prevention Seminars, Safer Children Safer Communities program (3-year $30M+ commitment, $9.2M committed to 26 organisations), $25M cross-industry data sharing grant. Privacy and child-safety due diligence exercise undertaken.",
+  "quantification_rationale": "Reports $46K saved in case study, $16M averted in potential additional fraud through digital channels, $12.1M Safer Children Safer Communities funding, 33,400+ vulnerability cases assisted, 30,000+ gambling-block cards. SASB FN-CB-230a.1 metric (number of breaches, % personal data, customers affected) not directly disclosed in retrieved chunks (likely in separate datasheet).",
+  "citations": [
+    "Westpac_2021_SustainabilitySupplement#chunk_0051",
+    "Westpac_2021_SustainabilitySupplement#chunk_0053",
+    "Westpac_2021_SustainabilitySupplement#chunk_0173",
+    "Westpac_2021_SustainabilitySupplement#chunk_0035"
+  ]
+}

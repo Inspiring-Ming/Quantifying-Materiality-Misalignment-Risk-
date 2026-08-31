@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.25,
+  "presence_rationale": "The report clearly addresses financial inclusion for underserved communities through Indigenous banking services, remote outreach, call-centre support, workshops, and improved banking accessibility for Indigenous and remote Australians. It also frames these efforts as part of a broader strategy to serve communities and improve economic participation. However, it is centered on Indigenous access rather than the full SASB topic set.",
+  "specificity_rationale": "Disclosure is substantive and describes concrete programs: remote visits, one-on-one demonstrations, workshops, mobile/online banking help, Indigenous Connections, and Jawun secondees. It also links activities to better banking experiences and economic participation. Still, it does not explain a detailed product-design feedback loop or cover the full small-business/community-development lending framing required for the highest specificity.",
+  "quantification_rationale": "The report includes some numbers, such as 10,000+ Indigenous and remote Australians supported, 47 remote visits, 10 banking services, 30 secondees, and $8.8 million spent with Indigenous suppliers. But it does not provide the SASB-mandated metrics on loans outstanding, past due loans, no-cost accounts, or financial literacy participants, so quantification is limited.",
+  "citations": [
+    "Westpac_2022_SustainabilitySupplement#chunk_0046",
+    "Westpac_2022_SustainabilitySupplement#chunk_0055",
+    "Westpac_2022_SustainabilitySupplement#chunk_0057",
+    "Westpac_2022_SustainabilitySupplement#chunk_0015",
+    "Westpac_2022_SustainabilitySupplement#chunk_0013"
+  ]
+}

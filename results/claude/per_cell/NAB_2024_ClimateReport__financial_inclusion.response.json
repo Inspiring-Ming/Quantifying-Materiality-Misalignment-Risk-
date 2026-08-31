@@ -1,0 +1,14 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address ACCU prioritisation of Indigenous-led savanna burning projects, just-transition and regional economic resilience, NAB Foundation partnership with Australian Business Volunteers (regional pilot). Brief references to financial inclusion via climate-transition lens.",
+  "specificity_rationale": "Names NAB Foundation, Australian Business Volunteers, Climate Finance Asia just transition working group, Growald Climate Fund, Sumitomo Mitsui Banking Corporation. Indigenous-led savanna burning projects. Just-transition guiding principles. No specific MoneyMinded-equivalent or financial-inclusion programmes in retrieved chunks.",
+  "quantification_rationale": "Agriculture EAD $40bn / 9% of financed emissions noted. No SASB FN-CB-240a metrics in retrieved chunks.",
+  "citations": [
+    "NAB_2024_ClimateReport#chunk_0304",
+    "NAB_2024_ClimateReport#chunk_0062",
+    "NAB_2024_ClimateReport#chunk_0066",
+    "NAB_2024_ClimateReport#chunk_0178"
+  ]
+}

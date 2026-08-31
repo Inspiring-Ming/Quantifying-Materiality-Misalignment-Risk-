@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The report only touches adjacent themes like support for customers, affordable housing, customers experiencing vulnerability, and community initiatives, which loosely overlap with underserved-customer support. It does not directly discuss financial inclusion programs, small-business/community development lending, no-cost accounts, or financial literacy initiatives.",
+  "specificity_rationale": "The disclosure is high-level and climate/transition oriented. It mentions inclusive and fair transition, regional communities, and customer support categories, but provides no strategy, implementation detail, or linkage to financial inclusion product design. The topic is not addressed substantively.",
+  "quantification_rationale": "No SASB-relevant numbers are provided. There are no counts or amounts of qualifying loans, no-cost retail accounts, or financial literacy participants, and no past-due/nonaccrual loan figures tied to inclusion programs.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0062", "NAB_2024_ClimateReport#chunk_0091"]
+}

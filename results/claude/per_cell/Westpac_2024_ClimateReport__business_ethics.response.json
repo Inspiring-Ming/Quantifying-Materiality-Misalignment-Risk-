@@ -1,0 +1,15 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.25,
+  "presence_rationale": "Climate-only report with greenwashing/conduct risk explicitly addressed: 'Compliance and Conduct Risk' includes inaccurate sustainability credentials presentation (greenwashing) as risk factor. KPMG limited and reasonable assurance over selected metrics. Westpac Climate Reporting Methodology with PCAF data quality scores.",
+  "specificity_rationale": "Names ASAE 3000 / 3410 assurance standards, KPMG limited and reasonable assurance scopes, PCAF data quality score methodology, UNEP-FI Guidelines. Greenwashing risk explicitly framed in compliance and conduct risk register. References to broader operational and compliance risks integrated with climate.",
+  "quantification_rationale": "Specific KPMG-assured climate metrics disclosed (Power 0.20 tCO2-e/MWh, Cement 0.63, Oil&gas 5.1 MtCO2-e, Coal 0.47 MtCO2-e). However, no SASB FN-CB-510a.1 (monetary losses from legal proceedings) or 510a.2 (whistleblower) content in retrieved chunks (these live in Annual Report).",
+  "citations": [
+    "Westpac_2024_ClimateReport#chunk_0212",
+    "Westpac_2024_ClimateReport#chunk_0260",
+    "Westpac_2024_ClimateReport#chunk_0266",
+    "Westpac_2024_ClimateReport#chunk_0268",
+    "Westpac_2024_ClimateReport#chunk_0298"
+  ]
+}

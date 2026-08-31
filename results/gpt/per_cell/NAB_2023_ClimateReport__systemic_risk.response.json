@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.25,
+  "presence_rationale": "The report addresses stress testing and scenario analysis as part of risk management, which is related to systemic risk, but only in a climate-risk context. It does not discuss G-SIB/D-SIB status, capital adequacy planning, or resolution arrangements required for this SASB topic.",
+  "specificity_rationale": "The evidence gives some operational detail on climate scenario analysis, stress testing, and integration into risk appetite, training, and credit risk processes. However, it is not a substantive disclosure on systemic risk management under FN-CB-550a and omits the core banking stability elements.",
+  "quantification_rationale": "There are some numbers and time horizons in the climate scenarios, such as 2023 to 2050, 2030, 2050, and temperature/carbon-price ranges. But the required SASB metrics are absent: no G-SIB score, no CET1 or leverage ratios, and no stress-test-to-capital-planning quantification.",
+  "citations": ["NAB_2023_ClimateReport#chunk_0092", "NAB_2023_ClimateReport#chunk_0103", "NAB_2023_ClimateReport#chunk_0094", "NAB_2023_ClimateReport#chunk_0044", "NAB_2023_ClimateReport#chunk_0046"]
+}

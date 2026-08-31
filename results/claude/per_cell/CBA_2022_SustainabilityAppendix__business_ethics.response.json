@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "SASB Index explicitly addresses FN-CB-510a.1 (monetary losses from legal proceedings) and FN-CB-510a.2 (whistleblower policies). Plus Anti-Bribery and Anti-Corruption Policy, Code of Conduct, GRI 205-1 to 205-3 anti-corruption assessment, GRI 419-1 socioeconomic compliance. Also covers FN-MF-270b.1/.2/.3 discriminatory lending.",
+  "specificity_rationale": "Names CBA Anti Bribery and Corruption Policy, Code of Conduct, Whistleblower Policy adheres with ASIC Regulatory Guide 270, SpeakUP Programs, Group compliance training, Model Litigant Principles, customer remediation provisions, Remedial Action Plan, Response to APRA's Prudential Inquiry. Multiple substantive policy frameworks named.",
+  "quantification_rationale": "Reports SASB FN-CB-510a.1: pointer to 2022 Annual Report Notes 7.1 (pp. 191-195) for litigation/investigation/review monetary losses. SASB FN-CB-510a.2: 317 SpeakUP cases in FY21 of which 96 whistleblower cases. FN-MF-270b.2 monetary losses from discriminatory lending pointer. FN-CB-510a.2 substantively covered with explicit numbers. FN-CB-510a.1 pointer-only to detailed financial-statement notes.",
+  "citations": [
+    "CBA_2022_SustainabilityAppendix#chunk_0109",
+    "CBA_2022_SustainabilityAppendix#chunk_0108",
+    "CBA_2022_SustainabilityAppendix#chunk_0131",
+    "CBA_2022_SustainabilityAppendix#chunk_0089",
+    "CBA_2022_SustainabilityAppendix#chunk_0088"
+  ]
+}

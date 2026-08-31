@@ -1,0 +1,14 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.75,
+  "presence_rationale": "Group Whistleblower Policy named with explicit description, SpeakUP program with YoY tracking, Tax Transparency Code, modern slavery program, anti-corruption assessment area in ESG framework. Topic addressed.",
+  "specificity_rationale": "Names Group Whistleblower Policy, SpeakUP program (335 reports of which 123 whistleblower cases), Tax Transparency Code and Tax Policy Principles, Modern Slavery Statement (2018 Act), 1,000+ employees trained on modern slavery, modern slavery contract clause, supplier risk assessments, ESG training for institutional and business banking staff covering anti-corruption and governance. However, no detailed ABAC policy framework named, no AML/CTF programme detailed.",
+  "quantification_rationale": "Reports 335 SpeakUP reports (up from 284 prior year), 123 whistleblower cases, 1,000+ employees trained on modern slavery, $3bn+ Australian corporate income tax paid, political donations disclosed ($75K Labor, $75.08K Liberal, $11K National Party). YoY whistleblower trend. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not in retrieved evidence.",
+  "citations": [
+    "CBA_2021_AnnualReport_Sustainability#chunk_0072",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0064",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0070",
+    "CBA_2021_AnnualReport_Sustainability#chunk_0073"
+  ]
+}

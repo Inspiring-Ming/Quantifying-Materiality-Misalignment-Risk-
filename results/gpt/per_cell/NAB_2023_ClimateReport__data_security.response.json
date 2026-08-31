@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "The retrieved evidence does not address data security disclosures. It mentions sustainability governance and scam/fraud prevention in general, but no breach reporting, cyber risk management, or data privacy/security topic content.",
+  "specificity_rationale": "No substantive discussion of identifying or addressing data security risks appears in the evidence. There is no description of attack vectors, emerging cyber threats, regulatory environment, or response processes.",
+  "quantification_rationale": "The evidence contains no quantitative data security metrics: no number of breaches, no percentage of personal data breaches, and no number of affected account holders.",
+  "citations": []
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.0,
+  "presence_rationale": "The report explicitly addresses financed emissions through repeated references to “transitioning our lending portfolio to net zero financed emissions” and “Net-zero financed emissions.” It also frames this within the bank’s climate strategy and transition plan, so the topic is clearly present rather than incidental.",
+  "specificity_rationale": "The disclosure gives strategy-level detail: a board-approved five-year Climate and Environment Strategy, ambitions for lending portfolio transition, support for large business customers, and references to sectoral pathways and transition planning. However, it remains high-level and does not explain a financed-emissions methodology or provide operational detail on calculation choices.",
+  "quantification_rationale": "No absolute financed emissions figures are shown, and none of the required SASB quantitative elements appear: no Scope 1/2/3 financed emissions amounts, no gross exposure by industry or asset class, and no percentage of gross exposure covered by the calculation. The evidence is directional, not metric-based.",
+  "citations": ["ANZ_2024_ESGSupplement#chunk_0084", "ANZ_2024_ESGSupplement#chunk_0082", "ANZ_2024_ESGSupplement#chunk_0274"]
+}

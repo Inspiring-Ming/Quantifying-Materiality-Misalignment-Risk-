@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The report directly discusses Westpac's 'financed emissions' profile, including analysis of emissions attributable to customer loans and sector-level exposure implications. This is clearly the SASB topic, not an indirect or generic climate disclosure.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention: it explains that Westpac analyzed financed emissions across Australian business, institutional, and residential mortgage portfolios, identifies higher-intensity sectors, and relates findings to lending criteria and climate strategy. However, it does not provide a full methodology description or the full SASB metric set.",
+  "quantification_rationale": "There is meaningful quantification through sector exposure percentages and emissions-intensity figures, plus references to a financed emissions profile. But the evidence does not show absolute gross financed emissions by Scope 1/2/3, nor a clear % of gross exposure covered or a detailed PCAF methodology, so Q cannot be high.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0124", "Westpac_2021_SustainabilitySupplement#chunk_0139"]
+}

@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The report only touches business ethics tangentially through governance language about 'conduct findings' and 'scam and fraud prevention' in performance assessment. It does not present a dedicated business ethics section or directly discuss insider trading, antitrust, money laundering, or whistleblower arrangements. This is enough for minimal presence, but only barely.",
+  "specificity_rationale": "Disclosure is generic and governance-focused rather than topic-specific. It mentions conduct risk, fraud prevention, and that performance outcomes may be adjusted for sustainability and conduct, but gives no detail on ethics policies, reporting channels, investigations, or corrective actions. The evidence is limited and not substantive for SASB FN-CB-510a.",
+  "quantification_rationale": "No monetary losses from legal proceedings are disclosed, and no figures related to fraud, insider trading, antitrust, or similar matters appear. There are also no quantitative whistleblower metrics or policy implementation counts. The evidence contains only qualitative governance statements, so quantification is absent.",
+  "citations": ["NAB_2023_ClimateReport#chunk_0071"]
+}

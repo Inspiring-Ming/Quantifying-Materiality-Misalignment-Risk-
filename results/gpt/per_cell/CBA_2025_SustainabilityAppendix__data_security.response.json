@@ -1,0 +1,12 @@
+{
+  "presence": 1.0,
+  "specificity": 0.25,
+  "quantification": 0,
+  "presence_rationale": "The evidence explicitly covers SASB FN-CB-230a, stating that CBA reports notifiable data breaches and listing cyber security, privacy and data management as material risks. It also references actions on protecting customers from data breaches and security incidents, so the topic is clearly addressed.",
+  "specificity_rationale": "The disclosure is mostly an index cross-reference. It names the risk area and points to other documents for details, but the evidence shown does not explain the bank's cyber risk identification process, response controls, attack vectors, or regulatory environment in substantive terms.",
+  "quantification_rationale": "No actual FY25 breach count, percentage involving personal data, or number of affected account holders appears in the evidence. The text only says the bank is required to report notifiable breaches and refers the reader to other reports for the metric definition and details.",
+  "citations": [
+    "CBA_2025_SustainabilityAppendix#chunk_0056",
+    "CBA_2025_SustainabilityAppendix#chunk_0057"
+  ]
+}

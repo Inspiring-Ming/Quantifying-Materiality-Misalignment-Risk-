@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 1.0,
+  "presence_rationale": "Direct CET1 / leverage / capital adequacy disclosure in 'What we will be known for - Safe' section. NAB Pillar 3 Report describes risk approach, capital adequacy and liquidity. Full glossary of CET1, Tier 1, Tier 2 capital definitions per APS 111.",
+  "specificity_rationale": "Names APS 111 Capital Adequacy Measurement of Capital, NAB Pillar 3 Report, on-market $2.5bn buy-back to manage CET1 toward 10.75-11.25% target range, new governance/risk/compliance system replacing multiple in-use risk systems. Sustainability Risk defined as material risk category. Strong APRA-aligned capital framework disclosure.",
+  "quantification_rationale": "Reports SASB FN-CB-550a.1 directly (effectively): CET1 capital ratio 13.00% on APRA basis (17.95% internationally comparable basis). Leverage ratio 5.83%. CET1 target range 10.75-11.25%. $486M of $2.5bn buy-back completed since mid-Aug 2021. NAB is not a G-SIB but APRA Pillar 3 disclosure includes G-SIB indicators. SASB FN-CB-550a.1 (capital) substantively covered; FN-CB-550a.2 (stress test in capital planning) referenced via Pillar 3 pointer.",
+  "citations": [
+    "NAB_2021_AnnualReview#chunk_0214",
+    "NAB_2021_AnnualReview#chunk_0052",
+    "NAB_2021_AnnualReview#chunk_0218",
+    "NAB_2021_AnnualReview#chunk_0004",
+    "NAB_2021_AnnualReview#chunk_0003"
+  ]
+}

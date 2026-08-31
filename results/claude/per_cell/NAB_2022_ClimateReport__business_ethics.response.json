@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "Climate-only report. Retrieved chunks address climate-data limitations and operational emissions reporting under NGER Act / SECR. No business ethics, whistleblower, or ABAC content in retrieved evidence — correctly out-of-scope for a climate-focused report.",
+  "specificity_rationale": "No business ethics content in retrieved evidence. NGER Act and SECR are climate reporting frameworks, not ethics frameworks.",
+  "quantification_rationale": "No SASB FN-CB-510a metrics in retrieved evidence — climate-only report scope.",
+  "citations": []
+}

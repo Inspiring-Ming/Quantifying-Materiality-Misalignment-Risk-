@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.75,
+  "quantification": 0.5,
+  "presence_rationale": "The evidence directly discusses ESG/Sustainability risk in credit risk, including ESG assessments for Corporate and Institutional Banking customers, credit risk and due diligence, appetite settings, sector limits, and how ESG matters are escalated in governance. This clearly addresses incorporation of ESG factors into credit analysis, even though the report is climate-focused rather than a full FN-CB-410a disclosure.",
+  "specificity_rationale": "The report gives a substantive framework: risk definitions, RMF integration, governance bodies (ERCC, GCMRC, BRCC, Board), responsible oversight, and examples of how ESG affects lending decisions through due diligence and sector restrictions. However, it is narrower than the SASB topic because it focuses mainly on climate/high-risk sectors and does not fully describe a general ESG-in-credit methodology or accountability across all lending.",
+  "quantification_rationale": "There are concrete figures and targets for coal and oil/gas exposures, including caps, a 50% reduction goal by 2026, and a 2030 phaseout objective. But the evidence does not show the SASB-required industry-by-industry commercial and industrial credit exposure breakdown, and the numeric disclosures are sector-specific rather than a complete quantitative table for the topic.",
+  "citations": ["NAB_2024_ClimateReport#chunk_0097", "NAB_2024_ClimateReport#chunk_0098", "NAB_2024_ClimateReport#chunk_0099", "NAB_2024_ClimateReport#chunk_0127", "NAB_2024_ClimateReport#chunk_0065"]
+}

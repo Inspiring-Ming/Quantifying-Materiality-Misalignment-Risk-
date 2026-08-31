@@ -1,0 +1,9 @@
+{
+  "presence": 0,
+  "specificity": 0,
+  "quantification": 0,
+  "presence_rationale": "No evidence addresses data security, cyber risk identification, or breach incidents; the retrieved chunks focus on climate, emissions, and fraud/scams rather than FN-CB-230a.",
+  "specificity_rationale": "The excerpts do not describe any approach to identifying or responding to data security risks, emerging cyber threats, attack vectors, or the regulatory environment.",
+  "quantification_rationale": "No counts of data breaches, percentage of personal data breaches, or number of affected account holders are provided.",
+  "citations": []
+}

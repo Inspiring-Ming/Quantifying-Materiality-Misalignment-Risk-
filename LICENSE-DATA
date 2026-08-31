@@ -1,0 +1,44 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 [AUTHORS]
+
+The derived research data in this repository — data/, results/ and figures/ —
+is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+To cite:
+
+  [AUTHORS] ([YEAR]). [PAPER TITLE].
+  Technological Forecasting & Social Change. DOI: [ARTICLE DOI]
+
+  Accompanying dataset: MMRI-ESG-Banking. DOI: [ZENODO DOI]
+
+SCOPE AND EXCLUSIONS
+
+This licence covers the derived data produced by this study: extracted evidence
+chunks, model scores and rationales, MMRI values, robustness outputs, human
+annotations, and figures.
+
+It does NOT cover:
+
+1. The 20 source sustainability reports. These are not distributed here and
+   remain the copyright of ANZ, Commonwealth Bank of Australia, National
+   Australia Bank and Westpac respectively. data/report_metadata.csv records
+   the source URL and SHA-256 of each so they can be retrieved from the
+   publishers and verified.
+
+2. The SASB FN-CB Commercial Banks standard, © IFRS Foundation. Topic
+   summaries and metric descriptions appearing in data/sasb_topics.csv and
+   prompts/sasb_fncb_topics.json are quoted for research purposes under fair
+   dealing. The standard itself is not redistributed and remains subject to
+   IFRS Foundation terms.
+
+3. Verbatim report text quoted in data/retrieved_evidence.csv. These extracts
+   are reproduced as the evidence basis for the published scores, for the
+   purposes of research, verification and criticism. Copyright in the
+   underlying text remains with the respective banks.

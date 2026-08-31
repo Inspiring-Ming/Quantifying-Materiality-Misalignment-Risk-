@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Whistleblower Program with Audit Committee oversight, dedicated Combatting Financial Crime section, Code of Conduct with 'Should We?' test, AI Responsible Toolkit. Topic comprehensively addressed.",
+  "specificity_rationale": "Names Group Whistleblower Policy, SpeakUP service with Audit Committee + executive committee periodic reporting, Code of Conduct, Responsible AI Toolkit and Generative AI guides (CBA jointly ranked first amongst global banks for Responsible AI in Evident AI Index, sixth overall AI maturity), generative AI customer screening pilot, new cloud service unifying 8 investigation processes, Modern Slavery Advisory Council, Privacy Enforceable Undertaking with OAIC.",
+  "quantification_rationale": "Reports 331 SpeakUP reports (consistent with 2023) of which 65 whistleblower cases. 472 senior leaders completed culture training. 2,247 phishing sites taken down this year. Political donations disclosed ($60K Labor, $60K Liberal, $12K National). YoY whistleblower trend. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not in retrieved evidence chunks here.",
+  "citations": [
+    "CBA_2024_SustainabilityReporting#chunk_0031",
+    "CBA_2024_SustainabilityReporting#chunk_0081",
+    "CBA_2024_SustainabilityReporting#chunk_0082",
+    "CBA_2024_SustainabilityReporting#chunk_0029",
+    "CBA_2024_SustainabilityReporting#chunk_0043"
+  ]
+}

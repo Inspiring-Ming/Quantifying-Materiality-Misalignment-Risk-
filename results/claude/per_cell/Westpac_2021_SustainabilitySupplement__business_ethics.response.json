@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.75,
+  "presence_rationale": "Whistleblower reporting tracked, KPMG-assured selected sustainability metrics, Customer Outcomes and Risk Excellence (CORE) program, Safer Children Safer Communities financial-crime focus.",
+  "specificity_rationale": "Names CORE program (Customer Outcomes and Risk Excellence), Whistleblower reporting categorisation by reportable conduct categories, Safer Children Safer Communities program (financial crime / child protection), KPMG limited assurance over Whistleblower reporting + LTIFR + selected metrics. Stakeholder Advisory Council co-chaired by Westpac CEO + Ethics Centre Executive Director.",
+  "quantification_rationale": "Reports 186 whistleblower new concerns (vs 184 in 2020 / 278 in 2019). 33,429 vulnerability cases. Customer complaints YoY change tracked (Australia +33%, NZ -9%). KPMG-assured. Subject to comprehensive performance metrics list with 100+ indicators. SASB FN-CB-510a.1 (monetary losses from legal proceedings) not directly disclosed in retrieved chunks (likely in separate Datasheet); .2 substantively covered through Whistleblower reporting.",
+  "citations": [
+    "Westpac_2021_SustainabilitySupplement#chunk_0188",
+    "Westpac_2021_SustainabilitySupplement#chunk_0089",
+    "Westpac_2021_SustainabilitySupplement#chunk_0185",
+    "Westpac_2021_SustainabilitySupplement#chunk_0053",
+    "Westpac_2021_SustainabilitySupplement#chunk_0051"
+  ]
+}

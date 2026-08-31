@@ -1,0 +1,1247 @@
+{
+  "_file": "stage2_llm_coverage_scores.json",
+  "_purpose": "Per-cell LLM coverage scores (Stage 2). P/S/Q in {0, 0.25, 0.5, 0.75, 1.0} per the canonical scoring prompt v2.",
+  "_writes": "feeds Stage 3 MMRI aggregation",
+  "_n_reports_scored": 20,
+  "_n_cells_scored": 120,
+  "ANZ_2021_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    }
+  },
+  "ANZ_2022_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "ANZ_2023_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    }
+  },
+  "ANZ_2024_ESGSupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "ANZ_2025_ESGReport": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "CBA_2021_AnnualReport_Sustainability": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 1,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.75,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "CBA_2022_SustainabilityAppendix": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 4,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "CBA_2023_SustainabilityReporting": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 4,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 4,
+      "n_force_metric_chunks": 4,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "CBA_2024_SustainabilityReporting": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 4,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "CBA_2025_SustainabilityAppendix": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "NAB_2021_AnnualReview": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 2,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    }
+  },
+  "NAB_2022_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 1,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "NAB_2023_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 4,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 2,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "NAB_2024_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 3,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "NAB_2025_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 2,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "Westpac_2021_SustainabilitySupplement": {
+    "business_ethics": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 0.75,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    }
+  },
+  "Westpac_2022_SustainabilitySupplement": {
+    "business_ethics": {
+      "presence": 0.5,
+      "specificity": 0.25,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 0.75,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 1,
+      "n_evidence_chunks": 0,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "Westpac_2023_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 2,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 4,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 3,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 3,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  },
+  "Westpac_2024_ClimateReport": {
+    "business_ethics": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.0,
+      "specificity": 0.0,
+      "quantification": 0.0,
+      "a_i": 0,
+      "n_evidence_chunks": 0,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 1,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 0,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 0.75,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    }
+  },
+  "Westpac_2025_SustainabilityReport": {
+    "business_ethics": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.25,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "data_security": {
+      "presence": 0.25,
+      "specificity": 0.25,
+      "quantification": 0.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 1,
+      "n_ocr_chunks": 0
+    },
+    "esg_credit_analysis": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 0,
+      "n_ocr_chunks": 0
+    },
+    "financed_emissions": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "financial_inclusion": {
+      "presence": 0.5,
+      "specificity": 0.5,
+      "quantification": 0.5,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 0,
+      "n_table_chunks": 4,
+      "n_ocr_chunks": 0
+    },
+    "systemic_risk": {
+      "presence": 1.0,
+      "specificity": 1.0,
+      "quantification": 1.0,
+      "a_i": 1,
+      "n_evidence_chunks": 5,
+      "n_force_metric_chunks": 5,
+      "n_table_chunks": 2,
+      "n_ocr_chunks": 0
+    }
+  }
+}

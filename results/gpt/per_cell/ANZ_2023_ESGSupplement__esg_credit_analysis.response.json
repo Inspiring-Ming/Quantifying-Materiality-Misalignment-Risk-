@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.5,
+  "quantification": 0.0,
+  "presence_rationale": "The report clearly discusses ESG screening in project finance through the Equator Principles, environmental and social due diligence, and financing conditions tied to ESG risk management. However, it does not address the full SASB topic of ESG incorporation in broader credit analysis or provide industry-by-industry commercial and industrial credit exposure.",
+  "specificity_rationale": "The disclosure is moderately detailed: it names the Equator Principles, ANZ's Social and Environmental Risk Policy, due diligence steps, third-party advisers, monitoring, and how findings become financing conditions. Still, it is focused on project finance case studies rather than a bank-wide credit analysis framework with explicit accountability and oversight roles.",
+  "quantification_rationale": "No industry-by-industry credit exposure table or other required quantitative SASB metric appears in the evidence. The chunks mention project classifications such as A/B/C and specific deals, but not credit exposure by industry or quantified ESG-credit integration metrics.",
+  "citations": ["ANZ_2023_ESGSupplement#chunk_0157", "ANZ_2023_ESGSupplement#chunk_0158", "ANZ_2023_ESGSupplement#chunk_0159", "ANZ_2023_ESGSupplement#chunk_0160"]
+}

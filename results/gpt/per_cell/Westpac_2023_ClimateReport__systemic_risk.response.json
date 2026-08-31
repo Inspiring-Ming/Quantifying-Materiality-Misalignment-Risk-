@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The report discusses climate-related scenario analysis and stress testing in lending, including review processes and governance, which is related to risk management. However, it does not address systemic risk management as defined by SASB, nor does it mention G-SIB/D-SIB status, regulatory capital ratios, or recovery/resolution arrangements. It is only a partial thematic overlap.",
+  "specificity_rationale": "The disclosure gives some process detail: scenario analysis informs risk assessment over short, medium, and long term, transactions are escalated through CTREC, and methodology updates are planned. But the discussion is climate-risk specific and lacks the substantive systemic-risk framing, capital adequacy integration, and long-term strategy linkage required for a stronger score.",
+  "quantification_rationale": "No G-SIB score by category, no explicit non-designation statement, and no regulatory capital metrics such as CET1 or leverage ratios are provided. The excerpts also do not include quantified stress-test outcomes or recovery/resolution metrics. The only numbers shown are climate targets, which are not the SASB-required systemic risk metrics.",
+  "citations": ["Westpac_2023_ClimateReport#chunk_0160", "Westpac_2023_ClimateReport#chunk_0161"]
+}

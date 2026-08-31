@@ -1,0 +1,9 @@
+{
+  "presence": 0.75,
+  "specificity": 0.5,
+  "quantification": 0.5,
+  "presence_rationale": "The report clearly discusses stress testing, scenario analysis, and the Internal Capital Adequacy Assessment Process, including Board and senior executive reporting and capital impacts. That addresses the general topic of risk management and capital resilience, but the disclosure is framed around climate risk rather than explicit systemic-risk items such as G-SIB/D-SIB status, regulatory ratios, or recovery/resolution arrangements.",
+  "specificity_rationale": "The disclosure gives a substantive process description: stress tests feed into ICAAP, support capital holding decisions, and are used in board-level planning. It also outlines scenario types, horizons, and portfolio scope. However, it does not directly explain systemic-risk governance, capital adequacy planning for stress-test outcomes across the firm, or resolution planning in the way SASB expects.",
+  "quantification_rationale": "There are concrete numbers and ranges, including 3-year ICAAP, <5-year planning horizons, scenario time horizons to 2050, and assessed portfolio exposures such as ~$599b TCE and ~$547b TCE. Still, the evidence does not include the SASB-mandated quantitative items like G-SIB/D-SIB score or regulatory capital ratios, so quantification is partial.",
+  "citations": ["chunk_0194", "chunk_0171", "chunk_0552", "chunk_0062", "chunk_0065"]
+}

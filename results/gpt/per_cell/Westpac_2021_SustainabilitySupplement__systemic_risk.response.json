@@ -1,0 +1,9 @@
+{
+  "presence": 0.5,
+  "specificity": 0.25,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence touches risk governance and a regulator-led Climate Vulnerability Assessment, which is stress-test-like, but it does not directly discuss systemic risk management under FN-CB-550a. There is no explicit G-SIB/D-SIB discussion or recovery/resolution framing. The topic is only partially addressed through broader climate-risk governance language.",
+  "specificity_rationale": "The disclosure names APRA's Climate Vulnerability Assessment, says it considers physical and transition risks to 2050, and notes an Integrated Plan to strengthen risk governance. However, it gives little detail on how stress-test outputs feed into capital adequacy planning, strategy, or business activities, which is central to the SASB topic.",
+  "quantification_rationale": "No G-SIB score, capital ratios, stress-test results, or resolution/recovery metrics are provided. The only quantitative element is the APRA assessment horizon to 2050 and the fact that it involves Westpac plus four other banks, which is insufficient for FN-CB-550a quantification.",
+  "citations": ["Westpac_2021_SustainabilitySupplement#chunk_0043", "Westpac_2021_SustainabilitySupplement#chunk_0040", "Westpac_2021_SustainabilitySupplement#chunk_0097", "Westpac_2021_SustainabilitySupplement#chunk_0098", "Westpac_2021_SustainabilitySupplement#chunk_0117"]
+}

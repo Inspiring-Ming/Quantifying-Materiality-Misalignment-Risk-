@@ -1,0 +1,9 @@
+{
+  "presence": 0.25,
+  "specificity": 0.0,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence mentions related themes such as risk management, banking regulation, and operational resilience, but it does not actually discuss systemic risk management, capital adequacy, stress testing, or recovery/resolution arrangements. This is only a loose topical overlap, not a substantive disclosure of FN-CB-550a.",
+  "specificity_rationale": "No chunk describes how mandatory or voluntary stress test results are incorporated into capital adequacy planning, long-term strategy, or other business activities. The material is generic stakeholder/materiality commentary and culture/governance text, with no discussion of systemic risk controls or regulatory response.",
+  "quantification_rationale": "There are no disclosed G-SIB or D-SIB scores, no explicit non-designation statement, and no capital ratio metrics such as CET1 or leverage. The evidence also lacks any quantitative stress test outcomes or related capital planning numbers.",
+  "citations": ["CBA_2024_SustainabilityReporting#chunk_0008", "CBA_2024_SustainabilityReporting#chunk_0010", "CBA_2024_SustainabilityReporting#chunk_0014", "CBA_2024_SustainabilityReporting#chunk_0075"]
+}

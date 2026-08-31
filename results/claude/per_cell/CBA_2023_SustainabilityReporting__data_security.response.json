@@ -1,0 +1,15 @@
+{
+  "presence": 1.0,
+  "specificity": 1.0,
+  "quantification": 0.5,
+  "presence_rationale": "Dedicated 'Safeguarding our information' / 'Cyber security' / 'Data privacy' subsections with explicit policy framework, training programme, regulatory engagement.",
+  "specificity_rationale": "Names CBA Information Security Policy Framework, Information Security Identity and Access Management Standard, Data Loss Prevention, Group Privacy Policy/Standard/Procedures, ISO27001/27002, APRA CPS 234, NIST Cyber Security Framework, ACSC Essential Eight, Privacy Act 1988. APRA tripartite CPS 234 assessment as one of nine pilot entities. Two external reviews of cyber program against international benchmarks. Mandatory annual privacy training with disciplinary consequences.",
+  "quantification_rationale": "Reports 'no adverse findings specific to cyber security for CBA' from APRA Resilience Prudential Review, 190 average monthly phishing sites taken down. No SASB FN-CB-230a.1 metric (number of breaches, % personal data, customers affected) directly disclosed in retrieved chunks. Operational cyber metrics partial.",
+  "citations": [
+    "CBA_2023_SustainabilityReporting#chunk_0043",
+    "CBA_2023_SustainabilityReporting#chunk_0047",
+    "CBA_2023_SustainabilityReporting#chunk_0030",
+    "CBA_2023_SustainabilityReporting#chunk_0045",
+    "CBA_2023_SustainabilityReporting#chunk_0046"
+  ]
+}

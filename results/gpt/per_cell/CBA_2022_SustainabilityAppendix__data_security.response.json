@@ -1,0 +1,9 @@
+{
+  "presence": 1.0,
+  "specificity": 0.5,
+  "quantification": 0.0,
+  "presence_rationale": "The evidence explicitly includes the SASB Data Security topic (FN-CB-230a) and both required disclosures: the quantitative breach metric and the discussion of how CBA identifies and addresses data security risks. This is clearly on-topic and directly responsive to the SASB standard.",
+  "specificity_rationale": "The disclosure goes beyond a passing mention by naming cybersecurity, privacy, and data management as material risks and pointing to privacy statements, secure information classification standards, and code of conduct expectations. However, it remains high-level and mostly refers the reader to other documents rather than explaining controls, processes, or threat response in detail.",
+  "quantification_rationale": "No actual year-specific figures are shown for number of data breaches, percentage involving personal data, or number of account holders affected. The excerpt only says CBA reports notifiable breaches and refers to other documents for the number, so the quantitative SASB metric is not evidenced here.",
+  "citations": ["CBA_2022_SustainabilityAppendix#chunk_0096", "CBA_2022_SustainabilityAppendix#chunk_0097"]
+}
