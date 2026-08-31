@@ -2,6 +2,8 @@
 
 Reproducibility materials for **"[PAPER TITLE]"**, submitted to *Technological Forecasting & Social Change*.
 
+**Project page → https://inspiring-ming.github.io/Quantifying-Materiality-Misalignment-Risk-/**
+
 This repository contains the derived research data, model outputs, prompts, and
 analysis code behind the Materiality Misalignment Risk Index (MMRI): a
 benchmark-based, LLM-assisted measure of the gap between what a bank's
