@@ -52,15 +52,36 @@ python3 scripts/verify_repo.py        # expect 21/21, and no blank-URL note
 
 ---
 
-## Step 2 — Build the archive (~1 min)
+## Step 2 — Build the anonymized package (~1 min)
+
+Do **not** deposit the working repository. Its README and project page carry the
+GitHub account name, which would identify you to reviewers. Build the anonymized
+copy instead:
 
 ```bash
 git add -A && git commit -m "Add source URLs and access dates for the corpus"
-git archive --format=zip --prefix=MMRI-ESG-Banking-v1.0.0/ \
-  -o ~/Downloads/MMRI-ESG-Banking-v1.0.0.zip HEAD
+python3 scripts/build_review_package.py
 ```
 
-~2.1 MB. This is what you upload.
+This copies the research package, rewrites the README for anonymous review, sets
+the licence and citation metadata to withheld, drops the project site and the
+internal workflow notes, and then **refuses to produce the archive** if any
+identifying string survives. It builds from the working tree, so no git history
+is carried across.
+
+Output: `review-package.zip` (~1.1 MB). Verify it yourself before uploading:
+
+```bash
+grep -ri "inspiring-ming\|mingqin\|github" review-package/   # expect no matches
+```
+
+All data, results, prompts, figures, scripts, and the data dictionary, corpus,
+environment and known-issues notes are kept unchanged. The package still passes
+its own self-check:
+
+```bash
+cd review-package && python3 scripts/verify_repo.py   # expect 21/21
+```
 
 ---
 
@@ -69,7 +90,7 @@ git archive --format=zip --prefix=MMRI-ESG-Banking-v1.0.0/ \
 Sign in at <https://zenodo.org> (ORCID or GitHub login both work), then
 **New upload**.
 
-**Upload the ZIP by drag-and-drop. Do not connect the GitHub integration** — it
+**Upload `review-package.zip` by drag-and-drop. Do not connect the GitHub integration** — it
 would name the repository, and therefore your account, in a record that is meant
 to be anonymous during review. Link the repository after acceptance.
 

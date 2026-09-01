@@ -20,3 +20,7 @@ Thumbs.db
 
 # Working file for filling in source URLs (scripts/build_url_sheet.py)
 url_sheet.csv
+
+# Anonymized deposit build (scripts/build_review_package.py)
+review-package/
+review-package.zip
