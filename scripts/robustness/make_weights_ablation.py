@@ -186,12 +186,19 @@ def main() -> None:
                   for t in TOPICS}
     assert abs(sum(w_severity.values()) - 1.0) < 1e-9
 
-    # inverse-coverage: weights proportional to (1 - mean_coverage_i)
+    # inverse-coverage: weights proportional to (1 - mean_coverage_i).
+    #
+    # The mean is taken over APPLICABLE cells only (a_i = 1). Averaging over
+    # every report would let the three topics excluded from climate-only
+    # reports carry those reports' scores into the topic mean, depressing
+    # their apparent coverage and inflating their weight — the opposite of
+    # what the applicability indicator is for.
     mean_cov_by_topic = {
         t: float(np.mean([
             (scores[rid][t]["presence"] + scores[rid][t]["specificity"]
              + scores[rid][t]["quantification"]) / 3.0
             for rid in report_ids
+            if int(scores[rid][t].get("a_i", 1)) == 1
         ]))
         for t in TOPICS
     }

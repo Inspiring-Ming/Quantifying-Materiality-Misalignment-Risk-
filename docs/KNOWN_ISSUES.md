@@ -145,3 +145,31 @@ The scores describe the version whose checksum is recorded in
 `data/report_metadata.csv`. This is exactly the drift that recording checksums
 is meant to make visible: without them, a reproduction attempt would silently
 analyse a different file.
+
+## 9. Inverse-coverage weights are computed over applicable cells only
+
+The inverse-coverage weighting scheme in the topic-weight ablation sets
+`w_i` proportional to `1 - mean(C_i)`, so under-disclosed topics carry more
+weight. That mean is taken over **applicable cells only** (`a_i = 1`).
+
+An earlier version of the analysis averaged over all 20 reports regardless of
+applicability. That let the three topics excluded from climate-only reports
+inherit those reports' scores, depressing their apparent coverage and inflating
+their weight — the opposite of what the applicability indicator exists to do,
+and inconsistent with how `a_i` is applied everywhere else in the pipeline.
+
+The correction changes the weights materially:
+
+| Topic | uncorrected | corrected |
+|---|---|---|
+| Data security | 0.2767 | 0.2257 |
+| Financial inclusion | 0.1723 | 0.0913 |
+| ESG in credit analysis | 0.0971 | 0.1505 |
+| Financed emissions | 0.0850 | 0.1316 |
+| Business ethics | 0.2039 | 0.1451 |
+| Systemic risk | 0.1650 | 0.2558 |
+
+The robustness conclusion is unaffected and in fact strengthens: rank
+correlation against the equal-weight baseline rises from Spearman
+rho = 0.949 to rho = 0.979. The equal-weight and severity-weighted arms are
+unchanged, as is the entire alpha/beta/gamma ablation.
