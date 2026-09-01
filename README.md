@@ -125,9 +125,10 @@ and builds the score tables and audit log. That is how the same prompt was run
 against both Claude and GPT.
 
 Steps 1–3 and 5 are deterministic. Step 4 is not — re-scoring will not reproduce
-the released scores exactly. The observed run-to-run spread is σ_mean = 0.033 per
-report over 3 runs (`results/robustness/stability_kruns_summary.csv`). To
-reproduce the *published* numbers, use the released scores in `results/`.
+the released scores exactly. Scoring the same evidence three times over a
+stratified subset of six reports gives a mean per-report spread of
+σ = 0.033 (`results/robustness/stability_kruns_summary.csv`). To reproduce the
+*published* numbers, use the released scores in `results/`.
 
 ## How the index works
 

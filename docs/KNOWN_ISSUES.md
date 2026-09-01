@@ -56,9 +56,11 @@ This is a real limitation of the study, not a defect in the data.
 
 ## 4. Re-scoring will not reproduce the released scores exactly
 
-Stage 2 calls an LLM, so it is not deterministic. Across 3 repeat runs the
-per-report MMRI standard deviation averages 0.033
-(`results/robustness/stability_kruns_summary.csv`).
+Stage 2 calls an LLM, so it is not deterministic. Scoring the same evidence
+three times over a stratified subset of six reports gives a mean per-report MMRI
+standard deviation of 0.033, ranging from 0.010 to 0.080 across those reports
+(`results/robustness/stability_kruns_summary.csv`). The subset spans the
+observed range of misalignment; the full corpus was not re-scored.
 
 Stages 1.1, 1.2 and 3 *are* deterministic: given the same PDFs you will get the
 same chunks, the same retrieved evidence and — from the released scores — the
