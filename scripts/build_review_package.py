@@ -45,6 +45,9 @@ EXCLUDE_FILES = {
     # package. This file necessarily lists the identifying terms it screens for.
     "scripts/build_review_package.py",
     "scripts/build_url_sheet.py",
+    # Scratch file used to collect the source URLs; its contents are already
+    # merged into data/report_metadata.csv.
+    "url_sheet.csv",
 }
 EXCLUDE_DIRS = {".git", "docs/img", "review-package", "__pycache__", ".venv"}
 
