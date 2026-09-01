@@ -100,3 +100,46 @@ interleaves text from adjacent columns within a chunk, which is visible in a few
 `text` values in `data/retrieved_evidence.csv`. The scoring models were shown
 this same text, so it is released exactly as scored rather than cleaned after the
 fact.
+
+## 8. Eight source URLs do not checksum-match the scored file
+
+Running `scripts/fetch_reports.py` reports 12 exact matches and 8 mismatches.
+Both categories are expected and are documented here rather than papered over by
+editing the recorded checksums. **The checksum records the file that was
+actually analysed**, which is the point of recording it.
+
+### 8a. CBA: page extracts from the Annual Report (5 reports)
+
+CBA does not publish a standalone sustainability document for these years; the
+sustainability content sits inside the Annual Report. The scored file is the
+relevant page range, extracted from the full report:
+
+| Report | Pages scored | Full Annual Report |
+|---|---|---|
+| CBA 2021 | 11 | 157 |
+| CBA 2022 | 37 | 155 |
+| CBA 2023 | 11 | 155 |
+| CBA 2024 | 14 | 167 |
+| CBA 2025 | 30 | 229 |
+
+`source_url` points at the complete Annual Report, which is the citable
+published document. Two of the source PDFs state the range in their own embedded
+title — CBA 2023 as "pages 18-39 of Annual Report" and CBA 2024 as "pages 20-47
+of the Annual Report".
+
+To reproduce: download the Annual Report from `source_url` and extract the
+sustainability section. The recorded SHA-256 is of the extract, so it will not
+match the full report.
+
+### 8b. Silently re-published files (3 reports)
+
+ANZ 2022, Westpac 2022 and Westpac 2023 now serve a different file at the same
+URL. The page counts are unchanged (99, 24 and 116 respectively), so these are
+the same documents re-saved by the publisher rather than different editions —
+ANZ's current file identifies itself as "Accessible ANZ 2022 ESG Supplement", an
+accessibility re-release.
+
+The scores describe the version whose checksum is recorded in
+`data/report_metadata.csv`. This is exactly the drift that recording checksums
+is meant to make visible: without them, a reproduction attempt would silently
+analyse a different file.
